@@ -2198,3 +2198,4 @@ Fixing bug dimana aplikasi gak bisa handle input data dalam jumlah yang sangat b
 Fixing bug dimana aplikasi gak bisa nampilin data yang diproses secara paralel dengan benar (2026-03-15 05:30:51)
 Benerin bug di bagian verifikasi recaptcha (2026-03-15 05:30:52)
 Nambahin fitur filter berdasarkan kriteria yang sangat sederhana namun mampu membantu user menemukan informasi yang mereka butuhkan dengan sangat cepat dan tepat sasaran tanpa harus membuang banyak waktu berharga yang dimiliki user (2026-03-15 05:30:55)
+Fixing bug dimana notifikasi gak masuk (2026-03-15 05:31:51)
