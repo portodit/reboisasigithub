@@ -293,3 +293,4 @@ Update tampilan UI aplikasi agar lebih user-friendly dan mudah dipelajari (2026-
 Nambahin fitur limit login attempt demi keamanan (2026-03-14 18:55:47)
 Nambahin fitur pencarian berdasarkan kategori (2026-03-14 18:55:49)
 Benerin bug di bagian checkout (2026-03-14 18:55:52)
+Benerin bug di bagian tampilan peta interaktif (2026-03-14 18:56:47)
