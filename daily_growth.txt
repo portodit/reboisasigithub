@@ -2237,3 +2237,4 @@ Update tampilan UI aplikasi agar lebih konsisten di seluruh bagian aplikasi (202
 Nambahin validasi email biar gak diisi asal-asalan (2026-03-15 05:43:51)
 Fixing bug dimana aplikasi gak bisa handle input yang sangat banyak sekali jumlahnya dalam waktu yang sangat singkat tanpa membuat sistem menjadi hang (2026-03-15 05:43:52)
 Update tampilan modal dialog agar lebih modern (2026-03-15 05:43:55)
+Nambahin fitur filter berdasarkan kategori favorit (2026-03-15 05:44:51)
