@@ -1187,3 +1187,4 @@ Nambahin fitur filter berdasarkan parameter yang sangat rahasia dan memerlukan i
 Benerin bug di bagian integrasi sistem pembayaran baru (2026-03-14 23:53:49)
 Fixing bug dimana checkbox gak bisa dicentang (2026-03-14 23:53:50)
 Nambahin fitur filter berdasarkan parameter yang sangat rahasia dan memerlukan tingkat keamanan yang paling tinggi demi melindungi kepentingan bersama seluruh pengguna aplikasi dari segala bentuk ancaman siber yang ada (2026-03-14 23:53:53)
+Nambahin error handling di bagian upload gambar (2026-03-14 23:54:49)
