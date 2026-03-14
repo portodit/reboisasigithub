@@ -927,3 +927,4 @@ Fixing bug dimana aplikasi gak bisa handle input data dalam jumlah yang sangat f
 Nambahin fitur dark mode khusus malam hari (2026-03-14 22:26:50)
 Fixing bug dimana checkbox gak bisa dicentang (2026-03-14 22:26:53)
 Fixing bug dimana aplikasi gak bisa handle input data dalam jumlah yang sangat fantastis besarnya dalam rentang waktu yang sangat singkat tanpa membuat beban server menjadi melonjak tinggi dan mengganggu user yang lainnya (2026-03-14 22:27:48)
+Nambahin fitur kustomisasi notifikasi suara (2026-03-14 22:27:50)
