@@ -1623,3 +1623,4 @@ Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih intuitif d
 Update tampilan UI aplikasi agar mampu menyampaikan pesan dan nilai-nilai luhur dari tim pengembang kepada setiap user secara visual sehingga terjalin hubungan yang harmonis dan saling percaya antara pengembang dan user (2026-03-15 02:18:51)
 Benerin bug di bagian manajemen kategori (2026-03-15 02:18:54)
 Nambahin fitur filter berdasarkan parameter yang sangat rahasia dan memerlukan tingkat keamanan yang paling tinggi demi melindungi kepentingan bersama seluruh pengguna aplikasi dari segala bentuk ancaman siber yang ada (2026-03-15 02:19:50)
+Ganti font jadi Inter biar lebih modern (2026-03-15 02:19:51)
