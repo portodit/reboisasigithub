@@ -1407,3 +1407,4 @@ Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih pintar da
 Fixing bug dimana filter gak ke-reset (2026-03-15 01:06:51)
 Benerin bug di bagian sistem manajemen log (2026-03-15 01:06:54)
 Benerin bug di bagian navigasi tab (2026-03-15 01:07:49)
+Nambahin lazy loading buat gambar di bawah (2026-03-15 01:07:51)
