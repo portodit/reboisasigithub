@@ -967,3 +967,4 @@ Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih aman, kuat
 Benerin bug di bagian integrasi sistem manajemen file yang lebih terorganisir dan memudahkan user dalam mencari dokumen lama yang pernah diupload sehingga mereka tidak perlu repot-repot mencari satu per satu lagi (2026-03-14 22:39:53)
 Nambahin fitur filter berdasarkan tanggal pembuatan (2026-03-14 22:40:49)
 Benerin bug di bagian tracking pengiriman (2026-03-14 22:40:50)
+Benerin bug di bagian pengaturan profil (2026-03-14 22:40:53)
