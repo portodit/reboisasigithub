@@ -2072,3 +2072,4 @@ Update sistem manajemen keamanan aplikasi yang lebih menyeluruh dan terintegrasi
 Nambahin dukungan multi-bahasa (tahap awal) (2026-03-15 04:48:51)
 Update tampilan UI aplikasi agar tampak lebih modern, minimalis, dan futuristik guna memberikan kesan sebagai aplikasi yang selalu siap menyambut masa depan dengan teknologi yang paling canggih dan inovatif di kelasnya (2026-03-15 04:48:52)
 Fixing bug gambar profil yang gak muncul setelah ganti (2026-03-15 04:48:55)
+Benerin bug di bagian verifikasi recaptcha (2026-03-15 04:49:51)
