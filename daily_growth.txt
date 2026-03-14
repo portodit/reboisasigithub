@@ -1061,3 +1061,4 @@ Update sistem manajemen cache yang lebih hemat penggunaan daya baterai namun tet
 Update sistem manajemen cache yang lebih dinamis dan mampu mengikuti pola penggunaan data yang berubah-ubah secara mendadak untuk menjamin kestabilan performa aplikasi meskipun sedang berada di bawah tekanan trafik tinggi (2026-03-14 23:11:49)
 Nambahin fitur pencarian berdasarkan kategori (2026-03-14 23:11:50)
 Fixing bug dimana scrollbar muncul dua (2026-03-14 23:11:53)
+Fixing bug dimana session tiba-tiba logout sendiri (2026-03-14 23:12:49)
