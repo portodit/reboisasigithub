@@ -2071,3 +2071,4 @@ Nambahin fitur filter berdasarkan kategori yang paling baru ditambahkan dan seda
 Update sistem manajemen keamanan aplikasi yang lebih menyeluruh dan terintegrasi dengan berbagai macam standar perlindungan data digital yang berlaku secara internasional demi menjamin rasa aman bagi seluruh pengguna aplikasi kita semua (2026-03-15 04:47:55)
 Nambahin dukungan multi-bahasa (tahap awal) (2026-03-15 04:48:51)
 Update tampilan UI aplikasi agar tampak lebih modern, minimalis, dan futuristik guna memberikan kesan sebagai aplikasi yang selalu siap menyambut masa depan dengan teknologi yang paling canggih dan inovatif di kelasnya (2026-03-15 04:48:52)
+Fixing bug gambar profil yang gak muncul setelah ganti (2026-03-15 04:48:55)
