@@ -1328,3 +1328,4 @@ Update tampilan UI aplikasi agar lebih modern dan minimalis sesuai selera masa k
 Fixing bug dimana aplikasi stuck pas login ulang (2026-03-15 00:40:49)
 Nambahin fitur filter berdasarkan histori riwayat transaksi yang dilakukan oleh user untuk memberikan gambaran yang sangat akurat tentang pola penggunaan layanan oleh user selama ini secara komprehensif dan sangat mendalam di setiap detailnya (2026-03-15 00:40:50)
 Nambahin fitur filter berdasarkan parameter yang sangat mendalam dan teknis untuk membantu user yang lebih mahir (2026-03-15 00:40:54)
+Nambahin validasi nomor telepon (2026-03-15 00:41:49)
