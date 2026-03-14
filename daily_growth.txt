@@ -1621,3 +1621,4 @@ Nambahin fitur filter berdasarkan histori interaksi user dengan tim support di m
 Benerin bug di bagian sistem manajemen integrasi sistem pembayaran internasional (2026-03-15 02:17:54)
 Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih intuitif dan mudah digunakan (2026-03-15 02:18:50)
 Update tampilan UI aplikasi agar mampu menyampaikan pesan dan nilai-nilai luhur dari tim pengembang kepada setiap user secara visual sehingga terjalin hubungan yang harmonis dan saling percaya antara pengembang dan user (2026-03-15 02:18:51)
+Benerin bug di bagian manajemen kategori (2026-03-15 02:18:54)
