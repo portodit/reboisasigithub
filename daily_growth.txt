@@ -359,3 +359,4 @@ Fixing bug dimana aplikasi gak bisa nampilin data yang diproses di background se
 Benerin bug di bagian integrasi API pihak ketiga (2026-03-14 19:17:48)
 Fixing bug dimana aplikasi gak bisa nampilin data yang diproses secara sinkron dengan tepat (2026-03-14 19:17:49)
 Nambahin fitur filter berdasarkan histori riwayat transaksi yang dilakukan oleh user untuk memberikan gambaran yang sangat akurat tentang pola penggunaan layanan oleh user selama ini secara komprehensif dan sangat mendalam di setiap detailnya (2026-03-14 19:17:52)
+Nambahin fitur filter harga dari terendah (2026-03-14 19:18:48)
