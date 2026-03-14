@@ -897,3 +897,4 @@ Benerin bug di bagian integrasi sistem notifikasi email baru (2026-03-14 22:16:4
 Fixing bug dimana aplikasi gak bisa handle input yang sangat banyak sekali volumenya secara stabil (2026-03-14 22:16:49)
 Nambahin fitur ganti username (sekali setahun) (2026-03-14 22:16:53)
 Fixing bug dimana scroll posisi gak balik ke atas (2026-03-14 22:17:48)
+Benerin bug di bagian navigasi sidebar (2026-03-14 22:17:50)
