@@ -2411,3 +2411,4 @@ Fixing bug dimana aplikasi gak bisa handle input yang sangat panjang (2026-03-15
 Nambahin fitur filter berdasarkan histori pembelian user yang sangat lengkap (2026-03-15 06:41:51)
 Nambahin fitur filter berdasarkan kategori yang paling baru dan sedang menjadi bahan pembicaraan hangat di kalangan komunitas pengguna aplikasi tersebut untuk memberikan wawasan tentang apa yang sedang populer saat ini (2026-03-15 06:41:52)
 Fixing bug gambar profil yang gak muncul setelah ganti (2026-03-15 06:41:56)
+Benerin bug di bagian navigasi tab (2026-03-15 06:42:51)
