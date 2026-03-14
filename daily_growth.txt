@@ -334,3 +334,4 @@ Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih bijaksana
 Merge branch 'fix-tadi-salah' ke main (2026-03-14 19:08:52)
 Nambahin fitur filter berdasarkan kategori yang paling banyak direkomendasikan oleh komunitas pengguna yang sudah berpengalaman untuk membantu pengguna baru dalam mengambil keputusan yang terbaik bagi diri mereka (2026-03-14 19:09:48)
 Nambahin loading spinner biar user gak bingung (2026-03-14 19:09:49)
+Nambahin fitur filter berdasarkan popularitas konten (2026-03-14 19:09:52)
