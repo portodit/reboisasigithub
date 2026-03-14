@@ -304,3 +304,4 @@ Benerin bug di bagian integrasi sistem manajemen file yang lebih teratur dalam p
 Benerin z-index yang bikin modal ketutup navbar (2026-03-14 18:58:52)
 Update library pemrosesan grafis (2026-03-14 18:59:48)
 Fixing bug dimana aplikasi gak bisa handle request yang sangat cepat frekuensinya (2026-03-14 18:59:49)
+Nambahin fitur export ke PDF yang lebih rapi (2026-03-14 18:59:52)
