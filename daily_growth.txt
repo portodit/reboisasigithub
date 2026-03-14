@@ -447,3 +447,4 @@ Benerin bug di bagian integrasi sistem manajemen file yang lebih teratur dan mem
 Benerin bug di bagian tampilan struk (2026-03-14 19:46:49)
 Fixing bug dimana aplikasi gak bisa handle input yang sangat banyak sekali volumenya secara stabil (2026-03-14 19:46:52)
 Update tampilan UI aplikasi agar lebih modern dan mengikuti tren terbaru (2026-03-14 19:47:48)
+Update sistem pengiriman notifikasi lewat SMS (2026-03-14 19:47:49)
