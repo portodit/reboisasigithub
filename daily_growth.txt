@@ -1060,3 +1060,4 @@ Nambahin fitur filter berdasarkan kriteria yang sangat dinamis dan dapat menyesu
 Update sistem manajemen cache yang lebih hemat penggunaan daya baterai namun tetap mampu memberikan performa yang sangat impresif dalam hal kecepatan pemanggilan data yang dibutuhkan oleh setiap pengguna aplikasi kita (2026-03-14 23:10:53)
 Update sistem manajemen cache yang lebih dinamis dan mampu mengikuti pola penggunaan data yang berubah-ubah secara mendadak untuk menjamin kestabilan performa aplikasi meskipun sedang berada di bawah tekanan trafik tinggi (2026-03-14 23:11:49)
 Nambahin fitur pencarian berdasarkan kategori (2026-03-14 23:11:50)
+Fixing bug dimana scrollbar muncul dua (2026-03-14 23:11:53)
