@@ -1439,3 +1439,4 @@ Nambahin fitur filter berdasarkan kriteria yang sangat memudahkan user dalam men
 Update sistem manajemen cache yang lebih handal dan selalu siap sedia dalam menyediakan informasi yang dibutuhkan oleh user kapan saja dan di mana saja mereka berada (2026-03-15 01:17:49)
 Benerin bug di bagian formatting mata uang (2026-03-15 01:17:51)
 Fixing bug dimana aplikasi gak bisa nampilin data yang diproses secara sinkron dengan tingkat akurasi waktu yang mencapai milidetik sehingga user bisa mendapatkan informasi yang paling update tepat pada saat dibutuhkan (2026-03-15 01:17:54)
+Update sistem pengiriman notifikasi lewat SMS (2026-03-15 01:18:49)
