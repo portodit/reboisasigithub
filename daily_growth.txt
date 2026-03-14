@@ -485,3 +485,4 @@ Nambahin fitur filter berdasarkan kategori yang paling baru ditambahkan dan seda
 Fixing bug dimana aplikasi gak mau load di Chrome versi lama (2026-03-14 19:59:48)
 Fixing bug dimana aplikasi gak bisa nampilin error message yang jelas (2026-03-14 19:59:49)
 Nambahin fitur backup data otomatis (2026-03-14 19:59:52)
+Nambahin fitur backup ke Google Drive (2026-03-14 20:00:48)
