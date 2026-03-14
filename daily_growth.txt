@@ -478,3 +478,4 @@ Nambahin fitur filter berdasarkan kriteria yang sangat adaptif dan mampu menyesu
 Fixing bug dimana aplikasi gak bisa nampilin notifikasi yang dikirim secara massal (2026-03-14 19:56:52)
 Update library pemrosesan gambar (2026-03-14 19:57:48)
 Nambahin fitur export ke PDF yang lebih rapi (2026-03-14 19:57:49)
+Benerin bug di bagian export data CSV (2026-03-14 19:57:52)
