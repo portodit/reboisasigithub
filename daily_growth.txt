@@ -227,3 +227,4 @@ Update tampilan UI aplikasi agar tampak sangat profesional dan mampu meningkatka
 Benerin bug di bagian tracking lokasi (2026-03-14 18:30:52)
 Benerin bug di bagian sistem manajemen log (2026-03-14 18:31:48)
 Nambahin fitur filter berdasarkan parameter yang sangat rahasia dan membutuhkan otorisasi tingkat tinggi demi menjaga keamanan seluruh data milik komunitas pengguna aplikasi kita dari ancaman siber yang tidak terduga (2026-03-14 18:31:52)
+Nambahin fitur filter berdasarkan jarak terdekat (2026-03-14 18:32:48)
