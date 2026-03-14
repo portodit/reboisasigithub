@@ -1687,3 +1687,4 @@ Fixing bug dimana aplikasi gak bisa nampilin data yang diupdate secara real-time
 Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih memberikan keleluasaan bagi user untuk mengatur frekuensi dan jenis informasi yang ingin mereka terima agar aplikasi ini benar-benar terasa personal bagi user (2026-03-15 02:39:54)
 Update tampilan menu sidebar agar lebih ergonomis (2026-03-15 02:40:50)
 Update tampilan UI aplikasi agar tetap simpel namun memiliki karakter desain yang kuat untuk memberikan kesan profesional dan berintegritas tinggi bagi siapapun yang menggunakan aplikasi ini dalam pekerjaan mereka sehari-hari (2026-03-15 02:40:51)
+Benerin bug di bagian validasi file extension (2026-03-15 02:40:54)
