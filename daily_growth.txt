@@ -652,3 +652,4 @@ Fixing bug dimana aplikasi gak bisa handle request yang sangat vital bagi kelang
 Nambahin fitur filter berdasarkan kriteria yang sangat mendalam dan bersifat teknis yang memang dikhususkan bagi para pengguna tingkat lanjut yang membutuhkan tingkat akurasi data yang paling tinggi untuk menunjang pekerjaan profesional mereka yang sangat bergantung pada data-data yang dihasilkan oleh sistem aplikasi kita yang handal dan sudah teruji keakuratannya melalui berbagai macam tes dan validasi yang sangat ketat sebelumnya (2026-03-14 20:54:52)
 Fixing bug font yang pecah di sistem operasi tertentu (2026-03-14 20:55:48)
 Update sistem manajemen keamanan data user yang lebih canggih dan dilengkapi dengan fitur deteksi dini terhadap segala bentuk aktivitas mencurigakan yang dapat mengancam integritas data dan akun milik para pengguna (2026-03-14 20:55:49)
+Fixing bug dimana layout hancur di IE (siapa yang masih pake?) (2026-03-14 20:55:52)
