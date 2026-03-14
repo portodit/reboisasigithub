@@ -838,3 +838,4 @@ Nambahin fitur filter berdasarkan histori kunjungan yang sangat mendetail dan me
 Fixing bug dimana aplikasi gak mau load di Chrome versi lama (2026-03-14 21:56:53)
 Benerin bug di bagian input tag (2026-03-14 21:57:48)
 Nambahin fitur filter berdasarkan kriteria yang sangat dinamis dan mampu beradaptasi dengan perubahan tren yang sangat cepat terjadi di dunia digital saat ini untuk menjamin bahwa aplikasi kita selalu menjadi yang paling terupdate dan relevan di pasar saat ini (2026-03-14 21:57:49)
+Fixing bug di dropdown yang gak mau nutup (2026-03-14 21:57:53)
