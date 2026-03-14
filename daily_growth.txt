@@ -187,3 +187,4 @@ Benerin bug di bagian integrasi sistem manajemen inventaris yang lebih canggih (
 Benerin bug di bagian integrasi sistem pembayaran baru (2026-03-14 18:10:52)
 Fixing bug di bagian pengiriman email (2026-03-14 18:11:48)
 Nambahin fitur filter berdasarkan tanggal pembuatan (2026-03-14 18:11:52)
+Nambahin fallback kalau gambar gagal dipanggil (2026-03-14 18:12:48)
