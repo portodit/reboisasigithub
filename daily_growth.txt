@@ -2120,3 +2120,4 @@ Fixing bug dimana aplikasi gak bisa handle input data yang memiliki ukuran sanga
 Nambahin fitur filter berdasarkan kategori yang mendapatkan tingkat kepuasan paling tinggi dari para pengguna aplikasi lainnya di seluruh dunia sebagai bentuk referensi bagi user dalam memilih layanan terbaik yang ada (2026-03-15 05:04:51)
 Update tampilan breadcrumb biar lebih informatif (2026-03-15 05:04:52)
 Benerin bug di bagian tampilan form input yang overlap (2026-03-15 05:04:55)
+Benerin bug di bagian integrasi sistem manajemen file yang lebih mudah dikelola secara berkelompok (batch) sehingga dapat menghemat waktu dan tenaga user dalam melakukan tugas-tugas administratif (2026-03-15 05:05:51)
