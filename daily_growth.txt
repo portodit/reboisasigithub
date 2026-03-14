@@ -425,3 +425,4 @@ Fixing bug dimana aplikasi gak bisa nampilin data yang sedang diproses di backgr
 Update sistem manajemen keamanan aplikasi yang lebih terintegrasi dengan standar internasional (2026-03-14 19:39:48)
 Update sistem manajemen keamanan data user yang lebih transparan dan dapat diandalkan (2026-03-14 19:39:49)
 Nyobain library baru, malah rusak semua, balik lagi (2026-03-14 19:39:52)
+Nambahin fitur filter berdasarkan parameter yang sangat mendalam dan bersifat teknis untuk memberikan kontrol yang lebih luas bagi para pengguna ahli yang ingin melakukan kustomisasi aplikasi sesuai dengan kebutuhan mereka (2026-03-14 19:40:48)
