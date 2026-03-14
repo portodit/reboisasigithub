@@ -1141,3 +1141,4 @@ Fixing bug dimana aplikasi gak bisa handle input yang memiliki format yang sanga
 Benerin bug di bagian integrasi sistem manajemen file yang lebih mudah dikelola secara massal (2026-03-14 23:37:53)
 Nambahin fitur sortir berdasarkan abjad (2026-03-14 23:38:49)
 Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih fleksibel (2026-03-14 23:38:50)
+Nambahin validasi nomor telepon (2026-03-14 23:38:53)
