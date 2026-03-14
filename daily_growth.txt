@@ -492,3 +492,4 @@ Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih cerdas dan
 Benerin bug di bagian tampilan riwayat chat (2026-03-14 20:01:49)
 Nambahin fitur simpan pencarian terakhir (2026-03-14 20:01:52)
 Nambahin fitur export ke PDF yang lebih rapi (2026-03-14 20:02:48)
+Nambahin fitur filter berdasarkan jarak terdekat (2026-03-14 20:02:49)
