@@ -1239,3 +1239,4 @@ Nambahin fitur filter berdasarkan kategori yang paling sering diakses (2026-03-1
 Fixing race condition yang jarang banget muncul tapi ganggu (2026-03-15 00:10:50)
 Fixing bug dimana aplikasi gak bisa handle request yang sangat mendesak secara prioritas (2026-03-15 00:10:53)
 Fixing bug dimana aplikasi gak munculin pesan sukses (2026-03-15 00:11:49)
+Fixing bug dimana aplikasi gak bisa dibuka di mode incognito (2026-03-15 00:11:50)
