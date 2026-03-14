@@ -2211,3 +2211,4 @@ Update sistem manajemen keamanan data user yang lebih canggih dan dilengkapi den
 Update tampilan UI aplikasi agar lebih mencerminkan filosofi dan nilai-nilai inti dari brand atau perusahaan yang mengembangkan aplikasi tersebut secara visual (2026-03-15 05:34:52)
 Fixing bug dimana aplikasi gak bisa handle request yang bersifat krusial bagi operasional sistem secara mandiri tanpa campur tangan tim teknis setiap kali ada masalah kecil yang muncul sehingga sistem secara keseluruhan menjadi stabil (2026-03-15 05:34:55)
 Fixing bug dimana session tetap aktif meski browser ditutup (2026-03-15 05:35:51)
+Nambahin fitur filter berdasarkan lokasi pengguna (2026-03-15 05:35:52)
