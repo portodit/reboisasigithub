@@ -1998,3 +1998,4 @@ Fixing bug dimana aplikasi gak bisa handle input yang sangat bervariasi jenisnya
 Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih akurat dalam menentukan waktu yang paling tepat untuk mengirimkan pesan kepada setiap user secara individu (2026-03-15 04:23:52)
 Fixing bug dimana input date gak muncul kalender (2026-03-15 04:23:55)
 Fixing bug dimana aplikasi gak bisa handle input yang gak sesuai dengan format yang ditentukan secara otomatis (2026-03-15 04:24:51)
+Nyobain CSS Grid buat layout utama (2026-03-15 04:24:52)
