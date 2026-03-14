@@ -663,3 +663,4 @@ Update sistem manajemen keamanan aplikasi yang lebih komprehensif, berlapis-lapi
 Update sistem manajemen keamanan aplikasi yang lebih menyeluruh dan terintegrasi dengan berbagai macam standar perlindungan data digital yang berlaku secara internasional demi menjamin rasa aman bagi seluruh pengguna aplikasi kita semua (2026-03-14 20:58:49)
 Fixing bug dimana aplikasi gak bisa handle input data dalam jumlah yang sangat masif sekaligus tanpa menyebabkan penggunaan daya baterai menjadi sangat boros yang bisa mengganggu kenyamanan user saat menggunakan perangkat mobile mereka (2026-03-14 20:58:52)
 Fixing overflow-x yang bikin scrollbar muncul padahal gak butuh (2026-03-14 20:59:48)
+Nambahin fitur preview markdown (2026-03-14 20:59:49)
