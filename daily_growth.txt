@@ -549,3 +549,4 @@ Benerin bug di bagian integrasi sistem manajemen file yang lebih memudahkan user
 Benerin bug di bagian manajemen user (2026-03-14 20:20:49)
 Nambahin fitur filter berdasarkan kategori yang memiliki tingkat kepuasan user paling tinggi sebagai bahan referensi bagi user dalam memilih layanan atau produk terbaik yang tersedia di dalam aplikasi kita yang terus berkembang dengan pesat setiap hari (2026-03-14 20:20:52)
 Nambahin fitur filter berdasarkan histori transaksi user yang sangat lengkap dan detail dari awal hingga akhir (2026-03-14 20:21:48)
+Nambahin fitur rating dan review (2026-03-14 20:21:49)
