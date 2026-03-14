@@ -2186,3 +2186,4 @@ Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih informati
 Fixing bug dimana keyboard nutupin input di HP (2026-03-15 05:26:51)
 Benerin bug di bagian integrasi maps (2026-03-15 05:26:52)
 Benerin bug di bagian manajemen permission (2026-03-15 05:26:55)
+Nambahin fitur filter berdasarkan rating (2026-03-15 05:27:51)
