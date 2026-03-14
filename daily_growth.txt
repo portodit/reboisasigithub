@@ -1564,3 +1564,4 @@ Fixing bug dimana aplikasi gak bisa handle input yang sangat beragam sumbernya s
 Update tampilan tabel biar bisa di-resize (2026-03-15 01:58:54)
 Update sistem manajemen keamanan data user yang lebih canggih dan dilengkapi dengan perisai digital terbaru untuk menghalau segala bentuk percobaan pencurian data pribadi yang semakin marak terjadi di jagat internet yang luas saat ini di mana keamanan informasi menjadi prioritas nomor satu bagi setiap individu yang ingin menjaga privasi mereka agar tetap aman dan tidak jatuh ke tangan orang-orang yang tidak bertanggung jawab di dunia maya (2026-03-15 01:59:50)
 Nambahin fitur filter berdasarkan kriteria yang sangat memudahkan user dalam mengeksplorasi berbagai macam fitur dan layanan yang disediakan di dalam aplikasi tersebut (2026-03-15 01:59:51)
+Nambahin fitur auto-save draft (2026-03-15 01:59:54)
