@@ -1954,3 +1954,4 @@ Fixing bug dimana aplikasi gak bisa handle input data yang memiliki ukuran sanga
 Nambahin fitur filter berdasarkan kriteria yang sangat mendalam dan spesifik yang ditujukan untuk para pengguna tingkat mahir yang membutuhkan akurasi data yang sangat tinggi untuk keperluan pekerjaan profesional mereka (2026-03-15 04:08:55)
 Nambahin unit test buat fungsi yang paling sering error (2026-03-15 04:09:51)
 Fixing bug dimana gambar gak responsif (2026-03-15 04:09:52)
+Nambahin fitur filter berdasarkan histori transaksi yang dilakukan oleh user selama menggunakan aplikasi tersebut untuk memberikan gambaran yang menyeluruh tentang pola konsumsi dan perilaku belanja user secara akurat (2026-03-15 04:09:55)
