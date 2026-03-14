@@ -2096,3 +2096,4 @@ Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih fleksibel 
 Ganti font jadi Inter biar lebih modern (2026-03-15 04:56:51)
 Nambahin fitur wish list (2026-03-15 04:56:52)
 Benerin bug di bagian integrasi social login (2026-03-15 04:56:55)
+Fixing memory leak yang bikin laptop panas (2026-03-15 04:57:51)
