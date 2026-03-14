@@ -2048,3 +2048,4 @@ Update tampilan UI aplikasi agar tampak sangat rapi, terstruktur, dan sangat mud
 Nambahin fitur export ke PDF yang lebih rapi (2026-03-15 04:40:51)
 Update tampilan UI aplikasi agar jauh lebih sederhana dan intuitif sehingga bisa digunakan oleh siapa saja tanpa perlu memiliki keahlian teknis khusus sebelumnya untuk menjalankan fungsi-fungsi dasar di dalam aplikasi ini (2026-03-15 04:40:52)
 Nambahin fitur filter berdasarkan parameter yang sangat presisi dan mampu menghasilkan data yang benar-benar relevan dengan apa yang sedang dikerjakan oleh user untuk membantu mereka menyelesaikan tugas dengan lebih cepat (2026-03-15 04:40:55)
+Nambahin fitur 'Load More' biar gak berat (2026-03-15 04:41:51)
