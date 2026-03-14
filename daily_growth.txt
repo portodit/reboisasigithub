@@ -1572,3 +1572,4 @@ Nambahin fitur filter berdasarkan kriteria yang sangat sederhana namun mampu mem
 Benerin bug di bagian integrasi sistem manajemen database yang lebih akurat dalam mengolah data yang akan digunakan oleh user untuk membuat keputusan strategis yang sangat menentukan masa depan bisnis atau pekerjaan mereka (2026-03-15 02:01:51)
 Benerin bug di bagian tracking pengiriman (2026-03-15 02:01:54)
 Fixing bug dimana aplikasi gak bisa handle request yang memiliki tingkat urgensi yang paling tinggi secara instan dan tanpa ada hambatan sedikitpun dalam proses verifikasi dan validasi data oleh sistem keamanan aplikasi (2026-03-15 02:02:50)
+Ngubah urutan middleware biar auth jalan duluan (2026-03-15 02:02:51)
