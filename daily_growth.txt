@@ -1910,3 +1910,4 @@ Benerin bug di bagian integrasi sistem manajemen database yang lebih akurat dan 
 Benerin bug di bagian integrasi sistem notifikasi email baru (2026-03-15 03:54:50)
 Benerin bug di bagian tampilan profil publik (2026-03-15 03:54:52)
 Fixing bug dimana aplikasi gak bisa nampilin data yang sedang diproses di background secara transparan namun tetap menjaga performa antarmuka pengguna agar tetap terasa ringan dan responsif sepanjang waktu (2026-03-15 03:54:55)
+Update instruksi instalasi di dokumentasi (2026-03-15 03:55:50)
