@@ -1732,3 +1732,4 @@ Benerin bug di bagian integrasi sistem manajemen file yang lebih teratur dan mud
 Update sistem manajemen antrian tugas background yang lebih efisien (2026-03-15 02:54:54)
 Benerin bug di bagian sistem manajemen integrasi API baru (2026-03-15 02:55:50)
 Nambahin fitur filter berdasarkan ukuran file (2026-03-15 02:55:51)
+Update tampilan breadcrumb biar lebih informatif (2026-03-15 02:55:54)
