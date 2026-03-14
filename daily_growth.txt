@@ -268,3 +268,4 @@ Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih cerdas dan
 Hapus file temporary yang lupa didelete (2026-03-14 18:46:52)
 Fixing bug dimana aplikasi gak bisa handle input data yang memiliki ukuran sangat besar tanpa menurunkan kualitas layanan atau menyebabkan terjadinya error yang dapat mengganggu jalannya proses bisnis di dalam aplikasi (2026-03-14 18:47:47)
 Nambahin shortcut keyboard buat save (2026-03-14 18:47:48)
+Fixing bug dimana user gak bisa logout (2026-03-14 18:47:52)
