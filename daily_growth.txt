@@ -461,3 +461,4 @@ Nambahin fitur filter berdasarkan histori pembelian user yang sangat lengkap (20
 Benerin bug di bagian integrasi social login (2026-03-14 19:51:48)
 Nambahin fallback kalau gambar gagal dipanggil (2026-03-14 19:51:49)
 Fixing bug dimana aplikasi gak bisa handle request dari berbagai platform secara bersamaan (2026-03-14 19:51:52)
+Nambahin fitur filter berdasarkan rating pengguna tertinggi (2026-03-14 19:52:48)
