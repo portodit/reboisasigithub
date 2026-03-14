@@ -1178,3 +1178,4 @@ Nambahin fitur filter berdasarkan parameter yang sangat bervariasi dan fleksibel
 Nambahin fitur filter berdasarkan kriteria yang sangat spesifik (2026-03-14 23:50:49)
 Benerin bug di bagian integrasi sistem manajemen file yang lebih teratur dalam menyimpan data sehingga user bisa menemukan file yang mereka cari dengan sangat mudah tanpa harus mengingat-ingat lagi di mana mereka menyimpannya (2026-03-14 23:50:50)
 Benerin bug di bagian integrasi sistem manajemen database yang lebih akurat dalam mengolah data yang akan dipakai oleh user untuk membuat keputusan-keputusan penting yang sangat menentukan bagi karir maupun bisnis mereka (2026-03-14 23:50:53)
+Fixing bug dimana aplikasi gak bisa dibuka lewat link deep-link (2026-03-14 23:51:49)
