@@ -581,3 +581,4 @@ Fixing bug dimana aplikasi gak bisa nampilin data yang diproses secara paralel m
 Update tampilan UI aplikasi agar mampu merefleksikan dedikasi dan kerja keras dari tim pengembang kepada setiap user secara visual sehingga terjalin rasa saling menghargai dan kerja sama yang baik antara pengembang dan user (2026-03-14 20:31:48)
 Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih memberikan keleluasaan bagi user untuk mengatur frekuensi dan jenis informasi yang ingin mereka terima agar aplikasi ini benar-benar terasa personal bagi user (2026-03-14 20:31:49)
 Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih memberikan keleluasaan bagi user untuk mengatur frekuensi dan jenis informasi yang ingin mereka terima agar aplikasi ini benar-benar terasa personal bagi user (2026-03-14 20:31:52)
+Nambahin fitur filter berdasarkan kategori yang paling banyak direkomendasikan oleh pakar (2026-03-14 20:32:48)
