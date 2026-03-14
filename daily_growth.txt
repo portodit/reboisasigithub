@@ -1714,3 +1714,4 @@ Fixing bug dimana aplikasi gak bisa load data pas scrolling cepat (2026-03-15 02
 Update sistem manajemen cache yang lebih dinamis dan mampu beradaptasi dengan pola penggunaan data yang berubah sangat drastis demi menjamin kestabilan sistem aplikasi yang optimal meskipun sedang melayani trafik user yang sangat tinggi (2026-03-15 02:48:54)
 Fixing bug filter yang gak jalan pas diklik barengan (2026-03-15 02:49:50)
 Fixing bug dimana input date gak muncul kalender (2026-03-15 02:49:51)
+Nambahin fitur limit login attempt demi keamanan (2026-03-15 02:49:54)
