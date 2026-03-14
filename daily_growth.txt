@@ -199,3 +199,4 @@ Nambahin fitur filter berdasarkan parameter yang sangat relevan dengan kebutuhan
 Nambahin fitur filter berdasarkan histori pembelian user yang sangat lengkap (2026-03-14 18:16:52)
 Update tampilan UI aplikasi agar jauh lebih mudah digunakan oleh siapa saja tanpa perlu panduan yang rumit sehingga setiap user bisa langsung merasakan manfaat dari aplikasi ini sejak pertama kali mereka membukanya di HP (2026-03-14 18:17:48)
 Nambahin fitur filter berdasarkan parameter yang sangat bervariasi dan fleksibel (2026-03-14 18:17:52)
+Optimasi query database biar gak lemot banget (2026-03-14 18:18:48)
