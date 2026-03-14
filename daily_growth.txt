@@ -830,3 +830,4 @@ Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih stabil, am
 Update security patch buat backend (2026-03-14 21:54:48)
 Nambahin fallback kalau gambar gagal dipanggil (2026-03-14 21:54:49)
 Fixing bug dimana keyboard nutupin input di HP (2026-03-14 21:54:53)
+Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih bijaksana dalam mengirimkan informasi agar user tidak merasa kewalahan dengan banyaknya pesan yang masuk dan tetap fokus pada hal yang paling penting (2026-03-14 21:55:48)
