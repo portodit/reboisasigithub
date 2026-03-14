@@ -801,3 +801,4 @@ Nambahin fitur filter berdasarkan kategori yang paling banyak dicari oleh user l
 Nambahin fitur filter berdasarkan parameter yang sangat presisi dan mampu menghasilkan data yang benar-benar relevan dengan apa yang sedang dikerjakan oleh user untuk membantu mereka menyelesaikan tugas dengan lebih cepat (2026-03-14 21:44:49)
 Fixing bug dimana user ganda bisa daftar (2026-03-14 21:44:53)
 Update tampilan tabel biar bisa di-resize (2026-03-14 21:45:48)
+Benerin bug di bagian integrasi sistem manajemen file yang lebih mudah dikelola secara berkelompok (batch) sehingga dapat menghemat waktu dan tenaga user dalam melakukan tugas-tugas administratif (2026-03-14 21:45:49)
