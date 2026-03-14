@@ -2205,3 +2205,4 @@ Fixing bug dimana aplikasi gak bisa nampilin data yang diproses secara sinkron d
 Update library pemrosesan grafis (2026-03-15 05:32:52)
 Fixing bug dimana aplikasi gak bisa handle input data yang memiliki ukuran sangat besar tanpa mengurangi kualitas layanan yang diberikan kepada user sehingga aplikasi tetap berjalan dengan sangat lancar dan tidak ada hambatan teknis sama sekali (2026-03-15 05:32:55)
 Nambahin pengecekan null biar gak sering crash (2026-03-15 05:33:51)
+Benerin bug di bagian validasi file extension (2026-03-15 05:33:52)
