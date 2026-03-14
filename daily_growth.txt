@@ -2185,3 +2185,4 @@ Fixing bug dimana aplikasi gak bisa nampilin error message yang jelas (2026-03-1
 Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih informatif dan bermanfaat bagi user (2026-03-15 05:25:55)
 Fixing bug dimana keyboard nutupin input di HP (2026-03-15 05:26:51)
 Benerin bug di bagian integrasi maps (2026-03-15 05:26:52)
+Benerin bug di bagian manajemen permission (2026-03-15 05:26:55)
