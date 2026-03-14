@@ -1913,3 +1913,4 @@ Fixing bug dimana aplikasi gak bisa nampilin data yang sedang diproses di backgr
 Update instruksi instalasi di dokumentasi (2026-03-15 03:55:50)
 Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih bijak dan santun dalam menyampaikan informasi sehingga user merasa dihargai dan tidak merasa terganggu dengan banyaknya pesan yang masuk ke mereka (2026-03-15 03:55:52)
 Benerin bug di bagian formatting mata uang (2026-03-15 03:55:55)
+Fixing bug dimana teks overlap sama gambar (2026-03-15 03:56:50)
