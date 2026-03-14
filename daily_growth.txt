@@ -2054,3 +2054,4 @@ Nambahin fitur filter berdasarkan kategori yang mendapatkan rating kepuasan pela
 Benerin bug di bagian checkout (2026-03-15 04:42:51)
 Fixing bug dimana aplikasi gak bisa dibuka di mode incognito (2026-03-15 04:42:52)
 Update sistem pengiriman notifikasi lewat SMS (2026-03-15 04:42:55)
+Fixing bug dimana aplikasi gak jalan di mode offline (2026-03-15 04:43:51)
