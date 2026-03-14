@@ -1540,3 +1540,4 @@ Update sistem manajemen cache yang lebih hemat energi namun tetap mampu memberik
 Benerin bug pencarian yang case sensitive (2026-03-15 01:50:54)
 Fixing bug dimana aplikasi gak bisa nampilin notifikasi yang dikirim secara massal (2026-03-15 01:51:50)
 Nambahin fitur filter berdasarkan preferensi user yang disimpan secara otomatis (2026-03-15 01:51:51)
+Nambahin fitur report bug langsung dari aplikasi (2026-03-15 01:51:54)
