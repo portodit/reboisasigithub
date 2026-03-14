@@ -630,3 +630,4 @@ Nambahin fitur filter berdasarkan kriteria yang sangat mendalam dan bersifat tek
 Benerin bug di bagian perhitungan stok barang (2026-03-14 20:47:49)
 Fixing bug dimana font gak ke-load sempurna (2026-03-14 20:47:52)
 Fixing bug dimana aplikasi gak bisa nampilin data yang berubah secara real-time dengan kecepatan yang sangat tinggi sehingga user akan selalu mendapatkan informasi yang paling update setiap detik tanpa ada keterlambatan waktu yang berarti (2026-03-14 20:48:48)
+Benerin warna teks yang kontrasnya kurang bagus (2026-03-14 20:48:49)
