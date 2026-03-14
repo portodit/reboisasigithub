@@ -769,3 +769,4 @@ Fixing bug dimana aplikasi gak bisa handle input data berukuran raksasa tanpa me
 Update sistem manajemen cache yang lebih cerdas dan andal dalam menyediakan informasi yang diperlukan oleh user bahkan ketika kondisi jaringan internet sedang tidak bersahabat untuk memastikan user tetap produktif setiap saat (2026-03-14 21:33:53)
 Benerin bug breadcrumb yang jalurnya nyasar (2026-03-14 21:34:48)
 Update tampilan UI aplikasi agar lebih menarik bagi segmen pasar tertentu (2026-03-14 21:34:49)
+Nambahin limit karakter di input komentar (2026-03-14 21:34:53)
