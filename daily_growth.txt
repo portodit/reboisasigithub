@@ -253,3 +253,4 @@ Nambahin fitur filter berdasarkan parameter yang sangat akurat dan mampu memberi
 Update sistem manajemen cache yang lebih handal dan selalu siap sedia dalam menyediakan informasi yang dibutuhkan oleh user kapan saja dan di mana saja mereka berada (2026-03-14 18:41:52)
 Update copyright year ke 2026 (2026-03-14 18:42:47)
 Fixing bug filter yang gak jalan pas diklik barengan (2026-03-14 18:42:48)
+Update sistem notifikasi via suara (2026-03-14 18:42:52)
