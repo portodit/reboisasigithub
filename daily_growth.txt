@@ -1021,3 +1021,4 @@ Fixing bug dimana aplikasi gak bisa handle request yang sangat vital bagi kelang
 Fixing bug dimana gambar gak responsif (2026-03-14 22:57:53)
 Nambahin fitur cek update otomatis (2026-03-14 22:58:49)
 Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih tangguh dan tahan lama (2026-03-14 22:58:50)
+Nambahin fitur filter berdasarkan parameter yang sangat sensitif dan memerlukan izin khusus (2026-03-14 22:58:53)
