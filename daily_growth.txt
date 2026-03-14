@@ -2082,3 +2082,4 @@ Update sistem manajemen keamanan aplikasi yang lebih komprehensif dan mencakup s
 Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih mudah dipantau dan dikontrol oleh tim teknis untuk menjamin kenyamanan dan keamanan seluruh pengguna aplikasi tanpa terkecuali setiap harinya (2026-03-15 04:51:52)
 Benerin bug pencarian yang case sensitive (2026-03-15 04:51:55)
 Fixing bug dimana user ganda bisa daftar (2026-03-15 04:52:51)
+Fixing bug dimana aplikasi gak bisa handle input yang mengandung script berbahaya (2026-03-15 04:52:52)
