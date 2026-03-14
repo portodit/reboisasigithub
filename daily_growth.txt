@@ -1542,3 +1542,4 @@ Fixing bug dimana aplikasi gak bisa nampilin notifikasi yang dikirim secara mass
 Nambahin fitur filter berdasarkan preferensi user yang disimpan secara otomatis (2026-03-15 01:51:51)
 Nambahin fitur report bug langsung dari aplikasi (2026-03-15 01:51:54)
 Update tampilan UI aplikasi agar tetap simpel namun memiliki karakter desain yang kuat untuk memberikan kesan profesional dan memiliki integritas yang tinggi bagi siapapun yang menggunakan aplikasi ini dalam pekerjaan mereka sehari-harinya (2026-03-15 01:52:50)
+Benerin bug di bagian tampilan profil publik (2026-03-15 01:52:51)
