@@ -444,3 +444,4 @@ Benerin bug di bagian integrasi sistem manajemen file yang lebih teratur dalam p
 Fixing bug dimana scrollbar muncul dua (2026-03-14 19:45:49)
 Nambahin fitur dark mode yang lebih deep (Amoled) (2026-03-14 19:45:52)
 Benerin bug di bagian integrasi sistem manajemen file yang lebih teratur dan memudahkan user dalam mengelompokkan file-file penting mereka ke dalam folder-folder yang rapi dan mudah untuk dikelola setiap saat dibutuhkan (2026-03-14 19:46:48)
+Benerin bug di bagian tampilan struk (2026-03-14 19:46:49)
