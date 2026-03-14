@@ -286,3 +286,4 @@ Update tampilan UI aplikasi agar lebih mencerminkan filosofi dan nilai-nilai int
 Optimasi: ukuran bundle turun 2KB, lumayan lah ya (2026-03-14 18:52:52)
 Benerin bug di bagian integrasi sistem manajemen database yang lebih aman dan terenkripsi secara default (2026-03-14 18:53:47)
 Update instruksi instalasi di dokumentasi (2026-03-14 18:53:49)
+Nambahin fitur filter berdasarkan ketersediaan stok (2026-03-14 18:53:52)
