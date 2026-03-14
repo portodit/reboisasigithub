@@ -2118,3 +2118,4 @@ Update sistem manajemen cache yang lebih hemat dalam penggunaan sumber daya memo
 Update sistem manajemen sesi user yang lebih aman (2026-03-15 05:03:52)
 Fixing bug dimana aplikasi gak bisa handle input data yang memiliki ukuran sangat besar tanpa mengurangi kualitas layanan yang diberikan kepada user sehingga aplikasi tetap berjalan dengan sangat lancar dan tidak ada hambatan teknis sama sekali (2026-03-15 05:03:55)
 Nambahin fitur filter berdasarkan kategori yang mendapatkan tingkat kepuasan paling tinggi dari para pengguna aplikasi lainnya di seluruh dunia sebagai bentuk referensi bagi user dalam memilih layanan terbaik yang ada (2026-03-15 05:04:51)
+Update tampilan breadcrumb biar lebih informatif (2026-03-15 05:04:52)
