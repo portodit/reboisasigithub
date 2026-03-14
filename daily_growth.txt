@@ -811,3 +811,4 @@ Fixing bug dimana aplikasi gak bisa handle input yang gak sesuai dengan format y
 Nambahin fitur dark mode yang lebih deep (Amoled) (2026-03-14 21:47:53)
 Benerin bug di bagian verifikasi identitas (2026-03-14 21:48:48)
 Fixing bug dimana aplikasi gak bisa handle input data dalam jumlah yang sangat besar sekaligus tanpa menyebabkan pemborosan sumber daya baterai dan memori pada perangkat mobile milik user yang sedang menjalankan aplikasi (2026-03-14 21:48:49)
+Nambahin fitur sinkronisasi dengan aplikasi desktop (2026-03-14 21:48:53)
