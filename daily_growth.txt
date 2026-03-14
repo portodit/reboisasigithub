@@ -1751,3 +1751,4 @@ Update sistem manajemen cache yang lebih cerdas dan andal dalam menyediakan info
 Benerin bug di bagian manajemen kategori (2026-03-15 03:01:50)
 Benerin bug di bagian integrasi sistem manajemen file yang lebih terorganisir dan memudahkan user dalam mencari dokumen lama yang pernah diupload sehingga mereka tidak perlu repot-repot mencari satu per satu lagi (2026-03-15 03:01:51)
 Benerin bug di bagian tracking pengiriman (2026-03-15 03:01:54)
+Nambahin fitur auto-complete di search bar (2026-03-15 03:02:50)
