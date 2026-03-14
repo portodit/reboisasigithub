@@ -479,3 +479,4 @@ Fixing bug dimana aplikasi gak bisa nampilin notifikasi yang dikirim secara mass
 Update library pemrosesan gambar (2026-03-14 19:57:48)
 Nambahin fitur export ke PDF yang lebih rapi (2026-03-14 19:57:49)
 Benerin bug di bagian export data CSV (2026-03-14 19:57:52)
+Benerin bug di bagian integrasi API pihak ketiga (2026-03-14 19:58:48)
