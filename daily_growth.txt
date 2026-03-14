@@ -892,3 +892,4 @@ Fixing bug dimana aplikasi gak bisa handle input yang memiliki format yang sanga
 Ganti font jadi Inter biar lebih modern (2026-03-14 22:14:53)
 Nambahin fitur filter berdasarkan jenis konten (2026-03-14 22:15:48)
 Benerin bug di bagian integrasi sistem manajemen database yang lebih akurat dan terpercaya (2026-03-14 22:15:50)
+Benerin bug pencarian yang case sensitive (2026-03-14 22:15:53)
