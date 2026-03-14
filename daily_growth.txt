@@ -1108,3 +1108,4 @@ Fixing bug dimana aplikasi gak bisa handle request yang sangat vital bagi kelang
 Nambahin fitur custom tema warna oleh user (2026-03-14 23:26:53)
 Nambahin fitur ganti profil dengan cepat (2026-03-14 23:27:49)
 Update tampilan UI aplikasi agar lebih menarik dan memiliki daya tarik visual yang kuat untuk memikat para pengguna baru agar tertarik untuk mencoba dan terus menggunakan aplikasi tersebut dalam jangka panjang (2026-03-14 23:27:50)
+Nambahin fitur filter berdasarkan kategori yang sedang populer dan banyak diminati oleh para pengguna di wilayah geografis tertentu untuk memberikan wawasan lokal yang berguna bagi setiap user di manapun mereka berada (2026-03-14 23:27:53)
