@@ -1198,3 +1198,4 @@ Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih bijaksana
 Fixing bug dimana data gak tersimpan pas internet putus (2026-03-14 23:56:53)
 Benerin bug di bagian integrasi sistem manajemen database yang lebih gesit dalam menyajikan data ke layar user sehingga user tidak perlu menunggu lama untuk melihat hasil dari tindakan yang mereka lakukan di dalam aplikasi (2026-03-14 23:57:49)
 Update sistem manajemen antrian tugas background yang lebih efisien (2026-03-14 23:57:50)
+Benerin bug di bagian perhitungan stok barang (2026-03-14 23:57:53)
