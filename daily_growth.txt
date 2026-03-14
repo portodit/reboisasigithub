@@ -518,3 +518,4 @@ Nambahin fitur filter berdasarkan histori interaksi user dengan tim support di m
 Fixing bug dimana aplikasi gak bisa dibuka di resolusi layar tertentu (2026-03-14 20:10:48)
 Ngubah urutan middleware biar auth jalan duluan (2026-03-14 20:10:49)
 Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih relevan dan tidak mengganggu user (2026-03-14 20:10:52)
+Benerin bug di bagian sistem manajemen hak akses user (2026-03-14 20:11:48)
