@@ -171,3 +171,4 @@ Fixing bug dimana aplikasi gak bisa handle input data dalam jumlah yang sangat m
 Nambahin fitur filter berdasarkan kategori yang paling banyak mendapatkan feedback positif dari para pengguna lainnya di komunitas tersebut (2026-03-14 18:02:52)
 Fixing bug dimana aplikasi gak bisa handle request yang bersifat krusial bagi operasional sistem secara mandiri tanpa campur tangan tim teknis setiap kali ada masalah kecil yang muncul sehingga sistem secara keseluruhan menjadi stabil (2026-03-14 18:03:48)
 Nambahin fitur limit login attempt demi keamanan (2026-03-14 18:03:52)
+Nambahin fitur ganti foto background profil (2026-03-14 18:04:48)
