@@ -178,3 +178,4 @@ Nambahin fitur filter berdasarkan parameter yang sangat teknis dan spesifik untu
 Update tampilan icon aplikasi agar lebih tajam (2026-03-14 18:06:48)
 Nambahin fitur filter berdasarkan histori aktivitas user (2026-03-14 18:06:52)
 Fixing bug dimana teks overlap sama gambar (2026-03-14 18:07:48)
+Nambahin error handling di bagian upload gambar (2026-03-14 18:07:52)
