@@ -1078,3 +1078,4 @@ Fixing bug dimana aplikasi gak bisa nampilin data yang diproses secara paralel d
 Benerin bug di bagian manajemen tag (2026-03-14 23:16:53)
 Update tampilan UI aplikasi agar lebih modern dan mengikuti tren terbaru (2026-03-14 23:17:49)
 Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih cerdas dan proaktif dalam melindungi akun user dari berbagai macam upaya akses ilegal yang dilakukan oleh pihak-pihak yang bermaksud tidak baik bagi user (2026-03-14 23:17:50)
+Nambahin aria-label biar lebih accessible (2026-03-14 23:17:53)
