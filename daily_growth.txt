@@ -491,3 +491,4 @@ Update tampilan UI aplikasi agar tampak sangat mempesona dan memberikan kesan ya
 Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih cerdas dan proaktif dalam mengamankan akun user dari segala bentuk ancaman siber yang terus mengintai demi menjaga privasi dan keamanan data seluruh user (2026-03-14 20:01:48)
 Benerin bug di bagian tampilan riwayat chat (2026-03-14 20:01:49)
 Nambahin fitur simpan pencarian terakhir (2026-03-14 20:01:52)
+Nambahin fitur export ke PDF yang lebih rapi (2026-03-14 20:02:48)
