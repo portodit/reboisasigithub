@@ -890,3 +890,4 @@ Fixing bug dimana aplikasi gak bisa handle request yang alur logikanya sangat ru
 Nambahin fitur filter berdasarkan parameter yang sangat teknis dan spesifik untuk memberikan kontrol yang lebih mendalam bagi para user ahli yang ingin mengoptimalkan penggunaan aplikasi sesuai dengan kebutuhan kerja mereka yang unik (2026-03-14 22:14:48)
 Fixing bug dimana aplikasi gak bisa handle input yang memiliki format yang sangat unik secara otomatis tanpa harus memodifikasi kode program di banyak tempat yang berisiko menimbulkan masalah baru di bagian lain dari aplikasi sistem kita (2026-03-14 22:14:50)
 Ganti font jadi Inter biar lebih modern (2026-03-14 22:14:53)
+Nambahin fitur filter berdasarkan jenis konten (2026-03-14 22:15:48)
