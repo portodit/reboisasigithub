@@ -1031,3 +1031,4 @@ Fixing bug dimana aplikasi gak bisa handle request yang sangat spesifik kebutuha
 Nambahin fitur dark mode (akhirnya!) (2026-03-14 23:01:49)
 Nambahin fitur ganti layout dashboard (2026-03-14 23:01:50)
 Benerin bug di bagian tampilan galeri foto (2026-03-14 23:01:53)
+Nambahin fitur filter berdasarkan kategori yang mendapatkan rating kepuasan pelanggan paling tinggi untuk membantu user baru dalam menentukan pilihan mereka berdasarkan pengalaman positif yang dirasakan oleh user lain (2026-03-14 23:02:49)
