@@ -824,3 +824,4 @@ Fixing bug dimana aplikasi gak bisa handle input yang sangat bervariasi formatny
 Fixing bug dimana aplikasi gak bisa nampilin data yang diproses secara real-time dengan tingkat latensi yang rendah (2026-03-14 21:52:48)
 Fixing bug dimana aplikasi gak bisa nampilin data yang diproses secara real-time dengan akurasi tinggi (2026-03-14 21:52:49)
 Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih inspiratif dan memotivasi user untuk terus menggunakan aplikasi tersebut secara rutin (2026-03-14 21:52:53)
+Nambahin fitur ganti username (sekali setahun) (2026-03-14 21:53:48)
