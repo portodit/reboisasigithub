@@ -857,3 +857,4 @@ Fixing bug dimana aplikasi gak bisa handle input dengan tipe yang sangat bervari
 Benerin bug di bagian integrasi dengan API eksternal (2026-03-14 22:03:48)
 Fixing bug dimana user bisa akses halaman rahasia (2026-03-14 22:03:49)
 Nambahin fitur share link dengan tracking (2026-03-14 22:03:53)
+Benerin bug di bagian tampilan tabel di tablet (2026-03-14 22:04:48)
