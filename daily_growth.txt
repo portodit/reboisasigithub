@@ -1561,3 +1561,4 @@ Fixing bug dimana aplikasi gak bisa handle request dari berbagai platform secara
 Update library pemrosesan gambar (2026-03-15 01:57:54)
 Update sistem pengamanan data pribadi (2026-03-15 01:58:50)
 Fixing bug dimana aplikasi gak bisa handle input yang sangat beragam sumbernya secara konsisten (2026-03-15 01:58:51)
+Update tampilan tabel biar bisa di-resize (2026-03-15 01:58:54)
