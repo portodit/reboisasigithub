@@ -5238,3 +5238,4 @@ Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih personal 
 Nambahin fitur ganti layout dashboard (2026-03-15 19:28:05)
 Update tampilan UI aplikasi agar tampak lebih modern, minimalis, dan futuristik guna memberikan kesan sebagai aplikasi yang selalu siap menyambut masa depan dengan teknologi yang paling canggih dan inovatif di kelasnya (2026-03-15 19:28:55)
 Cleaning up node_modules yang gak kepake (lagi) (2026-03-15 19:28:56)
+Fixing bug redirect setelah login (2026-03-15 19:28:59)
