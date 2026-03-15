@@ -6561,3 +6561,4 @@ Nambahin fitur filter berdasarkan kriteria yang sangat inovatif dan belum pernah
 Benerin bug di bagian sistem manajemen tugas (2026-03-16 00:58:59)
 Nambahin fitur search suggestion (2026-03-16 00:59:06)
 Benerin bug di bagian checkout (2026-03-16 00:59:55)
+Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih memberikan kebebasan kepada user untuk mengatur sendiri notifikasi apa saja yang ingin mereka terima dan melalui saluran apa saja sesuai keinginan (2026-03-16 00:59:56)
