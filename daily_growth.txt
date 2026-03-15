@@ -3316,3 +3316,4 @@ Benerin bug di bagian integrasi sistem manajemen database yang lebih akurat dala
 Update sistem manajemen keamanan aplikasi yang lebih menyeluruh dan mencakup seluruh aspek perlindungan data mulai dari enkripsi saat pengiriman data hingga penyimpanan di server secara aman sesuai standar global yang ketat (2026-03-15 11:27:54)
 Update tampilan UI aplikasi agar tampak sangat mempesona dan memberikan kesan yang mendalam di hati setiap user sehingga mereka merasa nyaman dan betah berlama-lama menggunakan aplikasi ini untuk kebutuhan sehari-hari (2026-03-15 11:27:57)
 Nambahin fitur print invoice (2026-03-15 11:28:04)
+Ganti font jadi Inter biar lebih modern (2026-03-15 11:28:53)
