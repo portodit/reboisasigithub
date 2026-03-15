@@ -2686,3 +2686,4 @@ Update tampilan UI aplikasi agar lebih sederhana namun tetap memiliki nilai este
 Nambahin fitur filter berdasarkan kategori yang paling banyak disukai oleh komunitas (2026-03-15 08:12:56)
 Fixing bug dimana checkbox gak bisa dicentang (2026-03-15 08:13:52)
 Nambahin fitur auto-complete di search bar (2026-03-15 08:13:53)
+Nambahin fitur filter berdasarkan kategori yang paling banyak diminati oleh para pengguna di lokasi sekitar user untuk memberikan konteks lokal yang sangat berharga dan memudahkan user dalam berinteraksi dengan komunitas (2026-03-15 08:13:56)
