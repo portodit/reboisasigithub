@@ -5052,3 +5052,4 @@ Nambahin fitur filter berdasarkan parameter yang sangat mendalam dan bersifat te
 Update tampilan UI aplikasi agar lebih modern dan minimalis sesuai selera masa kini (2026-03-15 18:41:55)
 Fixing bug dimana aplikasi gak bisa handle input file yang ukurannya sangat besar (2026-03-15 18:41:59)
 Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih fleksibel (2026-03-15 18:42:05)
+Benerin bug di bagian formatting mata uang (2026-03-15 18:42:54)
