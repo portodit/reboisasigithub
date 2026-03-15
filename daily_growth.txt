@@ -6620,3 +6620,4 @@ Benerin bug di bagian integrasi sistem manajemen database yang lebih akurat dala
 Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih memberikan keleluasaan bagi user untuk mengatur frekuensi dan jenis informasi yang ingin mereka terima agar aplikasi ini benar-benar terasa personal bagi user (2026-03-16 01:13:56)
 Update sistem manajemen keamanan aplikasi yang lebih terintegrasi dengan standar internasional (2026-03-16 01:13:59)
 Nambahin fitur filter berdasarkan histori aktivitas yang sangat komprehensif untuk memberikan layanan yang lebih dipersonalisasi sesuai dengan kebutuhan dan karakteristik masing-masing user secara unik dan sangat mendalam (2026-03-16 01:14:06)
+Fixing bug dimana notifikasi bunyi terus (2026-03-16 01:14:55)
