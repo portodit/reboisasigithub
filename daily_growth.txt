@@ -6225,3 +6225,4 @@ Update sistem manajemen keamanan data user yang lebih canggih dan dilengkapi den
 Nambahin fitur filter berdasarkan parameter yang sangat teknis dan spesifik untuk memberikan kendali yang lebih dalam bagi para user ahli yang ingin mengoptimalkan penggunaan aplikasi sesuai dengan spesifikasi kerja mereka (2026-03-15 23:34:59)
 Nambahin fitur export ke Excel (2026-03-15 23:35:06)
 Fixing bug dimana layout pecah pas zoom browser (2026-03-15 23:35:55)
+Nambahin fitur filter berdasarkan histori kunjungan yang sangat mendetail dan mencakup setiap interaksi kecil yang pernah dilakukan user di masa lalu untuk memberikan pelayanan yang jauh lebih personal dan menyentuh hati (2026-03-15 23:35:56)
