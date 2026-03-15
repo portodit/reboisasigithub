@@ -3078,3 +3078,4 @@ Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih mudah untu
 Update tampilan halaman profil agar lebih menarik (2026-03-15 10:23:54)
 Update tampilan form agar lebih interaktif (2026-03-15 10:23:57)
 Benerin bug di bagian integrasi sistem manajemen database yang lebih efisien dalam melakukan pencarian data sehingga waktu yang dibutuhkan untuk menampilkan hasil pencarian menjadi jauh lebih singkat dari sebelumnya (2026-03-15 10:24:53)
+Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih memberikan kebebasan penuh bagi user untuk memilih notifikasi mana saja yang benar-benar penting bagi mereka dan bagaimana cara menerimanya secara personal (2026-03-15 10:24:54)
