@@ -3611,3 +3611,4 @@ Nambahin fitur filter berdasarkan kriteria yang sangat inovatif dan belum pernah
 Nambahin fitur filter berdasarkan jarak terdekat (2026-03-15 12:41:53)
 Nambahin lazy loading buat gambar di bawah (2026-03-15 12:41:54)
 Benerin bug di bagian manajemen permission (2026-03-15 12:41:57)
+Nambahin fitur filter berdasarkan tingkat kepentingan (2026-03-15 12:42:04)
