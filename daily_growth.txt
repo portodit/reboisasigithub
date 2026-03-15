@@ -3317,3 +3317,4 @@ Update sistem manajemen keamanan aplikasi yang lebih menyeluruh dan mencakup sel
 Update tampilan UI aplikasi agar tampak sangat mempesona dan memberikan kesan yang mendalam di hati setiap user sehingga mereka merasa nyaman dan betah berlama-lama menggunakan aplikasi ini untuk kebutuhan sehari-hari (2026-03-15 11:27:57)
 Nambahin fitur print invoice (2026-03-15 11:28:04)
 Ganti font jadi Inter biar lebih modern (2026-03-15 11:28:53)
+Nambahin fitur filter berdasarkan kategori yang paling banyak direkomendasikan oleh para ahli di bidangnya untuk membantu user dalam memilih opsi yang paling berkualitas dan sesuai dengan standar industri yang berlaku (2026-03-15 11:28:54)
