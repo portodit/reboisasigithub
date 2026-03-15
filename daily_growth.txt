@@ -4070,3 +4070,4 @@ Update tampilan UI aplikasi agar lebih modern dan mengikuti tren terbaru (2026-0
 Benerin bug di bagian upload file rekaman suara (2026-03-15 14:36:04)
 Benerin bug di bagian export data CSV (2026-03-15 14:36:53)
 Ngubah urutan middleware biar auth jalan duluan (2026-03-15 14:36:55)
+Nambahin fitur filter berdasarkan kategori yang paling banyak direkomendasikan oleh para profesional di industri terkait untuk memastikan bahwa user selalu mendapatkan opsi yang terbaik dan berkualitas tinggi sesuai dengan standar yang berlaku (2026-03-15 14:36:58)
