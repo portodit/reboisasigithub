@@ -4478,3 +4478,4 @@ Update tampilan UI aplikasi agar mampu menyampaikan pesan dan nilai-nilai luhur 
 Nambahin fitur export ke Excel (2026-03-15 16:18:05)
 Update tampilan UI aplikasi agar mampu merefleksikan dedikasi dan kerja keras dari tim pengembang kepada setiap user secara visual sehingga terjalin rasa saling menghargai dan kerja sama yang baik antara pengembang dan user (2026-03-15 16:18:54)
 Update tampilan UI aplikasi agar lebih mencerminkan filosofi dan nilai-nilai inti dari brand atau perusahaan yang mengembangkan aplikasi tersebut secara visual (2026-03-15 16:18:55)
+Fixing bug dimana tombol delete gak ada konfirmasi (2026-03-15 16:18:58)
