@@ -4179,3 +4179,4 @@ Fixing bug dimana aplikasi gak bisa handle input yang memiliki tipe sangat berva
 Nambahin fitur filter berdasarkan histori transaksi yang dilakukan oleh user selama menggunakan aplikasi tersebut untuk memberikan gambaran yang menyeluruh tentang pola konsumsi dan perilaku belanja user secara akurat (2026-03-15 15:03:54)
 Update tampilan dashboard dengan widget baru (2026-03-15 15:03:55)
 Benerin bug di bagian integrasi sistem manajemen database yang lebih aman, tepercaya, dan memiliki tingkat integritas yang sangat tinggi untuk menjaga seluruh aset digital yang sangat berharga milik para pengguna aplikasi (2026-03-15 15:03:58)
+Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih memberikan kebebasan kepada user untuk mengatur sendiri notifikasi apa saja yang ingin mereka terima dan melalui saluran apa saja sesuai keinginan (2026-03-15 15:04:04)
