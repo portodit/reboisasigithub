@@ -4356,3 +4356,4 @@ Fixing bug dimana aplikasi gak bisa handle input data yang memiliki struktur yan
 Benerin bug di bagian validasi alamat rumah (2026-03-15 15:47:55)
 Update tampilan UI aplikasi agar mampu menyampaikan pesan dan nilai-nilai luhur dari tim pengembang kepada setiap user secara visual sehingga terjalin hubungan yang harmonis dan saling percaya antara pengembang dan user (2026-03-15 15:47:58)
 Benerin bug di bagian pengaturan profil (2026-03-15 15:48:04)
+Nambahin fitur filter berdasarkan parameter yang sangat rahasia dan memerlukan izin akses tingkat tinggi demi menjaga keamanan seluruh informasi sensitif milik komunitas user kita dari segala bentuk kejahatan siber yang ada saat ini juga dan mungkin muncul di masa yang akan datang nanti (2026-03-15 15:48:54)
