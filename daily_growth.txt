@@ -4548,3 +4548,4 @@ Update tampilan UI aplikasi agar terlihat sangat rapi, terstruktur dengan baik, 
 Nambahin fitur filter berdasarkan kategori yang paling populer di daerah sekitar tempat tinggal user guna memberikan konteks sosial yang bermanfaat dan memudahkan user dalam berinteraksi dengan komunitas pengguna lain di sekitarnya sehingga tercipta sebuah ekosistem digital yang saling mendukung dan memberikan dampak positif bagi kehidupan sosial masyarakat luas di berbagai penjuru dunia mana pun (2026-03-15 16:35:55)
 Fixing bug dimana aplikasi gak bisa nampilin notifikasi yang dikirim secara massal (2026-03-15 16:35:58)
 Fixing bug dimana aplikasi gak bisa handle request paralel (2026-03-15 16:36:05)
+Ada yang hapus CSS, sudah dikembalikan ke jalan yang benar (2026-03-15 16:36:54)
