@@ -3147,3 +3147,4 @@ Fixing bug dimana aplikasi gak bisa handle input yang gak valid secara otomatis 
 Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih pintar dalam memilih momen yang paling pas untuk mengirimkan pesan kepada user agar tidak mengganggu fokus user pada hal-hal penting yang sedang dikerjakan (2026-03-15 10:45:53)
 Benerin bug di bagian integrasi sistem manajemen database yang lebih tangguh dan memiliki sistem cadangan yang selalu siap sedia jika terjadi kegagalan sistem utama agar data user tetap aman dan tidak pernah hilang (2026-03-15 10:45:54)
 Fixing bug dimana user bisa akses API langsung (2026-03-15 10:45:57)
+Nambahin fitur 'Forgot Password' (2026-03-15 10:46:03)
