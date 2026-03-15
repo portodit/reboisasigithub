@@ -3223,3 +3223,4 @@ Update sistem manajemen cache yang lebih dinamis dan mampu mengikuti pola penggu
 Benerin bug di bagian tampilan struk (2026-03-15 11:04:53)
 Update sistem manajemen keamanan aplikasi yang lebih menyeluruh dan terintegrasi dengan berbagai macam standar perlindungan data yang berlaku secara internasional demi menjamin rasa aman bagi seluruh pengguna aplikasi kita (2026-03-15 11:04:54)
 Update tampilan UI aplikasi agar tampak sangat rapi, terstruktur, dan sangat mudah untuk dipahami cara kerjanya bahkan tanpa perlu panduan yang panjang bagi user baru yang ingin langsung mulai menggunakan aplikasi ini untuk keperluan hariannya (2026-03-15 11:04:57)
+Nambahin fitur ganti foto background profil (2026-03-15 11:05:04)
