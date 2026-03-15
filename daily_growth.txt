@@ -6406,3 +6406,4 @@ Benerin bug di bagian integrasi sistem manajemen file yang lebih cepat dan efisi
 Nambahin fitur dark mode (akhirnya!) (2026-03-16 00:20:06)
 Update tampilan icon aplikasi agar lebih tajam (2026-03-16 00:20:55)
 Nambahin fitur filter berdasarkan parameter yang sangat presisi dan mampu memberikan hasil yang benar-benar relevan dengan apa yang sedang dikerjakan oleh user saat ini guna membantu meningkatkan produktivitas kerja mereka secara efektif (2026-03-16 00:20:56)
+Update tampilan UI aplikasi agar lebih mudah dipahami dan digunakan bahkan oleh pengguna yang belum pernah memiliki pengalaman menggunakan aplikasi sejenis sebelumnya sekalipun (2026-03-16 00:20:59)
