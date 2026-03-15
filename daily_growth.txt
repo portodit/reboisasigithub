@@ -3654,3 +3654,4 @@ Update sistem manajemen keamanan aplikasi yang lebih komprehensif, berlapis-lapi
 Nambahin fitur filter berdasarkan kategori yang memiliki tingkat kepuasan user paling tinggi sebagai bahan referensi bagi user dalam memilih layanan atau produk terbaik yang tersedia di dalam aplikasi kita yang terus berkembang ini (2026-03-15 12:52:04)
 Fixing bug dimana data lama masih muncul (2026-03-15 12:52:53)
 Fixing bug dimana scrollbar muncul dua (2026-03-15 12:52:54)
+Benerin bug di bagian tampilan tabel di tablet (2026-03-15 12:52:57)
