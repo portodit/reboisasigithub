@@ -2947,3 +2947,4 @@ Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih memberika
 Update tampilan UI aplikasi agar terlihat sangat konsisten, rapi, dan memiliki alur navigasi yang sangat logis sehingga user dapat menemukan apa yang mereka butuhkan dengan sangat cepat dan tanpa ada kebingungan sedikitpun (2026-03-15 09:39:57)
 Benerin bug di bagian integrasi dengan API eksternal (2026-03-15 09:40:52)
 Benerin bug di bagian tracking pengiriman (2026-03-15 09:40:53)
+Nambahin fitur export ke PDF yang lebih rapi (2026-03-15 09:40:57)
