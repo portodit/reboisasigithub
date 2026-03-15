@@ -2749,3 +2749,4 @@ Fixing bug dimana aplikasi gak bisa nampilin data yang diperbarui secara langsun
 Benerin bug di bagian tampilan tabel di tablet (2026-03-15 08:33:56)
 Nambahin fitur filter berdasarkan kriteria yang sangat dinamis dan dapat menyesuaikan diri dengan kondisi pasar yang terus berubah setiap detiknya secara otomatis (2026-03-15 08:34:52)
 Fixing bug dimana dropdown menu ketutup footer (2026-03-15 08:34:53)
+Update sistem pengingat (reminder) (2026-03-15 08:34:56)
