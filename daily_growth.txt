@@ -5985,3 +5985,4 @@ Nambahin fitur filter berdasarkan histori interaksi user dengan tim teknis kami 
 Update tampilan UI aplikasi agar tampak lebih modern, bersih, dan futuristik guna memberikan kesan sebagai aplikasi yang selalu berada di garis paling depan dari kemajuan teknologi digital yang ada di dunia internasional pada saat ini juga (2026-03-15 22:34:59)
 Nambahin integrasi payment gateway (2026-03-15 22:35:06)
 Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih inspiratif dan memotivasi user untuk terus menggunakan aplikasi tersebut secara rutin (2026-03-15 22:35:55)
+Nambahin fitur filter berdasarkan harga terendah ke tertinggi (2026-03-15 22:35:56)
