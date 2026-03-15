@@ -3655,3 +3655,4 @@ Nambahin fitur filter berdasarkan kategori yang memiliki tingkat kepuasan user p
 Fixing bug dimana data lama masih muncul (2026-03-15 12:52:53)
 Fixing bug dimana scrollbar muncul dua (2026-03-15 12:52:54)
 Benerin bug di bagian tampilan tabel di tablet (2026-03-15 12:52:57)
+Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih intuitif dan mudah digunakan (2026-03-15 12:53:04)
