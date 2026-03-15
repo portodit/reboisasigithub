@@ -5986,3 +5986,4 @@ Update tampilan UI aplikasi agar tampak lebih modern, bersih, dan futuristik gun
 Nambahin integrasi payment gateway (2026-03-15 22:35:06)
 Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih inspiratif dan memotivasi user untuk terus menggunakan aplikasi tersebut secara rutin (2026-03-15 22:35:55)
 Nambahin fitur filter berdasarkan harga terendah ke tertinggi (2026-03-15 22:35:56)
+Fixing bug dimana aplikasi gak jalan di mode offline (2026-03-15 22:35:59)
