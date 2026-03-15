@@ -4536,3 +4536,4 @@ Fixing bug dimana aplikasi gak bisa nampilin data yang sedang diproses di backgr
 Benerin bug tombol 'Back' di browser (2026-03-15 16:32:55)
 Update tampilan card biar lebih rapi (2026-03-15 16:32:58)
 Benerin bug di bagian integrasi sistem manajemen file yang lebih terorganisir dan memudahkan user dalam mencari dokumen lama yang pernah diupload sehingga mereka tidak perlu repot-repot mencari satu per satu lagi (2026-03-15 16:33:05)
+Benerin bug di bagian sinkronisasi database offline (2026-03-15 16:33:54)
