@@ -3782,3 +3782,4 @@ Benerin bug di bagian integrasi sistem manajemen database yang lebih gesit dalam
 Update sistem manajemen keamanan data user yang lebih transparan dan akuntabel sehingga user merasa benar-benar memiliki kendali penuh atas informasi pribadi mereka yang kita kelola dengan cara yang sangat bertanggung jawab, sangat jujur, dan selalu mengedepankan etika privasi (2026-03-15 13:24:04)
 Benerin bug di bagian pengaturan profil (2026-03-15 13:24:53)
 Nambahin fitur filter berdasarkan parameter yang sangat sensitif dan memerlukan izin khusus (2026-03-15 13:24:54)
+Nambahin loading spinner biar user gak bingung (2026-03-15 13:24:57)
