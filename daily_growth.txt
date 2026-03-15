@@ -4890,3 +4890,4 @@ Update sistem manajemen cache yang lebih dinamis dan mampu mengikuti pola penggu
 Benerin bug di bagian integrasi sistem manajemen file yang lebih mudah dikelola secara berkelompok (batch) sehingga dapat menghemat waktu dan tenaga user dalam melakukan tugas-tugas administratif (2026-03-15 18:01:05)
 Benerin bug di bagian perhitungan stok barang (2026-03-15 18:01:54)
 Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih cerdas dalam menentukan kapan harus dikirimkan (2026-03-15 18:01:55)
+Nambahin fitur filter berdasarkan histori pembelian user yang sangat lengkap (2026-03-15 18:01:59)
