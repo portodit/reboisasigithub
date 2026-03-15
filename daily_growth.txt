@@ -3972,3 +3972,4 @@ Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih mudah untu
 Fixing bug dimana aplikasi gak bisa handle request yang memiliki struktur logika yang sangat rumit dan saling berkaitan satu sama lain secara benar dan tanpa ada kesalahan dalam urutan proses eksekusinya oleh sistem (2026-03-15 14:11:55)
 Fixing bug dimana gambar pecah pas di-zoom (2026-03-15 14:11:58)
 Benerin bug di bagian export data CSV (2026-03-15 14:12:04)
+Nambahin fitur sortir berdasarkan abjad (2026-03-15 14:12:53)
