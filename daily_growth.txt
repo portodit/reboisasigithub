@@ -7173,3 +7173,4 @@ Update sistem manajemen cache yang lebih dinamis dan mampu beradaptasi dengan po
 Update skema database buat tabel baru (2026-03-16 03:31:59)
 Nambahin fitur filter berdasarkan kategori favorit (2026-03-16 03:32:06)
 Fixing bug dimana gambar gak responsif (2026-03-16 03:32:55)
+Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih bijaksana dalam menyampaikan informasi agar user tidak merasa terganggu oleh banyaknya pesan yang masuk dan tetap fokus pada hal-hal yang benar-benar penting (2026-03-16 03:32:56)
