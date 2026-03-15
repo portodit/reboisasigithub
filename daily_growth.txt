@@ -2611,3 +2611,4 @@ Nambahin fitur filter berdasarkan histori interaksi user dengan tim support di m
 Fixing bug dimana teks heading gak muncul sempurna (2026-03-15 07:47:56)
 Nambahin fitur filter berdasarkan warna (2026-03-15 07:48:51)
 Fixing bug dimana aplikasi gak support karakter khusus (2026-03-15 07:48:53)
+Fixing bug dimana aplikasi lemot pas pertama buka (2026-03-15 07:48:56)
