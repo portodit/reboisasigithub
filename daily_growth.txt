@@ -4889,3 +4889,4 @@ Fixing bug dimana aplikasi gak bisa deteksi koneksi internet (2026-03-15 18:00:5
 Update sistem manajemen cache yang lebih dinamis dan mampu mengikuti pola penggunaan data yang berubah-ubah secara mendadak untuk menjamin kestabilan performa aplikasi meskipun sedang berada di bawah tekanan trafik tinggi (2026-03-15 18:00:58)
 Benerin bug di bagian integrasi sistem manajemen file yang lebih mudah dikelola secara berkelompok (batch) sehingga dapat menghemat waktu dan tenaga user dalam melakukan tugas-tugas administratif (2026-03-15 18:01:05)
 Benerin bug di bagian perhitungan stok barang (2026-03-15 18:01:54)
+Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih cerdas dalam menentukan kapan harus dikirimkan (2026-03-15 18:01:55)
