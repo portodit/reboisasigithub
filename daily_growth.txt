@@ -7191,3 +7191,4 @@ Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih tangguh da
 Fixing bug dimana aplikasi gak bisa handle input file yang ukurannya sangat besar (2026-03-16 03:36:55)
 Nambahin limit karakter di input komentar (2026-03-16 03:36:56)
 Benerin bug di bagian integrasi sistem manajemen file yang lebih cepat dan efisien dalam menangani proses pengiriman data yang memiliki ukuran sangat besar sekalipun (2026-03-16 03:36:59)
+Fixing bug dimana modal gak bisa ditutup pake Esc (2026-03-16 03:37:06)
