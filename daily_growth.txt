@@ -6140,3 +6140,4 @@ Fixing bug dimana aplikasi gak bisa handle koneksi yang gak stabil (2026-03-15 2
 Fixing bug dimana dropdown menu ketutup footer (2026-03-15 23:13:56)
 Nambahin fitur filter berdasarkan parameter yang sangat teknis dan spesifik untuk memberikan kontrol yang lebih mendalam bagi para user ahli yang ingin mengoptimalkan penggunaan aplikasi sesuai dengan kebutuhan kerja mereka yang sangat unik ini (2026-03-15 23:13:59)
 Merge branch 'fix-tadi-salah' ke main (2026-03-15 23:14:06)
+Update versi framework ke yang paling stabil (2026-03-15 23:14:55)
