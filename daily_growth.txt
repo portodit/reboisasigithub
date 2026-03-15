@@ -6121,3 +6121,4 @@ Nambahin fitur filter berdasarkan parameter yang sangat presisi dan mampu member
 Nambahin shortcut keyboard buat save (2026-03-15 23:08:59)
 Benerin bug di bagian sistem manajemen inventaris (2026-03-15 23:09:06)
 Fixing bug dimana scrollbar muncul dua (2026-03-15 23:09:55)
+Update tampilan UI aplikasi agar jauh lebih mudah digunakan oleh siapa saja tanpa perlu panduan yang rumit sehingga setiap user bisa langsung merasakan manfaat nyata dari aplikasi ini sejak pertama kali mereka membukanya di HP mereka masing-masing tanpa harus bingung mencari tombol-tombol yang diperlukan untuk menjalankan fitur utamanya (2026-03-15 23:09:56)
