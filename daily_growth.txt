@@ -3190,3 +3190,4 @@ Fixing bug dimana aplikasi gak bisa handle input data dalam jumlah yang sangat m
 Update tampilan UI aplikasi agar nampak sangat rapi, teratur, dan sangat mudah untuk dipelajari cara penggunaannya bahkan bagi orang yang pertama kali mencoba aplikasi digital sekalipun untuk memenuhi kebutuhan harian mereka (2026-03-15 10:56:04)
 Nambahin fitur drag and drop file (2026-03-15 10:56:53)
 Fixing bug dimana aplikasi gak bisa handle input data dalam jumlah yang sangat fantastis besarnya dalam rentang waktu yang sangat singkat tanpa membuat beban server menjadi melonjak tinggi dan mengganggu user yang lainnya (2026-03-15 10:56:54)
+Update sistem keamanan token JWT (2026-03-15 10:56:57)
