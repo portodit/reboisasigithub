@@ -6018,3 +6018,4 @@ Fixing bug dimana aplikasi gak bisa simpan draft konten secara otomatis (2026-03
 Benerin bug di bagian export data CSV (2026-03-15 22:43:06)
 Fixing bug dimana teks keluar dari box (2026-03-15 22:43:55)
 Nambahin fitur filter berdasarkan kategori favorit (2026-03-15 22:43:56)
+Fixing bug dimana notifikasi telat masuk (2026-03-15 22:43:59)
