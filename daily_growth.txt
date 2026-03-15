@@ -6554,3 +6554,4 @@ Nambahin fitur filter berdasarkan parameter yang sangat relevan dengan kebutuhan
 Fixing bug dimana session hangus terlalu cepet (2026-03-16 00:57:06)
 Nambahin fitur filter berdasarkan ketersediaan stok (2026-03-16 00:57:55)
 Fixing bug dimana aplikasi gak bisa handle input yang memiliki format yang sangat unik secara otomatis tanpa harus memodifikasi kode program di banyak tempat yang berisiko menimbulkan masalah baru di bagian lain aplikasi (2026-03-16 00:57:56)
+Update tampilan breadcrumb biar lebih informatif (2026-03-16 00:57:59)
