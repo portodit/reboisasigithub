@@ -4554,3 +4554,4 @@ Fixing bug dimana aplikasi gak bisa handle request yang berdampak luas terhadap 
 Fixing bug dimana aplikasi gak bisa nampilin data yang diproses secara paralel di banyak thread sekaligus dengan tingkat sinkronisasi yang sangat sempurna sehingga tidak ada data yang tumpang tindih atau hilang sama sekali (2026-03-15 16:37:05)
 Update tampilan UI aplikasi agar lebih user-friendly dan mudah dipelajari (2026-03-15 16:37:54)
 Fixing bug dimana aplikasi gak bisa handle input yang datang dari beragam jenis platform perangkat yang berbeda secara konsisten tanpa ada masalah sinkronisasi data yang dapat mengganggu pengalaman user dalam menggunakan aplikasi kita (2026-03-15 16:37:55)
+Nambahin fitur filter berdasarkan kategori yang paling baru ditambahkan (2026-03-15 16:37:58)
