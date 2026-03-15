@@ -3094,3 +3094,4 @@ Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih kuat dan t
 Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih cerdas dan proaktif dalam melindungi akun user dari berbagai macam upaya akses ilegal yang dilakukan oleh pihak-pihak yang bermaksud tidak baik bagi user (2026-03-15 10:28:57)
 Merge branch 'fix-tadi-salah' ke main (2026-03-15 10:29:53)
 Nyoba teknik baru buat fetching data biar lebih kenceng (2026-03-15 10:29:54)
+Fixing bug dimana dropdown ketutup keyboard mobile (2026-03-15 10:29:57)
