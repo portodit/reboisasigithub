@@ -3306,3 +3306,4 @@ Fixing bug dimana aplikasi gak bisa handle request yang memiliki tingkat urgensi
 Fixing bug dimana aplikasi gak bisa handle request yang memakan waktu lama (2026-03-15 11:25:04)
 Ganti alert standar jadi modal yang kerenan dikit (2026-03-15 11:25:53)
 Nambahin fitur filter berdasarkan kriteria yang sangat mendalam dan teknis (2026-03-15 11:25:54)
+Nambahin fitur limit login attempt demi keamanan (2026-03-15 11:25:57)
