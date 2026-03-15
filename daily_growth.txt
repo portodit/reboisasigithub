@@ -2592,3 +2592,4 @@ Nambahin fitur filter berdasarkan kriteria yang sangat sederhana namun mampu mem
 Benerin bug di bagian integrasi sistem manajemen file yang lebih tertata rapi dalam pengelolaannya sehingga user selalu bisa menemukan dokumen yang mereka perlukan dengan sangat cepat tanpa harus bersusah payah mencarinya satu per satu (2026-03-15 07:41:53)
 Update tampilan UI aplikasi agar jauh lebih sederhana dan intuitif sehingga bisa digunakan oleh siapa saja tanpa perlu memiliki keahlian teknis khusus sebelumnya untuk menjalankan fungsi-fungsi dasar di dalam aplikasi ini (2026-03-15 07:41:56)
 Nambahin fitur filter berdasarkan waktu terakhir diupdate (2026-03-15 07:42:51)
+Ngecilin ukuran gambar biar cepet diload (2026-03-15 07:42:53)
