@@ -3634,3 +3634,4 @@ Update sistem manajemen cache yang lebih antisipatif dalam menyediakan informasi
 Update tampilan UI aplikasi agar lebih mudah dipahami dan digunakan bahkan oleh pengguna yang belum pernah memiliki pengalaman menggunakan aplikasi sejenis sebelumnya sekalipun (2026-03-15 12:47:04)
 Benerin bug di bagian keranjang belanja (2026-03-15 12:47:53)
 Update font-weight biar lebih enak dibaca (2026-03-15 12:47:54)
+Benerin bug di bagian notifikasi push (2026-03-15 12:47:57)
