@@ -4922,3 +4922,4 @@ Nambahin fitur filter berdasarkan histori aktivitas yang sangat komprehensif unt
 Update sistem keamanan token JWT (2026-03-15 18:09:05)
 Nambahin fitur rating dan review (2026-03-15 18:09:54)
 Update sistem manajemen antrian pesan (2026-03-15 18:09:55)
+Nambahin fitur filter harga dari terendah (2026-03-15 18:09:58)
