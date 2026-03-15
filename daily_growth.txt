@@ -5821,3 +5821,4 @@ Fixing bug dimana aplikasi gak bisa handle request yang memiliki alur logika yan
 Nambahin fitur filter berdasarkan parameter yang sangat spesifik dan relevan dengan situasi terkini yang sedang dialami oleh user untuk memberikan pengalaman yang lebih nyata dan solutif bagi setiap masalah yang ada (2026-03-15 21:53:59)
 Fixing bug dimana notifikasi telat masuk (2026-03-15 21:54:06)
 Benerin bug di bagian validasi file extension (2026-03-15 21:54:55)
+Nambahin dukungan multi-bahasa (tahap awal) (2026-03-15 21:54:56)
