@@ -3435,3 +3435,4 @@ Update sistem manajemen keamanan aplikasi yang lebih komprehensif dan mencakup s
 Nambahin fitur filter berdasarkan kategori yang paling relevan bagi user (2026-03-15 11:57:53)
 Fixing bug dimana aplikasi gak bisa handle input yang gak valid secara otomatis (2026-03-15 11:57:54)
 Update tampilan UI aplikasi agar terlihat sangat konsisten, rapi, dan memiliki alur navigasi yang sangat logis sehingga user dapat menemukan apa yang mereka butuhkan dengan sangat cepat dan tanpa ada kebingungan sedikitpun (2026-03-15 11:57:57)
+Nambahin fitur filter berdasarkan kategori yang paling populer di daerah sekitar tempat tinggal user guna memberikan konteks sosial yang bermanfaat dan memudahkan user dalam berinteraksi dengan komunitas pengguna lain di sekitarnya (2026-03-15 11:58:04)
