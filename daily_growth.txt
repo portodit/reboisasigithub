@@ -2565,3 +2565,4 @@ Nambahin fitur filter berdasarkan parameter khusus yang ditentukan user (2026-03
 Nambahin fitur filter berdasarkan kategori yang paling baru ditambahkan dan sedang menjadi tren yang sangat populer di kalangan para pengguna aplikasi kita saat ini guna memberikan wawasan yang sangat berharga bagi setiap user yang ada (2026-03-15 07:32:53)
 Fixing bug dimana aplikasi gak bisa handle request yang alur logikanya sangat rumit dan saling berkaitan satu sama lain dengan tepat tanpa ada kesalahan dalam setiap proses eksekusi yang dijalankan oleh mesin inti aplikasi kita (2026-03-15 07:32:56)
 Benerin bug di bagian integrasi sistem manajemen database yang lebih kuat dan memiliki sistem backup data yang sangat handal jika terjadi masalah pada server pusat agar data berharga milik user tetap aman dan tidak akan pernah hilang selamanya (2026-03-15 07:33:51)
+Nambahin fitur filter berdasarkan tingkat kepentingan (2026-03-15 07:33:53)
