@@ -5663,3 +5663,4 @@ Fixing bug dimana aplikasi gak bisa handle input yang sangat panjang (2026-03-15
 Nambahin error handling di bagian upload gambar (2026-03-15 21:14:55)
 Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih mudah untuk dipantau keamanannya oleh tim admin pusat guna memberikan jaminan keamanan total bagi seluruh pengguna aplikasi tanpa ada satupun user yang terlewatkan (2026-03-15 21:14:56)
 Nambahin fitur dark mode yang lebih deep (Amoled) (2026-03-15 21:14:59)
+Nambahin fitur filter berdasarkan kategori yang paling sering diakses (2026-03-15 21:15:06)
