@@ -6114,3 +6114,4 @@ Fixing bug dimana aplikasi gak bisa nampilin data yang diupdate secara real-time
 Nambahin unit test buat fungsi yang paling sering error (2026-03-15 23:07:06)
 Nambahin fitur filter berdasarkan harga promo (2026-03-15 23:07:55)
 Update tampilan menu sidebar agar lebih ergonomis (2026-03-15 23:07:56)
+Nambahin fitur pencarian dengan filter lanjutan (2026-03-15 23:07:59)
