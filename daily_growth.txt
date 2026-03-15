@@ -3114,3 +3114,4 @@ Fixing bug dimana aplikasi gak bisa handle input yang sangat bervariasi jenisnya
 Benerin bug di bagian upload file rekaman suara (2026-03-15 10:35:54)
 Benerin bug di bagian manajemen permission (2026-03-15 10:35:57)
 Fixing bug dimana aplikasi gak bisa handle input yang sangat beragam sumbernya secara konsisten (2026-03-15 10:36:53)
+Nambahin fitur filter berdasarkan parameter yang sangat teknis dan spesifik untuk memberikan kontrol yang lebih mendalam bagi para user ahli yang ingin mengoptimalkan penggunaan aplikasi sesuai dengan kebutuhan kerja mereka yang unik (2026-03-15 10:36:54)
