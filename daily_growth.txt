@@ -7315,3 +7315,4 @@ Nambahin fitur filter berdasarkan kategori yang sedang populer dan banyak dimina
 Nambahin fitur filter berdasarkan warna (2026-03-16 04:07:55)
 Update tampilan halaman error agar lebih informatif (2026-03-16 04:07:56)
 Nyobain library baru, malah rusak semua, balik lagi (2026-03-16 04:07:59)
+Nambahin fitur drag and drop file (2026-03-16 04:08:06)
