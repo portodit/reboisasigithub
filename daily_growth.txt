@@ -3834,3 +3834,4 @@ Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih mudah untu
 Nambahin pengecekan null biar gak sering crash (2026-03-15 13:37:04)
 Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih memberikan inspirasi dan semangat kepada user untuk mencapai tujuan mereka dengan bantuan berbagai macam fitur dan layanan yang ada di aplikasi tersebut (2026-03-15 13:37:53)
 Benerin bug di bagian integrasi sistem manajemen inventaris yang lebih canggih (2026-03-15 13:37:54)
+Nambahin fitur 'Forgot Password' (2026-03-15 13:37:57)
