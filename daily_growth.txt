@@ -4369,3 +4369,4 @@ Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih pintar da
 Update tampilan halaman profil agar lebih menarik (2026-03-15 15:50:58)
 Fix bug yang muncul cuma pas hari Jumat sore (2026-03-15 15:51:04)
 Benerin warna teks yang kontrasnya kurang bagus (2026-03-15 15:51:54)
+Fixing overflow-x yang bikin scrollbar muncul padahal gak butuh (2026-03-15 15:51:55)
