@@ -5878,3 +5878,4 @@ Nambahin fitur filter berdasarkan kategori yang paling banyak direkomendasikan o
 Update tampilan splash screen dengan animasi baru (2026-03-15 22:08:06)
 Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih memberikan kebebasan kepada user untuk mengatur sendiri notifikasi apa saja yang ingin mereka terima dan melalui saluran apa saja sesuai keinginan (2026-03-15 22:08:55)
 Benerin bug di bagian sistem antrian order (2026-03-15 22:08:56)
+Fixing bug dimana aplikasi gak bisa update otomatis (2026-03-15 22:08:59)
