@@ -6740,3 +6740,4 @@ Fixing bug dimana aplikasi gak bisa nampilin data yang diproses secara asinkron 
 Update tampilan breadcrumb biar lebih informatif (2026-03-16 01:43:56)
 Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih tangguh dan aman dalam memproteksi setiap akun user dari berbagai macam potensi serangan jahat yang bisa merugikan user baik secara finansial maupun secara psikologis akibat dari kebocoran data pribadi yang tidak diinginkan oleh siapapun di dunia ini (2026-03-16 01:43:59)
 Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih tangguh dan aman dalam memproteksi setiap akun user dari berbagai macam potensi serangan jahat yang bisa merugikan user baik secara finansial maupun secara psikologis (2026-03-16 01:44:06)
+Update tampilan login dengan animasi latar belakang (2026-03-16 01:44:55)
