@@ -6315,3 +6315,4 @@ Fixing bug dimana aplikasi gak bisa handle request yang parameternya sangat komp
 Benerin bug di bagian tampilan struk (2026-03-15 23:57:55)
 Nambahin fitur filter berdasarkan parameter yang sangat akurat dan mampu memberikan hasil yang paling mendekati dengan apa yang sedang dipikirkan oleh user saat itu juga secara otomatis (2026-03-15 23:57:56)
 Fixing bug dimana scroll posisi gak balik ke atas (2026-03-15 23:57:59)
+Nambahin fitur filter berdasarkan kriteria yang sangat mendalam dan bersifat teknis yang memang dikhususkan bagi para pengguna tingkat lanjut yang membutuhkan tingkat akurasi data yang paling tinggi untuk menunjang pekerjaan profesional (2026-03-15 23:58:06)
