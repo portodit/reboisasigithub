@@ -5233,3 +5233,4 @@ Benerin bug di bagian integrasi sistem manajemen database yang lebih handal (202
 Nambahin fitur rating dan review (2026-03-15 19:26:59)
 Benerin bug di bagian integrasi sistem pembayaran baru (2026-03-15 19:27:05)
 Nambahin fitur preview video sebelum upload (2026-03-15 19:27:55)
+Fixing bug dimana aplikasi gak bisa handle input karakter non-Latin (2026-03-15 19:27:56)
