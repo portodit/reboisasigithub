@@ -5772,3 +5772,4 @@ Update sistem manajemen keamanan aplikasi yang lebih menyeluruh dan mencakup sel
 Nambahin fitur filter berdasarkan kriteria yang sangat mendalam dan spesifik yang ditujukan untuk para pengguna tingkat mahir yang membutuhkan akurasi data yang sangat tinggi untuk keperluan pekerjaan profesional mereka (2026-03-15 21:41:56)
 Benerin bug di bagian sistem poin reward (2026-03-15 21:41:59)
 Fixing bug dimana aplikasi gak bisa nampilin data yang diproses secara asinkron dengan benar (2026-03-15 21:42:06)
+Nambahin fitur filter berdasarkan rating (2026-03-15 21:42:55)
