@@ -4215,3 +4215,4 @@ Benerin bug di bagian integrasi sistem manajemen file yang lebih selaras dengan 
 Update sistem manajemen database relasional (2026-03-15 15:12:54)
 Benerin bug di bagian integrasi sistem manajemen database yang lebih aman, terpercaya, dan memiliki tingkat integritas data yang sangat tinggi untuk menjaga seluruh aset digital berharga milik para pengguna aplikasi kebanggaan kita ini agar tetap utuh dan tidak terjamah oleh pihak-pihak yang tidak memiliki kewenangan untuk mengakses informasi tersebut secara ilegal (2026-03-15 15:12:55)
 Fixing bug dimana aplikasi gak bisa handle input file yang ukurannya sangat besar (2026-03-15 15:12:58)
+Fixing bug dimana aplikasi gak bisa nampilin error message yang jelas (2026-03-15 15:13:04)
