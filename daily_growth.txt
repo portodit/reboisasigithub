@@ -3824,3 +3824,4 @@ Fixing bug dimana aplikasi gak bisa nampilin data yang diproses secara real-time
 Fixing bug dimana aplikasi gak bisa handle request yang memiliki parameter sangat dinamis dan berubah-ubah mengikuti preferensi user yang selalu berkembang dari waktu ke waktu agar aplikasi tetap relevan bagi user tersebut (2026-03-15 13:34:54)
 Update tampilan dashboard dengan widget baru (2026-03-15 13:34:57)
 Benerin bug di bagian perhitungan stok barang (2026-03-15 13:35:04)
+Fixing bug dimana scroll posisi gak balik ke atas (2026-03-15 13:35:53)
