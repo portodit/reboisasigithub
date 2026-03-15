@@ -2549,3 +2549,4 @@ Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih mudah untu
 Nambahin fitur dark mode (akhirnya!) (2026-03-15 07:27:51)
 Update sistem pengiriman notifikasi lewat SMS (2026-03-15 07:27:53)
 Benerin bug di bagian formatting mata uang (2026-03-15 07:27:56)
+Nambahin fitur filter berdasarkan jarak terdekat (2026-03-15 07:28:51)
