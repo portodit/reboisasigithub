@@ -3880,3 +3880,4 @@ Update tampilan UI aplikasi agar mampu menyampaikan pesan dan nilai-nilai luhur 
 Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih mudah diatur frekuensi dan jenisnya oleh user sendiri sesuai dengan keinginan dan kebutuhan masing-masing tanpa ada batasan yang kaku (2026-03-15 13:48:54)
 Benerin typo di variabel 'receipe' jadi 'recipe' (2026-03-15 13:48:58)
 Fixing bug dimana dropdown ketutup keyboard mobile (2026-03-15 13:49:04)
+Nambahin fitur ganti foto background profil (2026-03-15 13:49:53)
