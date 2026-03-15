@@ -5967,3 +5967,4 @@ Nambahin fitur filter berdasarkan kategori yang mendapatkan tingkat kepuasan pal
 Update sistem manajemen database relasional (2026-03-15 22:30:55)
 Fixing bug dimana aplikasi gak bisa handle input data yang memiliki ukuran sangat besar tanpa menurunkan kualitas layanan atau menyebabkan terjadinya error yang dapat mengganggu jalannya proses bisnis di dalam aplikasi (2026-03-15 22:30:56)
 Nambahin fitur dark mode khusus malam hari (2026-03-15 22:30:59)
+Nambahin fitur export ke Excel (2026-03-15 22:31:06)
