@@ -6724,3 +6724,4 @@ Update tampilan UI aplikasi agar lebih profesional dan terpercaya di mata user (
 Fixing bug dimana aplikasi gak mau load di Chrome versi lama (2026-03-16 01:39:56)
 Benerin bug di bagian integrasi sistem manajemen file yang lebih terorganisir dan memudahkan user dalam mencari dokumen lama yang pernah diupload sehingga mereka tidak perlu repot-repot mencari satu per satu lagi (2026-03-16 01:39:59)
 Benerin bug di bagian integrasi sistem manajemen file yang lebih terintegrasi dengan layanan cloud storage populer (2026-03-16 01:40:06)
+Fixing bug dimana gambar gak responsif (2026-03-16 01:40:55)
