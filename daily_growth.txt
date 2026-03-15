@@ -3581,3 +3581,4 @@ Fixing bug dimana aplikasi gak bisa handle request yang memiliki tingkat urgensi
 Nambahin fitur ganti username (sekali setahun) (2026-03-15 12:33:57)
 Update sistem manajemen cache yang lebih cerdas dan andal dalam menyediakan informasi yang diperlukan oleh user bahkan ketika kondisi jaringan internet sedang tidak bersahabat untuk memastikan user tetap produktif setiap saat (2026-03-15 12:34:04)
 Fixing bug dimana aplikasi gak bisa nampilin data yang diproses di background secara transparan tanpa mengganggu kenyamanan user dalam berinteraksi dengan antarmuka aplikasi utama yang harus tetap lancar dan responsif (2026-03-15 12:34:53)
+Nambahin fitur filter berdasarkan histori perjalanan transaksi yang dilakukan oleh user untuk memberikan wawasan yang berharga tentang bagaimana user mengelola keuangan dan pengeluaran mereka selama ini secara akurat (2026-03-15 12:34:54)
