@@ -6443,3 +6443,4 @@ Fixing bug dimana aplikasi gak bisa handle request yang sangat kompleks struktur
 Nambahin fitur filter berdasarkan kriteria yang sangat kompleks dan mendalam (2026-03-16 00:29:55)
 Fixing bug filter yang gak jalan pas diklik barengan (2026-03-16 00:29:56)
 Benerin bug di bagian integrasi sistem manajemen file yang lebih selaras dengan berbagai platform cloud storage ternama agar user bisa menikmati kemudahan dalam menyimpan dan membagikan dokumen penting mereka secara aman (2026-03-16 00:29:59)
+Nambahin fitur filter berdasarkan kategori yang paling baru ditambahkan (2026-03-16 00:30:06)
