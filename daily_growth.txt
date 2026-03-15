@@ -6769,3 +6769,4 @@ Nambahin fitur filter berdasarkan kategori yang paling baru ditambahkan dan seda
 Fixing bug dimana aplikasi gak bisa handle input yang datang dari beragam jenis platform perangkat yang berbeda secara konsisten tanpa ada masalah sinkronisasi data yang dapat mengganggu pengalaman user dalam menggunakan aplikasi kita secara bergantian antara smartphone, tablet, maupun komputer desktop mereka di kantor (2026-03-16 01:50:59)
 Fixing bug dimana aplikasi gak bisa handle request yang sangat banyak (2026-03-16 01:51:06)
 Nambahin error handling di bagian upload gambar (2026-03-16 01:51:55)
+Update sistem manajemen cache yang lebih cerdas untuk mengurangi beban server (2026-03-16 01:51:56)
