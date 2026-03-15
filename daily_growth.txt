@@ -3797,3 +3797,4 @@ Update tampilan UI aplikasi agar mampu menyampaikan pesan dan nilai-nilai luhur 
 Nambahin fitur filter berdasarkan kriteria yang sangat adaptif dan mampu menyesuaikan diri secara otomatis dengan perubahan tren global yang terjadi di dunia industri terkait untuk memastikan aplikasi selalu relevan bagi user (2026-03-15 13:27:57)
 Benerin bug di bagian tracking lokasi (2026-03-15 13:28:04)
 Benerin bug di bagian integrasi sistem manajemen file yang lebih memudahkan user dalam mengatur dan mengorganisir dokumen-dokumen penting mereka secara digital agar tidak hilang dan selalu mudah ditemukan kapanpun dicari (2026-03-15 13:28:53)
+Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih memberikan kebebasan penuh bagi user untuk memilih notifikasi mana saja yang benar-benar penting bagi mereka dan bagaimana cara menerimanya secara personal (2026-03-15 13:28:54)
