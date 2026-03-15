@@ -4312,3 +4312,4 @@ Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih stabil, am
 Benerin bug di bagian integrasi sistem manajemen file yang lebih responsif dan mampu menangani proses transfer data berkecepatan tinggi bahkan untuk file yang memiliki ukuran puluhan Gigabyte sekalipun tanpa ada kendala (2026-03-15 15:36:55)
 Nambahin aria-label biar lebih accessible (2026-03-15 15:36:58)
 Fixing race condition yang jarang banget muncul tapi ganggu (2026-03-15 15:37:04)
+Benerin z-index yang bikin modal ketutup navbar (2026-03-15 15:37:54)
