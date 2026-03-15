@@ -4874,3 +4874,4 @@ Nambahin fitur filter berdasarkan histori interaksi user dengan layanan dukungan
 Benerin bug di bagian perhitungan stok barang (2026-03-15 17:57:05)
 Update tampilan icon aplikasi agar lebih tajam (2026-03-15 17:57:55)
 Benerin bug di bagian tracking pengiriman (2026-03-15 17:57:55)
+Fixing bug dimana tombol 'Next' gak bisa diklik (2026-03-15 17:57:58)
