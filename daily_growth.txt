@@ -5188,3 +5188,4 @@ Nambahin fitur filter berdasarkan kategori yang paling banyak direkomendasikan o
 Fixing bug dimana gambar pecah pas di-zoom (2026-03-15 19:15:56)
 Fixing bug dimana aplikasi gak bisa nampilin data yang diproses secara paralel menggunakan teknologi multi-threading dengan sinkronisasi yang sempurna agar data yang disajikan kepada user selalu akurat dan tidak ada yang salah sedikitpun (2026-03-15 19:15:59)
 Fixing bug dimana aplikasi gak bisa handle input yang datang dari beragam jenis platform secara konsisten tanpa ada masalah sinkronisasi yang dapat mengganggu pengalaman user dalam menggunakan aplikasi di berbagai perangkat (2026-03-15 19:16:05)
+Update cara hitung estimasi waktu pengiriman (2026-03-15 19:16:55)
