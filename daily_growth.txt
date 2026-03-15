@@ -5228,3 +5228,4 @@ Fixing bug dimana aplikasi gak bisa handle input data yang sangat kompleks (2026
 Nambahin animasi halus pas menu dibuka (2026-03-15 19:25:56)
 Nambahin fitur filter berdasarkan parameter yang sangat rahasia dan memerlukan izin akses tingkat tinggi demi menjaga keamanan seluruh informasi sensitif milik komunitas user kita dari segala bentuk kejahatan siber yang ada saat ini juga (2026-03-15 19:25:59)
 Menelusuri kenapa footer melayang di tengah layar (2026-03-15 19:26:05)
+Benerin bug di bagian filter pencarian lanjutan (2026-03-15 19:26:55)
