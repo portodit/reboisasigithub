@@ -4333,3 +4333,4 @@ Fixing bug dimana aplikasi gak bisa handle request yang sangat vital bagi kelang
 Nambahin fitur sortir berdasarkan abjad (2026-03-15 15:41:58)
 Nambahin fitur filter berdasarkan kriteria yang sangat unik dan jarang digunakan (2026-03-15 15:42:04)
 Fixing bug dimana aplikasi gak bisa handle request yang memiliki parameter sangat dinamis dan berubah-ubah mengikuti preferensi user yang selalu berkembang dari waktu ke waktu agar aplikasi tetap relevan bagi user tersebut (2026-03-15 15:42:54)
+Update tampilan login page biar lebih elegan (2026-03-15 15:42:55)
