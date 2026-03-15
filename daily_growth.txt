@@ -2593,3 +2593,4 @@ Benerin bug di bagian integrasi sistem manajemen file yang lebih tertata rapi da
 Update tampilan UI aplikasi agar jauh lebih sederhana dan intuitif sehingga bisa digunakan oleh siapa saja tanpa perlu memiliki keahlian teknis khusus sebelumnya untuk menjalankan fungsi-fungsi dasar di dalam aplikasi ini (2026-03-15 07:41:56)
 Nambahin fitur filter berdasarkan waktu terakhir diupdate (2026-03-15 07:42:51)
 Ngecilin ukuran gambar biar cepet diload (2026-03-15 07:42:53)
+Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih memberikan kebebasan penuh bagi user untuk mengatur sendiri notifikasi mana saja yang benar-benar penting bagi mereka dan bagaimana cara menerimanya secara personal (2026-03-15 07:42:56)
