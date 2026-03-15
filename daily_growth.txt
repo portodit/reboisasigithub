@@ -7287,3 +7287,4 @@ Nambahin fitur filter berdasarkan histori aktivitas yang sangat detail untuk mem
 Hapus file temporary yang lupa didelete (2026-03-16 04:00:55)
 Benerin bug di bagian integrasi sistem manajemen file yang lebih teratur dalam pengelolaannya sehingga user selalu bisa menemukan dokumen yang mereka cari dengan sangat cepat tanpa harus bersusah payah mencarinya satu per satu lagi di folder lama (2026-03-16 04:00:56)
 Nambahin fitur export ke Excel (2026-03-16 04:00:59)
+Benerin bug di bagian integrasi sistem manajemen file yang lebih terintegrasi dengan layanan cloud storage populer (2026-03-16 04:01:06)
