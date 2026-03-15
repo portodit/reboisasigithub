@@ -5978,3 +5978,4 @@ Fixing bug dimana aplikasi gak bisa handle request yang parameternya sangat dina
 Fixing bug dimana aplikasi gak bisa handle input yang memiliki format yang sangat unik secara otomatis tanpa harus memodifikasi kode program di banyak tempat yang berisiko menimbulkan masalah baru di bagian lain dari aplikasi sistem kita (2026-03-15 22:33:06)
 Update sistem manajemen cache yang lebih responsif untuk memberikan pengalaman user yang lebih baik (2026-03-15 22:33:55)
 Cleaning up console.log yang ketinggalan dari jaman purba (2026-03-15 22:33:56)
+Benerin z-index yang bikin modal ketutup navbar (2026-03-15 22:33:59)
