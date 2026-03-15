@@ -4247,3 +4247,4 @@ Nambahin fitur filter berdasarkan kriteria yang sangat unik dan jarang digunakan
 Benerin bug di bagian verifikasi identitas (2026-03-15 15:20:54)
 Update tampilan UI aplikasi agar lebih konsisten di seluruh bagian aplikasi (2026-03-15 15:20:55)
 Update sistem manajemen cache yang lebih efisien untuk menghemat bandwidth internet user (2026-03-15 15:20:58)
+Benerin z-index yang bikin modal ketutup navbar (2026-03-15 15:21:04)
