@@ -4439,3 +4439,4 @@ Fixing bug dimana aplikasi gak bisa handle request yang parameternya sangat bany
 Update tampilan UI aplikasi agar tampak sangat rapi, terstruktur, dan sangat mudah untuk dipahami cara kerjanya bahkan tanpa perlu panduan yang panjang bagi user baru yang ingin langsung mulai menggunakan aplikasi ini untuk keperluan hariannya (2026-03-15 16:08:54)
 Nambahin fitur filter berdasarkan kriteria yang sangat mendalam dan bersifat teknis yang memang dikhususkan bagi para pengguna tingkat lanjut yang membutuhkan tingkat akurasi data yang paling tinggi untuk menunjang pekerjaan profesional (2026-03-15 16:08:55)
 Fixing bug dimana aplikasi gak bisa handle request yang sangat vital bagi kelangsungan operasional sistem secara mandiri dan tanpa memerlukan bantuan manual dari tim teknis setiap kali ada masalah kecil yang muncul (2026-03-15 16:08:58)
+Nambahin fitur filter berdasarkan harga promo (2026-03-15 16:09:05)
