@@ -2878,3 +2878,4 @@ Fixing bug dimana aplikasi gak bisa handle input yang sangat beragam sumbernya s
 Nambahin fitur export ke PDF yang lebih rapi (2026-03-15 09:16:57)
 Benerin bug di bagian sinkronisasi kalender lokal (2026-03-15 09:17:52)
 Benerin bug di bagian tampilan mobile landscape (2026-03-15 09:17:53)
+Update sistem manajemen keamanan data user yang lebih ketat (2026-03-15 09:17:57)
