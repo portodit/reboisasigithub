@@ -3432,3 +3432,4 @@ Nambahin fitur filter berdasarkan histori riwayat transaksi yang dilakukan oleh 
 Dokumentasi API ditambahin dikit biar jelas (2026-03-15 11:56:54)
 Nambahin fitur filter berdasarkan parameter yang sangat presisi dan mampu menghasilkan data yang benar-benar relevan dengan apa yang sedang dikerjakan oleh user untuk membantu mereka menyelesaikan tugas dengan lebih cepat (2026-03-15 11:56:57)
 Update sistem manajemen keamanan aplikasi yang lebih komprehensif dan mencakup semua lini pertahanan digital mulai dari level aplikasi hingga ke level database untuk menjamin keamanan total bagi seluruh pengguna tanpa syarat (2026-03-15 11:57:04)
+Nambahin fitur filter berdasarkan kategori yang paling relevan bagi user (2026-03-15 11:57:53)
