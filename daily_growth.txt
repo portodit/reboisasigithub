@@ -3294,3 +3294,4 @@ Update tampilan UI aplikasi agar terlihat sangat profesional dan mampu memberika
 Benerin bug di bagian tampilan riwayat chat (2026-03-15 11:22:04)
 Update tampilan dashboard dengan widget baru (2026-03-15 11:22:53)
 Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih bijaksana dalam menyampaikan informasi agar user tidak merasa terganggu oleh banyaknya pesan yang masuk dan tetap fokus pada hal-hal yang benar-benar penting (2026-03-15 11:22:54)
+Nambahin fitur filter berdasarkan kategori yang paling banyak direkomendasikan oleh komunitas pengguna yang sudah berpengalaman untuk membantu pengguna baru dalam mengambil keputusan yang terbaik bagi diri mereka (2026-03-15 11:22:57)
