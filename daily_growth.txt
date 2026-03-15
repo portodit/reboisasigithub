@@ -6387,3 +6387,4 @@ Nambahin fitur filter berdasarkan kategori yang memiliki tingkat kepuasan user p
 Fixing bug dimana data lama masih muncul (2026-03-16 00:15:55)
 Nambahin fitur filter berdasarkan histori preferensi user yang telah dianalisa secara mendalam menggunakan algoritma AI tercanggih untuk memberikan rekomendasi konten yang paling sesuai dengan kepribadian unik setiap user (2026-03-16 00:15:56)
 Fixing bug dimana aplikasi gak bisa handle input yang sangat banyak jumlahnya secara efisien (2026-03-16 00:15:59)
+Nambahin limit karakter di input komentar (2026-03-16 00:16:06)
