@@ -3474,3 +3474,4 @@ Benerin bug di bagian integrasi sistem manajemen file yang lebih terorganisir (2
 Benerin bug di bagian integrasi sistem manajemen database yang lebih cepat dalam proses query data (2026-03-15 12:07:04)
 Benerin bug di bagian export data CSV (2026-03-15 12:07:53)
 Nambahin loading spinner biar user gak bingung (2026-03-15 12:07:54)
+Update metadata buat social media sharing (2026-03-15 12:07:57)
