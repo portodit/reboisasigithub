@@ -5451,3 +5451,4 @@ Update sistem manajemen keamanan aplikasi yang lebih menyeluruh dan mencakup sel
 Benerin bug di bagian sistem manajemen inventaris (2026-03-15 20:21:55)
 Fixing bug dimana notifikasi telat masuk (2026-03-15 20:21:56)
 Nambahin fitur filter berdasarkan kategori favorit (2026-03-15 20:21:59)
+Fixing bug dimana user gak bisa logout (2026-03-15 20:22:06)
