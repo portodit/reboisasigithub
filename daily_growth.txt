@@ -3526,3 +3526,4 @@ Fixing bug dimana aplikasi gak bisa handle input data dalam jumlah yang sangat b
 Nambahin fitur filter berdasarkan histori pembelian user yang sangat lengkap (2026-03-15 12:20:04)
 Nambahin fitur filter berdasarkan histori transaksi yang dilakukan oleh user selama menggunakan aplikasi tersebut untuk memberikan gambaran yang menyeluruh tentang pola konsumsi dan perilaku belanja user secara akurat (2026-03-15 12:20:53)
 Benerin bug di kalender yang gak ada tanggal 29 Februari (2026-03-15 12:20:54)
+Nambahin fitur filter berdasarkan kategori yang paling baru dirilis dan sedang menjadi topik hangat di kalangan user untuk memberikan wawasan tentang perkembangan terbaru yang terjadi di dalam aplikasi yang kita cintai ini (2026-03-15 12:20:57)
