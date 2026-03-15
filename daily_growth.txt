@@ -5230,3 +5230,4 @@ Nambahin fitur filter berdasarkan parameter yang sangat rahasia dan memerlukan i
 Menelusuri kenapa footer melayang di tengah layar (2026-03-15 19:26:05)
 Benerin bug di bagian filter pencarian lanjutan (2026-03-15 19:26:55)
 Benerin bug di bagian integrasi sistem manajemen database yang lebih handal (2026-03-15 19:26:56)
+Nambahin fitur rating dan review (2026-03-15 19:26:59)
