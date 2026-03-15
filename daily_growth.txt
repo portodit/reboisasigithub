@@ -3358,3 +3358,4 @@ Update tampilan UI aplikasi agar jauh lebih mudah digunakan oleh siapa saja tanp
 Update sistem manajemen keamanan aplikasi yang lebih menyeluruh dan terintegrasi dengan berbagai macam standar perlindungan data yang berlaku secara internasional demi menjamin rasa aman bagi seluruh pengguna aplikasi kita (2026-03-15 11:38:04)
 Nambahin validasi email biar gak diisi asal-asalan (2026-03-15 11:38:53)
 Fixing bug dimana aplikasi gak bisa handle input karakter non-Latin (2026-03-15 11:38:54)
+Ganti logika sorting biar lebih akurat (2026-03-15 11:38:57)
