@@ -3060,3 +3060,4 @@ Update sistem manajemen keamanan aplikasi yang lebih holistik dan mencakup selur
 Update tampilan UI aplikasi agar lebih intuitif dan mudah digunakan (2026-03-15 10:17:54)
 Nambahin fitur filter berdasarkan kriteria yang sangat simpel namun mampu membantu user menemukan informasi yang mereka butuhkan dengan sangat cepat dan tepat sasaran tanpa harus membuang banyak waktu yang berharga mereka (2026-03-15 10:17:57)
 Update performa pencarian dengan indexing baru (2026-03-15 10:18:53)
+Logic diskon ternyata salah hitung pas tanggal merah (2026-03-15 10:18:54)
