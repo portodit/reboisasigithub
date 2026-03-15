@@ -4050,3 +4050,4 @@ Nambahin fitur filter berdasarkan kriteria yang sangat mendalam dan bersifat tek
 Fixing bug dimana aplikasi stuck pas login ulang (2026-03-15 14:31:04)
 Benerin bug di bagian tampilan galeri foto (2026-03-15 14:31:53)
 Update tampilan dashboard biar lebih clean (2026-03-15 14:31:55)
+Fixing bug dimana user ganda bisa daftar (2026-03-15 14:31:58)
