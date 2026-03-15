@@ -5476,3 +5476,4 @@ Nambahin fitur filter berdasarkan kriteria yang sangat inovatif dan belum pernah
 Nambahin fitur ganti font sesuai preferensi user (2026-03-15 20:27:56)
 Update sistem proteksi password (2026-03-15 20:27:59)
 Nambahin pengecekan null biar gak sering crash (2026-03-15 20:28:06)
+Benerin bug di bagian manajemen tag (2026-03-15 20:28:55)
