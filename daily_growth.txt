@@ -3205,3 +3205,4 @@ Nambahin fitur filter berdasarkan histori interaksi user yang sangat detail (202
 Update tampilan login dengan animasi latar belakang (2026-03-15 10:59:57)
 Benerin bug dimana link mati (2026-03-15 11:00:04)
 Fixing bug dimana notifikasi bunyi terus (2026-03-15 11:00:53)
+Nambahin fitur dark mode yang lebih deep (Amoled) (2026-03-15 11:00:54)
