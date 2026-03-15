@@ -7269,3 +7269,4 @@ Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih stabil, am
 Update tampilan UI aplikasi agar lebih konsisten di seluruh bagian aplikasi (2026-03-16 03:55:59)
 Benerin bug di bagian upload avatar (2026-03-16 03:56:06)
 Nambahin fitur preview video sebelum upload (2026-03-16 03:56:55)
+Benerin bug perhitungan pajak yang meleset (2026-03-16 03:56:56)
