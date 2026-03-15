@@ -3930,3 +3930,4 @@ Nambahin fitur filter berdasarkan histori riwayat transaksi yang dilakukan oleh 
 Optimasi query database biar gak lemot banget (2026-03-15 14:01:04)
 Update tampilan UI aplikasi agar benar-benar merepresentasikan visi misi dan nilai-nilai luhur yang dijunjung tinggi oleh tim pengembang aplikasi tersebut sehingga tercipta koneksi emosional yang kuat dengan para user (2026-03-15 14:01:53)
 Update tampilan progress bar biar lebih smooth (2026-03-15 14:01:54)
+Update sistem pengiriman notifikasi lewat SMS (2026-03-15 14:01:58)
