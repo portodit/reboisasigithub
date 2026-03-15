@@ -6903,3 +6903,4 @@ Benerin bug di bagian integrasi sistem manajemen database yang lebih akurat dala
 Nambahin animasi halus pas menu dibuka (2026-03-16 02:24:55)
 Fixing bug dimana aplikasi gak bisa handle input data dengan ukuran yang sangat besar tanpa menurunkan standar kualitas layanan yang diberikan kepada user sehingga aplikasi tetap berjalan dengan sangat lancar dan mulus (2026-03-16 02:24:56)
 Benerin bug di bagian export data CSV (2026-03-16 02:24:59)
+Update copyright year ke 2026 (2026-03-16 02:25:06)
