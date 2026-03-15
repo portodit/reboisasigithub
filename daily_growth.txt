@@ -6512,3 +6512,4 @@ Update tampilan UI aplikasi agar tampak sangat memukau dan mampu memberikan peng
 Update sistem manajemen sesi user yang lebih aman (2026-03-16 00:46:56)
 Fixing bug dimana aplikasi gak bisa handle input file yang ukurannya sangat besar (2026-03-16 00:46:59)
 Update tampilan UI aplikasi agar lebih user-friendly dan mudah dipelajari (2026-03-16 00:47:06)
+Update sistem perhitungan ongkir otomatis (2026-03-16 00:47:55)
