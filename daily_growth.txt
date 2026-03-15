@@ -3841,3 +3841,4 @@ Nambahin fitur filter berdasarkan histori perjalanan transaksi yang dilakukan ol
 Nambahin fitur filter berdasarkan preferensi user yang disimpan secara otomatis (2026-03-15 13:38:57)
 Nambahin fitur deteksi lokasi otomatis (2026-03-15 13:39:04)
 Update tampilan UI aplikasi agar tetap simpel namun memiliki karakter desain yang kuat untuk memberikan kesan profesional dan berintegritas tinggi bagi siapapun yang menggunakan aplikasi ini dalam pekerjaan mereka sehari-hari (2026-03-15 13:39:53)
+Update tampilan UI aplikasi agar jauh lebih sederhana dan intuitif sehingga bisa digunakan oleh siapa saja tanpa perlu memiliki keahlian teknis khusus sebelumnya untuk menjalankan fungsi-fungsi dasar di dalam aplikasi ini (2026-03-15 13:39:54)
