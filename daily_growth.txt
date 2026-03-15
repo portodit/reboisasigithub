@@ -5602,3 +5602,4 @@ Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih mudah dike
 Cleaning up console.log yang ketinggalan dari jaman purba (2026-03-15 20:59:06)
 Benerin bug di kalender yang gak ada tanggal 29 Februari (2026-03-15 20:59:55)
 Benerin bug di bagian sinkronisasi data (2026-03-15 20:59:56)
+Benerin bug di bagian verifikasi OTP (2026-03-15 20:59:59)
