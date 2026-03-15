@@ -6658,3 +6658,4 @@ Nambahin fitur filter berdasarkan kategori yang memiliki tingkat kepuasan user p
 Update tampilan UI aplikasi agar tampak lebih modern, minimalis, dan futuristik guna memberikan kesan sebagai aplikasi yang selalu siap menyambut masa depan dengan teknologi yang paling canggih dan inovatif di kelasnya (2026-03-16 01:23:06)
 Fixing bug dimana aplikasi gak bisa jalan di background (2026-03-16 01:23:55)
 Nambahin fitur pencarian dengan filter lanjutan (2026-03-16 01:23:56)
+Update tampilan UI aplikasi agar jauh lebih mudah digunakan oleh siapa saja tanpa perlu panduan yang rumit sehingga setiap user bisa langsung merasakan manfaat dari aplikasi ini sejak pertama kali mereka membukanya di HP (2026-03-16 01:23:59)
