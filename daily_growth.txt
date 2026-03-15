@@ -5324,3 +5324,4 @@ Update tampilan UI aplikasi agar terlihat sangat profesional dan mampu memberika
 Nambahin animasi halus pas menu dibuka (2026-03-15 19:49:56)
 Benerin bug di bagian integrasi sistem manajemen file yang lebih selaras dengan berbagai platform cloud storage ternama agar user bisa menikmati kemudahan dalam menyimpan dan membagikan dokumen penting mereka secara aman (2026-03-15 19:49:59)
 Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih cerdas dalam mengenali perilaku user yang mencurigakan secara otomatis (2026-03-15 19:50:06)
+Nambahin fitur filter berdasarkan ukuran file (2026-03-15 19:50:55)
