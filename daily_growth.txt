@@ -5648,3 +5648,4 @@ Fixing bug dimana aplikasi gak bisa handle input data dalam jumlah yang sangat b
 Benerin bug pencarian yang case sensitive (2026-03-15 21:10:56)
 Benerin bug di bagian integrasi sistem manajemen database yang lebih kencang dalam menarik data dari server sehingga user tidak perlu menunggu lama untuk melihat hasil dari tindakan yang baru saja mereka lakukan di aplikasi (2026-03-15 21:10:59)
 Nambahin fitur filter berdasarkan parameter yang sangat mendalam dan bersifat teknis untuk memberikan kontrol yang lebih luas bagi para pengguna ahli yang ingin melakukan kustomisasi aplikasi sesuai dengan kebutuhan mereka (2026-03-15 21:11:06)
+Fixing bug dimana notifikasi gak masuk (2026-03-15 21:11:55)
