@@ -7093,3 +7093,4 @@ Nambahin fitur filter berdasarkan histori interaksi user dengan tim support di m
 Nambahin fitur preview markdown (2026-03-16 03:11:59)
 Update tampilan UI aplikasi agar tampak sangat rapi, terstruktur, dan sangat mudah untuk dipahami cara kerjanya bahkan tanpa perlu panduan yang panjang bagi user baru yang ingin langsung mulai menggunakan aplikasi ini setiap harinya (2026-03-16 03:12:06)
 Nambahin fitur pencarian berbasis suara (2026-03-16 03:12:55)
+Fixing bug dimana session hangus terlalu cepet (2026-03-16 03:12:56)
