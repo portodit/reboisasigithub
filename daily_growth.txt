@@ -6286,3 +6286,4 @@ Fixing bug dimana aplikasi gak bisa nampilin error message yang jelas (2026-03-1
 Update tampilan form agar lebih interaktif (2026-03-15 23:50:06)
 Fixing bug dimana aplikasi gak bisa handle input yang sangat banyak sekali jumlahnya dalam waktu yang sangat singkat tanpa membuat sistem menjadi hang (2026-03-15 23:50:55)
 Benerin bug di bagian integrasi sistem manajemen file yang lebih mudah dikelola secara massal (2026-03-15 23:50:56)
+Nambahin fitur filter berdasarkan preferensi user yang disimpan secara otomatis (2026-03-15 23:50:59)
