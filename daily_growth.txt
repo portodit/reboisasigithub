@@ -5864,3 +5864,4 @@ Update sistem manajemen cache yang lebih cerdas untuk mengurangi beban server (2
 Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih aman dan tidak mudah disalahgunakan (2026-03-15 22:04:56)
 Ngubah urutan middleware biar auth jalan duluan (2026-03-15 22:04:59)
 Update tampilan UI aplikasi agar lebih intuitif dan mudah digunakan (2026-03-15 22:05:06)
+Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih memberikan kebebasan kepada user untuk mengatur sendiri notifikasi apa saja yang ingin mereka terima dan melalui saluran apa saja sesuai keinginan (2026-03-15 22:05:55)
