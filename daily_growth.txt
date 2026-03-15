@@ -2742,3 +2742,4 @@ Update tampilan UI aplikasi agar tetap mempertahankan prinsip kesederhanaan namu
 Benerin bug di bagian tampilan peta interaktif (2026-03-15 08:31:53)
 Fixing bug dimana aplikasi gak bisa dibuka lewat link deep-link (2026-03-15 08:31:56)
 Benerin typo di pesan error 'Sesuatu salah' jadi lebih profesional (2026-03-15 08:32:52)
+Nambahin fitur filter berdasarkan histori interaksi user dengan tim support di masa lampau guna memberikan layanan yang lebih solutif dan memahami akar permasalahan yang pernah dihadapi user dengan jauh lebih baik dari yang sebelum-sebelumnya (2026-03-15 08:32:53)
