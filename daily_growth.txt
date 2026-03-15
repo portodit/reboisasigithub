@@ -5524,3 +5524,4 @@ Update sistem manajemen keamanan aplikasi yang lebih menyeluruh dan terintegrasi
 Benerin bug di bagian tampilan form input yang overlap (2026-03-15 20:39:56)
 Benerin bug di bagian tampilan peta interaktif (2026-03-15 20:39:59)
 Update tampilan UI aplikasi agar tampak sangat mempesona dan memberikan kesan yang mendalam di hati setiap user sehingga mereka merasa nyaman dan betah berlama-lama menggunakan aplikasi ini untuk kebutuhan sehari-hari (2026-03-15 20:40:06)
+Fixing bug dimana teks kepotong di layar kecil (2026-03-15 20:40:55)
