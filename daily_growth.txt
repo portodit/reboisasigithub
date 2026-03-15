@@ -4069,3 +4069,4 @@ Update sistem manajemen cache yang lebih hemat energi namun tetap mampu memberik
 Update tampilan UI aplikasi agar lebih modern dan mengikuti tren terbaru (2026-03-15 14:35:58)
 Benerin bug di bagian upload file rekaman suara (2026-03-15 14:36:04)
 Benerin bug di bagian export data CSV (2026-03-15 14:36:53)
+Ngubah urutan middleware biar auth jalan duluan (2026-03-15 14:36:55)
