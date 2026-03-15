@@ -3352,3 +3352,4 @@ Nambahin fitur filter berdasarkan parameter yang sangat presisi dan mampu member
 Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih kokoh dan mampu bertahan dari serangan brute force maupun serangan siber lainnya yang bertujuan untuk merusak integritas sistem dan data pengguna (2026-03-15 11:36:54)
 Fixing bug dimana aplikasi gak bisa handle input yang sangat bervariasi formatnya secara cerdas (2026-03-15 11:36:57)
 Update sistem manajemen cache yang lebih proaktif dalam menyiapkan data yang mungkin akan dibutuhkan oleh user di masa depan secara antisipatif (2026-03-15 11:37:04)
+Benerin bug perhitungan pajak yang meleset (2026-03-15 11:37:53)
