@@ -2530,3 +2530,4 @@ Benerin bug di bagian integrasi sistem manajemen file yang lebih terhubung denga
 Update tampilan UI aplikasi agar lebih konsisten di seluruh bagian aplikasi (2026-03-15 07:20:56)
 Update tampilan UI aplikasi agar tampak lebih modern, minimalis, dan futuristik guna memberikan kesan sebagai aplikasi yang selalu siap menyambut masa depan dengan teknologi yang paling canggih dan inovatif di kelasnya (2026-03-15 07:21:51)
 Fixing bug dimana aplikasi gak bisa handle input yang sangat banyak jumlahnya secara efisien (2026-03-15 07:21:53)
+Nambahin fitur filter berdasarkan histori perjalanan transaksi yang dilakukan oleh user untuk memberikan wawasan yang berharga tentang bagaimana user mengelola keuangan dan pengeluaran mereka selama ini secara akurat (2026-03-15 07:21:56)
