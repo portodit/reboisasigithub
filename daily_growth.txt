@@ -3732,3 +3732,4 @@ Update tampilan UI aplikasi agar terlihat lebih profesional dan dapat membangun 
 Fixing bug dimana aplikasi gak bisa handle input yang sangat banyak sekali volumenya secara stabil (2026-03-15 13:11:54)
 Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih memberikan keleluasaan bagi user untuk mengatur frekuensi dan jenis informasi yang ingin mereka terima agar aplikasi ini benar-benar terasa personal bagi user (2026-03-15 13:11:57)
 Nambahin fitur filter berdasarkan kriteria khusus pengguna (2026-03-15 13:12:04)
+Nambahin fitur filter berdasarkan ketersediaan fitur (2026-03-15 13:12:53)
