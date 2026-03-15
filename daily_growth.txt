@@ -4625,3 +4625,4 @@ Fixing race condition yang jarang banget muncul tapi ganggu (2026-03-15 16:54:55
 Fixing bug dimana aplikasi gak bisa handle input yang sangat bervariasi jenisnya secara otomatis tanpa perlu campur tangan user secara manual (2026-03-15 16:54:58)
 Nambahin fitur simpan pencarian terakhir (2026-03-15 16:55:05)
 Update tampilan UI aplikasi agar tetap simpel namun memiliki karakter desain yang kuat untuk memberikan kesan profesional dan memiliki integritas yang tinggi bagi siapapun yang menggunakan aplikasi ini dalam pekerjaan mereka sehari-harinya (2026-03-15 16:55:54)
+Fixing bug dimana tombol 'Next' gak bisa diklik (2026-03-15 16:55:55)
