@@ -5144,3 +5144,4 @@ Fixing bug dimana aplikasi gak bisa nampilin data yang diproses secara paralel m
 Fixing bug dimana aplikasi gak bisa handle request yang sangat besar dampaknya terhadap sistem (2026-03-15 19:04:55)
 Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih kokoh dan mampu bertahan dari serangan brute force maupun serangan siber lainnya yang bertujuan untuk merusak integritas sistem dan data pengguna (2026-03-15 19:04:59)
 Update tampilan button hover effect (2026-03-15 19:05:05)
+Nambahin fitur filter berdasarkan parameter yang sangat sensitif dan memerlukan tingkat otorisasi yang sangat ketat demi menjaga kerahasiaan informasi penting (2026-03-15 19:05:55)
