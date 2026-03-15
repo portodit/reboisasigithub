@@ -3408,3 +3408,4 @@ Fixing bug dimana aplikasi gak bisa handle input data dalam jumlah yang sangat f
 Nambahin fitur filter berdasarkan kriteria yang sangat kompleks dan mendalam (2026-03-15 11:50:54)
 Fixing bug dimana aplikasi gak bisa handle input data dalam jumlah yang sangat besar volumenya tanpa membebani kinerja server secara berlebihan yang bisa berakibat pada gangguan layanan bagi seluruh pengguna lainnya di saat yang sama (2026-03-15 11:50:57)
 Update cara hitung estimasi waktu pengiriman (2026-03-15 11:51:04)
+Nambahin fitur filter berdasarkan histori transaksi yang dilakukan oleh user selama menggunakan aplikasi tersebut untuk memberikan gambaran yang menyeluruh tentang pola konsumsi dan perilaku belanja user secara akurat (2026-03-15 11:51:53)
