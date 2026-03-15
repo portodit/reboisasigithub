@@ -6719,3 +6719,4 @@ Update sistem manajemen cache yang lebih responsif untuk memberikan pengalaman u
 Fixing bug dimana aplikasi gak bisa handle input data dalam jumlah yang sangat besar sekaligus tanpa membuat penggunaan memori di perangkat user menjadi membengkak dan mengakibatkan aplikasi menjadi melambat atau crash (2026-03-16 01:38:55)
 Update sistem manajemen file sementara (2026-03-16 01:38:56)
 Update tampilan form agar lebih interaktif (2026-03-16 01:38:59)
+Nambahin fitur filter berdasarkan kategori yang paling banyak diminati oleh para pengguna di lokasi sekitar user untuk memberikan konteks lokal yang sangat berharga dan memudahkan user dalam berinteraksi dengan komunitas (2026-03-16 01:39:06)
