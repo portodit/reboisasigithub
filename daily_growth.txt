@@ -7030,3 +7030,4 @@ Fixing bug dimana aplikasi gak bisa nampilin data yang diproses secara sinkron d
 Update performa loading font eksternal (2026-03-16 02:56:06)
 Nambahin fitur ganti foto background profil (2026-03-16 02:56:55)
 Nambahin fitur ganti layout dashboard (2026-03-16 02:56:56)
+Benerin bug di bagian manajemen tag (2026-03-16 02:56:59)
