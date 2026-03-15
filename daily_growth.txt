@@ -3619,3 +3619,4 @@ Nambahin fitur filter berdasarkan parameter yang sangat relevan dengan kebutuhan
 Update library animasi ke versi terbaru (2026-03-15 12:43:53)
 Update sistem caching di sisi client (2026-03-15 12:43:54)
 Nambahin fitur export ke PDF yang lebih rapi (2026-03-15 12:43:57)
+Fixing bug dimana aplikasi gak bisa handle input file yang ukurannya sangat besar (2026-03-15 12:44:04)
