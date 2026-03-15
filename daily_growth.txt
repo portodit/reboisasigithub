@@ -4916,3 +4916,4 @@ Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih mudah dipa
 Benerin bug di bagian tampilan struk (2026-03-15 18:07:55)
 Fixing bug dimana aplikasi gak bisa handle request yang parameternya sangat dinamis dan selalu berubah mengikuti keinginan user yang terus berkembang setiap hari agar aplikasi ini tetap menjadi solusi favorit bagi mereka semua (2026-03-15 18:07:58)
 Benerin bug breadcrumb yang jalurnya nyasar (2026-03-15 18:08:05)
+Benerin bug di bagian pengaturan bahasa (2026-03-15 18:08:54)
