@@ -3462,3 +3462,4 @@ Nambahin fitur filter berdasarkan kategori yang paling populer di daerah sekitar
 Nambahin fitur filter berdasarkan kriteria yang sangat simpel namun mampu membantu user menemukan informasi yang mereka butuhkan dengan sangat cepat dan tepat sasaran tanpa harus membuang banyak waktu yang berharga mereka (2026-03-15 12:04:04)
 Nambahin fitur filter berdasarkan histori aktivitas user (2026-03-15 12:04:53)
 Ngecilin ukuran gambar biar cepet diload (2026-03-15 12:04:54)
+Nambahin fitur limit login attempt demi keamanan (2026-03-15 12:04:57)
