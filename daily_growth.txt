@@ -3468,3 +3468,4 @@ Benerin bug di bagian integrasi sistem manajemen file yang lebih teratur dalam p
 Benerin bug di bagian sistem manajemen pengaturan privasi (2026-03-15 12:05:54)
 Nambahin fitur filter berdasarkan kategori yang paling baru ditambahkan (2026-03-15 12:05:57)
 Fixing bug dimana aplikasi gak bisa handle input data dalam jumlah yang sangat besar sekali volumenya tanpa membebani kinerja server secara berlebihan yang bisa mengakibatkan gangguan pada layanan bagi seluruh pengguna lainnya (2026-03-15 12:06:04)
+Benerin bug di bagian integrasi social login (2026-03-15 12:06:53)
