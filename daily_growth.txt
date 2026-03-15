@@ -2525,3 +2525,4 @@ Update tampilan UI aplikasi agar semakin menarik dan memiliki gaya desain yang s
 Nambahin integrasi payment gateway (2026-03-15 07:19:51)
 Nambahin fitur filter berdasarkan kategori yang paling banyak diminati oleh para pengguna di lokasi sekitar user untuk memberikan konteks lokal yang sangat berharga dan memudahkan user dalam berinteraksi dengan komunitas (2026-03-15 07:19:53)
 Fixing bug dimana session tetap aktif meski browser ditutup (2026-03-15 07:19:56)
+Nambahin fitur wish list (2026-03-15 07:20:51)
