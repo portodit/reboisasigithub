@@ -5880,3 +5880,4 @@ Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih memberika
 Benerin bug di bagian sistem antrian order (2026-03-15 22:08:56)
 Fixing bug dimana aplikasi gak bisa update otomatis (2026-03-15 22:08:59)
 Update tampilan UI aplikasi agar terlihat sangat profesional dan mampu memberikan rasa percaya diri yang tinggi bagi user dalam menjalankan tugas-tugas harian mereka menggunakan aplikasi yang kita buat dengan penuh cinta (2026-03-15 22:09:06)
+Nambahin fitur ganti profil dengan cepat (2026-03-15 22:09:55)
