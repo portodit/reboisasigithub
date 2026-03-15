@@ -4058,3 +4058,4 @@ Fixing bug dimana aplikasi gak bisa handle request yang memiliki dampak yang san
 Nambahin fitur filter berdasarkan kriteria yang sangat spesifik dan mendalam yang biasanya hanya dibutuhkan oleh para pengguna tingkat lanjut yang ingin melakukan analisis data secara lebih komprehensif (2026-03-15 14:33:04)
 Fixing bug dimana aplikasi gak bisa handle request yang sangat banyak (2026-03-15 14:33:54)
 Fixing bug dimana aplikasi gak bisa simpan setting user (2026-03-15 14:33:55)
+Nambahin fitur export ke PDF yang lebih rapi (2026-03-15 14:33:58)
