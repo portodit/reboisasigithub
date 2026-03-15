@@ -7341,3 +7341,4 @@ Nambahin fitur filter berdasarkan parameter yang sangat spesifik dan relevan den
 Update tampilan UI aplikasi agar lebih modern dan mengikuti tren terbaru (2026-03-16 04:13:59)
 Update instruksi instalasi di dokumentasi (2026-03-16 04:14:06)
 Fixing bug dimana aplikasi gak bisa nampilin data yang diproses secara background (2026-03-16 04:14:55)
+Update tampilan modal dialog agar lebih modern (2026-03-16 04:14:56)
