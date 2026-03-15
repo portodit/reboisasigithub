@@ -5704,3 +5704,4 @@ Nambahin fitur filter berdasarkan parameter yang sangat rahasia dan memerlukan i
 Benerin bug breadcrumb yang jalurnya nyasar (2026-03-15 21:24:56)
 Nambahin fitur dark mode otomatis berdasarkan jam (2026-03-15 21:24:59)
 Update tampilan UI aplikasi agar lebih menarik dan profesional (2026-03-15 21:25:06)
+Nambahin fitur filter berdasarkan bahasa konten (2026-03-15 21:25:55)
