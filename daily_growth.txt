@@ -3496,3 +3496,4 @@ Update tampilan UI aplikasi agar tampak sangat rapi, terstruktur, dan sangat mud
 Fixing bug dimana teks kepotong di layar kecil (2026-03-15 12:12:54)
 Nambahin fitur filter berdasarkan rating pengguna tertinggi (2026-03-15 12:12:57)
 Benerin bug di bagian sinkronisasi data (2026-03-15 12:13:04)
+Update tampilan tabel biar bisa di-resize (2026-03-15 12:13:53)
