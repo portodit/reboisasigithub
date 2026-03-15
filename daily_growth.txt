@@ -3013,3 +3013,4 @@ Nambahin fitur filter berdasarkan kriteria yang sangat mendalam dan bersifat tek
 Benerin bug di bagian notifikasi push (2026-03-15 10:01:57)
 Nambahin fitur filter berdasarkan parameter yang sangat bervariasi dan fleksibel (2026-03-15 10:02:52)
 Update tampilan modal dialog agar lebih modern (2026-03-15 10:02:54)
+Update tampilan footer agar lebih rapi di semua device (2026-03-15 10:02:57)
