@@ -5988,3 +5988,4 @@ Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih inspirati
 Nambahin fitur filter berdasarkan harga terendah ke tertinggi (2026-03-15 22:35:56)
 Fixing bug dimana aplikasi gak jalan di mode offline (2026-03-15 22:35:59)
 Fixing bug dimana aplikasi gak bisa handle input yang sangat bervariasi jenisnya secara otomatis tanpa perlu campur tangan user secara manual (2026-03-15 22:36:06)
+Update tampilan modal konfirmasi biar lebih tegas (2026-03-15 22:36:55)
