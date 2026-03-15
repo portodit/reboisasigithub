@@ -6010,3 +6010,4 @@ Nambahin fitur filter berdasarkan kategori yang paling banyak mendapatkan feedba
 Update icon sosial media ke yang versi terbaru (2026-03-15 22:41:06)
 Fixing bug dimana tombol 'Next' gak bisa diklik (2026-03-15 22:41:56)
 Nambahin fitur filter berdasarkan parameter yang sangat rahasia dan memerlukan izin akses tingkat tinggi demi menjaga keamanan seluruh informasi sensitif milik komunitas user kita dari segala bentuk kejahatan siber yang ada saat ini juga (2026-03-15 22:41:58)
+Update instruksi instalasi di dokumentasi (2026-03-15 22:41:59)
