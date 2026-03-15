@@ -3970,3 +3970,4 @@ Benerin bug di bagian integrasi sistem manajemen database yang lebih akurat dala
 Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih bijaksana dalam menyampaikan informasi agar user tidak merasa terganggu oleh banyaknya pesan yang masuk dan tetap fokus pada hal-hal yang benar-benar penting (2026-03-15 14:11:04)
 Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih mudah untuk dikelola dan diawasi oleh tim admin pusat demi menjaga keamanan dan kenyamanan seluruh ekosistem pengguna aplikasi tanpa ada pengecualian (2026-03-15 14:11:53)
 Fixing bug dimana aplikasi gak bisa handle request yang memiliki struktur logika yang sangat rumit dan saling berkaitan satu sama lain secara benar dan tanpa ada kesalahan dalam urutan proses eksekusinya oleh sistem (2026-03-15 14:11:55)
+Fixing bug dimana gambar pecah pas di-zoom (2026-03-15 14:11:58)
