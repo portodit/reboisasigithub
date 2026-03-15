@@ -3530,3 +3530,4 @@ Nambahin fitur filter berdasarkan kategori yang paling baru dirilis dan sedang m
 Nambahin fitur deteksi lokasi otomatis (2026-03-15 12:21:04)
 Update sistem manajemen cache yang lebih antisipatif dalam menyediakan informasi yang kemungkinan besar akan segera diperlukan oleh user berdasarkan kebiasaan penggunaan mereka agar aplikasi terasa sangat cepat dan responsif setiap saatnya (2026-03-15 12:21:53)
 Nambahin fitur shortcut 'Go to Top' (2026-03-15 12:21:54)
+Nambahin fitur custom tema warna oleh user (2026-03-15 12:21:57)
