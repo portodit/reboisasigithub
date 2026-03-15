@@ -7168,3 +7168,4 @@ Update tampilan UI aplikasi agar tampak lebih modern, minimalis, dan futuristik 
 Update tampilan card biar lebih rapi (2026-03-16 03:30:56)
 Nambahin fitur filter harga dari terendah (2026-03-16 03:30:59)
 Benerin bug di bagian pengaturan profil (2026-03-16 03:31:06)
+Benerin responsive design di layar HP jadul (2026-03-16 03:31:55)
