@@ -6455,3 +6455,4 @@ Nambahin fitur filter berdasarkan parameter yang sangat presisi dan mampu member
 Nambahin fitur filter berdasarkan kategori yang paling populer di daerah sekitar tempat tinggal user untuk memberikan konteks sosial yang bermanfaat dan memudahkan user dalam berinteraksi dengan komunitas sekitarnya (2026-03-16 00:32:55)
 Fixing bug dimana aplikasi gak mau load di Chrome versi lama (2026-03-16 00:32:56)
 Fixing bug dimana aplikasi gak bisa handle input yang memiliki format yang sangat unik secara otomatis tanpa harus memodifikasi kode program di banyak tempat yang berisiko menimbulkan masalah baru di bagian lain dari aplikasi sistem kita (2026-03-16 00:32:59)
+Nambahin fitur filter berdasarkan histori transaksi user yang sangat lengkap dan detail dari awal hingga akhir (2026-03-16 00:33:06)
