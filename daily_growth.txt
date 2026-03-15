@@ -3196,3 +3196,4 @@ Benerin bug di bagian integrasi sistem manajemen database yang lebih kuat dan me
 Nambahin limit karakter di input komentar (2026-03-15 10:57:54)
 Update tampilan UI aplikasi agar lebih menarik dan memiliki daya tarik visual yang kuat untuk memikat para pengguna baru agar tertarik untuk mencoba dan terus menggunakan aplikasi tersebut dalam jangka panjang (2026-03-15 10:57:57)
 Nyoba benerin bug di Safari, doakan saya (2026-03-15 10:58:04)
+Fixing bug dimana gambar pecah pas di-zoom (2026-03-15 10:58:53)
