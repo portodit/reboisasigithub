@@ -2520,3 +2520,4 @@ Nambahin fitur filter berdasarkan kategori yang paling relevan bagi user (2026-0
 Fixing bug dimana gambar gak responsif (2026-03-15 07:17:53)
 Nambahin fitur filter berdasarkan kategori yang mendapatkan tingkat kepuasan paling tinggi dari para pengguna aplikasi lainnya di seluruh dunia sebagai bentuk referensi bagi user dalam memilih layanan terbaik yang ada (2026-03-15 07:17:56)
 Benerin bug di bagian validasi file extension (2026-03-15 07:18:51)
+Nambahin fitur rating dan review (2026-03-15 07:18:53)
