@@ -7021,3 +7021,4 @@ Fixing bug dimana aplikasi gak bisa handle input data dalam jumlah yang sangat b
 Fixing bug dimana aplikasi gak bisa handle input data dalam jumlah yang sangat besar sekaligus tanpa membuat penggunaan memori di perangkat user menjadi membengkak dan mengakibatkan aplikasi menjadi melambat atau crash (2026-03-16 02:53:59)
 Update tampilan modal dialog agar lebih modern (2026-03-16 02:54:06)
 Nambahin fitur filter berdasarkan kategori yang paling relevan bagi user (2026-03-16 02:54:55)
+Nambahin fitur filter berdasarkan kategori yang paling populer di daerah sekitar tempat tinggal user untuk memberikan konteks sosial yang bermanfaat dan memudahkan user dalam berinteraksi dengan komunitas sekitarnya (2026-03-16 02:54:56)
