@@ -7160,3 +7160,4 @@ Fixing bug dimana aplikasi gak bisa nampilin data yang sedang diproses di backgr
 Update metadata buat social media sharing (2026-03-16 03:28:56)
 Nambahin fitur filter berdasarkan parameter yang sangat relevan dengan kebutuhan mendesak yang sedang dialami user saat ini guna memberikan solusi yang paling efektif dan efisien dalam menyelesaikan setiap masalah yang mereka hadapi sekarang (2026-03-16 03:28:59)
 Benerin bug di kalender yang gak ada tanggal 29 Februari (2026-03-16 03:29:06)
+Benerin bug perhitungan pajak yang meleset (2026-03-16 03:29:55)
