@@ -4558,3 +4558,4 @@ Nambahin fitur filter berdasarkan kategori yang paling baru ditambahkan (2026-03
 Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih inspiratif dan memotivasi user untuk terus menggunakan aplikasi tersebut secara rutin (2026-03-15 16:38:05)
 Fixing bug dimana aplikasi gak bisa jalan di background (2026-03-15 16:38:54)
 Update tampilan UI aplikasi agar benar-benar merepresentasikan visi misi dan nilai-nilai luhur yang dijunjung tinggi oleh tim pengembang aplikasi tersebut sehingga tercipta koneksi emosional yang kuat dengan para user (2026-03-15 16:38:55)
+Fixing bug dimana filter gak ke-reset (2026-03-15 16:38:58)
