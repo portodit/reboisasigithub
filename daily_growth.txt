@@ -3986,3 +3986,4 @@ Update tampilan UI aplikasi agar tetap simpel namun memiliki karakter desain yan
 Fixing bug dimana aplikasi gak support karakter khusus (2026-03-15 14:15:04)
 Fixing bug dimana aplikasi gak bisa handle input data yang sangat kompleks (2026-03-15 14:15:53)
 Benerin bug di bagian integrasi sistem manajemen file yang lebih teratur dalam pengelolaannya sehingga user selalu bisa menemukan dokumen yang mereka cari dengan sangat cepat tanpa harus bersusah payah mencarinya satu per satu lagi di folder lama (2026-03-15 14:15:55)
+Nambahin fitur 'Load More' biar gak berat (2026-03-15 14:15:58)
