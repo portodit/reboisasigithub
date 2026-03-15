@@ -6878,3 +6878,4 @@ Benerin bug di bagian integrasi sistem manajemen file yang lebih tertata rapi da
 Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih mudah untuk dipantau keamanannya oleh tim admin pusat guna memberikan jaminan keamanan total bagi seluruh pengguna aplikasi tanpa ada satupun user yang terlewatkan (2026-03-16 02:18:06)
 Nambahin fitur simpan pencarian terakhir (2026-03-16 02:18:55)
 Nambahin fitur filter harga dari terendah (2026-03-16 02:18:56)
+Fixing bug dimana gambar pecah pas di-zoom (2026-03-16 02:18:59)
