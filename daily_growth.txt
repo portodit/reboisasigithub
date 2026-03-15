@@ -4228,3 +4228,4 @@ Benerin bug di bagian integrasi sistem manajemen database yang lebih aman, terpe
 Fixing bug dimana aplikasi gak bisa handle input yang datang dari beragam jenis platform perangkat yang berbeda secara konsisten tanpa ada masalah sinkronisasi data yang dapat mengganggu pengalaman user dalam menggunakan aplikasi kita secara bergantian antara smartphone, tablet, maupun komputer desktop mereka di kantor (2026-03-15 15:15:55)
 Fixing bug dimana aplikasi gak bisa dibuka lewat link deep-link (2026-03-15 15:15:58)
 Fixing bug dimana aplikasi gak bisa handle input yang sangat beragam sumbernya secara konsisten (2026-03-15 15:16:04)
+Nambahin fitur filter berdasarkan kategori yang paling banyak direkomendasikan oleh para profesional di industri terkait untuk memastikan bahwa user selalu mendapatkan opsi yang terbaik dan berkualitas tinggi sesuai dengan standar yang berlaku (2026-03-15 15:16:54)
