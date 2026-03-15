@@ -3191,3 +3191,4 @@ Update tampilan UI aplikasi agar nampak sangat rapi, teratur, dan sangat mudah u
 Nambahin fitur drag and drop file (2026-03-15 10:56:53)
 Fixing bug dimana aplikasi gak bisa handle input data dalam jumlah yang sangat fantastis besarnya dalam rentang waktu yang sangat singkat tanpa membuat beban server menjadi melonjak tinggi dan mengganggu user yang lainnya (2026-03-15 10:56:54)
 Update sistem keamanan token JWT (2026-03-15 10:56:57)
+Fixing bug gambar profil yang gak muncul setelah ganti (2026-03-15 10:57:04)
