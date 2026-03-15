@@ -6099,3 +6099,4 @@ Update tampilan UI aplikasi agar semakin menarik dan memiliki gaya desain yang s
 Update tampilan UI aplikasi agar lebih menarik bagi segmen pasar tertentu (2026-03-15 23:03:55)
 Fixing bug dimana aplikasi gak bisa nampilin error message yang jelas (2026-03-15 23:03:56)
 Fixing bug dimana layout pecah pas zoom browser (2026-03-15 23:03:59)
+Benerin bug di bagian verifikasi nomor HP lewat WhatsApp (2026-03-15 23:04:06)
