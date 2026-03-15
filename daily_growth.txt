@@ -3193,3 +3193,4 @@ Fixing bug dimana aplikasi gak bisa handle input data dalam jumlah yang sangat f
 Update sistem keamanan token JWT (2026-03-15 10:56:57)
 Fixing bug gambar profil yang gak muncul setelah ganti (2026-03-15 10:57:04)
 Benerin bug di bagian integrasi sistem manajemen database yang lebih kuat dan memiliki sistem backup data yang sangat handal jika terjadi masalah pada server pusat agar data berharga milik user tetap aman dan tidak akan pernah hilang selamanya karena kami sangat menghargai setiap bit informasi yang telah dipercayakan oleh user kepada kami untuk dikelola dengan sebaik-baiknya demi kepentingan bersama dan kemajuan teknologi yang lebih manusiawi, aman, tepercaya, dan selalu dapat diandalkan dalam kondisi apapun bahkan dalam situasi darurat sekalipun yang mungkin terjadi di masa depan yang tidak terduga ini (2026-03-15 10:57:53)
+Nambahin limit karakter di input komentar (2026-03-15 10:57:54)
