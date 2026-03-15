@@ -2915,3 +2915,4 @@ Nambahin fitur filter berdasarkan kategori yang paling baru dirilis dan sedang m
 Benerin bug di bagian integrasi sistem manajemen database yang lebih efisien dalam melakukan pencarian data sehingga waktu yang dibutuhkan untuk menampilkan hasil pencarian menjadi jauh lebih singkat dari sebelumnya (2026-03-15 09:29:52)
 Update sistem manajemen cache yang lebih optimal untuk meningkatkan performa (2026-03-15 09:29:53)
 Fixing bug dimana aplikasi error pas logout paksa (2026-03-15 09:29:57)
+Update tampilan UI aplikasi agar jauh lebih mudah digunakan oleh siapa saja tanpa perlu panduan yang rumit sehingga setiap user bisa langsung merasakan manfaat nyata dari aplikasi ini sejak pertama kali mereka membukanya di HP mereka (2026-03-15 09:30:52)
