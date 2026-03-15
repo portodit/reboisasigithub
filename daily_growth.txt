@@ -6671,3 +6671,4 @@ Nambahin fitur filter berdasarkan histori aktivitas yang sangat komprehensif unt
 Benerin bug di bagian verifikasi nomor HP lewat WhatsApp (2026-03-16 01:26:55)
 Benerin bug di bagian verifikasi nomor HP lewat WhatsApp (2026-03-16 01:26:56)
 Update font-weight biar lebih enak dibaca (2026-03-16 01:26:59)
+Fixing bug dimana aplikasi gak bisa dibuka lewat link deep-link (2026-03-16 01:27:06)
