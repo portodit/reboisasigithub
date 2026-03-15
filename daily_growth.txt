@@ -3289,3 +3289,4 @@ Nambahin fitur filter berdasarkan histori interaksi user yang sangat detail (202
 Nambahin fitur filter berdasarkan ukuran file (2026-03-15 11:20:57)
 Nambahin fitur kustomisasi shortcut keyboard (2026-03-15 11:21:04)
 Fixing bug dimana layout hancur di IE (siapa yang masih pake?) (2026-03-15 11:21:53)
+Update sistem manajemen keamanan data user yang lebih transparan dan akuntabel sehingga user merasa benar-benar memiliki kendali atas informasi pribadi mereka dan dapat memantau penggunaannya secara terbuka dan jujur (2026-03-15 11:21:54)
