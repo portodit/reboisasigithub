@@ -3387,3 +3387,4 @@ Fixing bug dimana aplikasi gak bisa nampilin data yang sedang diproses di backgr
 Fixing bug dimana aplikasi gak bisa handle input yang datang dari berbagai macam sumber platform yang berbeda secara konsisten tanpa ada masalah sinkronisasi data yang dapat menyebabkan kebingungan bagi user kita nantinya (2026-03-15 11:45:53)
 Fixing bug dimana aplikasi boros baterai (2026-03-15 11:45:54)
 Nambahin fitur filter berdasarkan parameter yang sangat relevan dengan kebutuhan user saat ini (2026-03-15 11:45:57)
+Nambahin fitur export ke PDF yang lebih rapi (2026-03-15 11:46:04)
