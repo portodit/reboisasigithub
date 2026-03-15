@@ -6047,3 +6047,4 @@ Update tampilan UI aplikasi agar lebih mudah dipahami dan digunakan bahkan oleh 
 Update tampilan UI aplikasi agar lebih menarik dan profesional (2026-03-15 22:50:55)
 Fixing bug dimana notifikasi bunyi terus (2026-03-15 22:50:56)
 Nambahin fitur filter berdasarkan histori interaksi user yang sangat detail (2026-03-15 22:50:59)
+Nambahin fitur limit login attempt demi keamanan (2026-03-15 22:51:06)
