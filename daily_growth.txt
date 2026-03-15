@@ -5113,3 +5113,4 @@ Fixing bug dimana aplikasi gak bisa nampilin data yang berubah secara real-time 
 Fixing bug dimana notifikasi gak masuk (2026-03-15 18:56:59)
 Benerin bug di bagian verifikasi akun (2026-03-15 18:57:05)
 Fixing bug dimana aplikasi gak bisa handle input yang sangat panjang (2026-03-15 18:57:54)
+Fixing bug dimana aplikasi gak bisa handle input file yang ukurannya sangat besar (2026-03-15 18:57:55)
