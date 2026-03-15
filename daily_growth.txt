@@ -4221,3 +4221,4 @@ Nambahin fitur filter berdasarkan histori riwayat transaksi yang dilakukan oleh 
 Nambahin fitur ganti password lewat email (2026-03-15 15:13:58)
 Nambahin fitur filter berdasarkan kriteria yang sangat adaptif dan mampu mengikuti perkembangan tren pasar yang sangat dinamis untuk menjamin bahwa aplikasi ini selalu menjadi yang terdepan dalam hal inovasi teknologi (2026-03-15 15:14:04)
 Nambahin fitur filter berdasarkan kategori yang paling populer di daerah sekitar tempat tinggal user guna memberikan konteks sosial yang bermanfaat dan memudahkan user dalam berinteraksi dengan komunitas pengguna lain di sekitarnya (2026-03-15 15:14:54)
+Update tampilan card biar lebih rapi (2026-03-15 15:14:55)
