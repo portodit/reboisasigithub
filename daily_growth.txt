@@ -7099,3 +7099,4 @@ Fixing bug dimana aplikasi gak bisa handle input data dalam jumlah yang sangat m
 Benerin bug di bagian upload avatar (2026-03-16 03:13:55)
 Update tampilan UI aplikasi agar lebih mencerminkan filosofi dan nilai-nilai inti dari brand atau perusahaan yang mengembangkan aplikasi tersebut secara visual (2026-03-16 03:13:56)
 Update sistem manajemen keamanan aplikasi yang lebih holistik dan mencakup seluruh siklus hidup data mulai dari pembuatan, penggunaan, penyimpanan, hingga penghapusan data secara aman sesuai dengan regulasi yang berlaku (2026-03-16 03:13:59)
+Fixing bug dimana checkbox gak bisa dicentang (2026-03-16 03:14:06)
