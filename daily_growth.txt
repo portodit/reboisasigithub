@@ -5013,3 +5013,4 @@ Fixing bug dimana aplikasi gak bisa nampilin data yang diproses secara sinkron d
 Nambahin fitur filter berdasarkan parameter yang sangat teknis dan spesifik untuk memberikan kontrol yang lebih mendalam bagi para user ahli yang ingin mengoptimalkan penggunaan aplikasi sesuai dengan kebutuhan kerja mereka yang unik (2026-03-15 18:31:59)
 Benerin bug di bagian sistem manajemen integrasi sistem pembayaran internasional (2026-03-15 18:32:05)
 Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih bijaksana dalam mengirimkan informasi agar user tidak merasa kewalahan dengan banyaknya pesan yang masuk dan tetap fokus pada hal yang paling penting (2026-03-15 18:32:54)
+Nambahin fitur filter berdasarkan ukuran file (2026-03-15 18:32:55)
