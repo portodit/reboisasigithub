@@ -6072,3 +6072,4 @@ Fixing bug dimana aplikasi gak bisa handle input data dalam jumlah yang sangat b
 Update sistem manajemen keamanan data user yang lebih transparan dan memberikan kontrol sepenuhnya kepada user agar mereka merasa benar-benar memiliki kendali atas privasi data mereka sendiri di dalam aplikasi kita ini (2026-03-15 22:56:56)
 Update sistem manajemen cache yang lebih efisien untuk mempercepat waktu loading aplikasi secara signifikan (2026-03-15 22:56:59)
 Update sistem manajemen cache server-side (2026-03-15 22:57:06)
+Nambahin fitur filter berdasarkan tingkat kepentingan (2026-03-15 22:57:55)
