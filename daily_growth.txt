@@ -4994,3 +4994,4 @@ Nambahin fitur filter berdasarkan histori perjalanan transaksi yang dilakukan ol
 Benerin bug di bagian sistem manajemen inventaris (2026-03-15 18:27:05)
 Fixing bug dimana aplikasi gak bisa handle input yang memiliki tipe sangat bervariasi secara otomatis tanpa perlu melakukan modifikasi manual pada kode program inti aplikasi setiap kali ada penambahan jenis data baru (2026-03-15 18:27:54)
 Benerin bug di bagian integrasi sistem manajemen file yang lebih teratur dalam pengelolaannya sehingga user selalu bisa menemukan dokumen yang mereka cari dengan sangat cepat tanpa harus bersusah payah mencarinya satu per satu lagi di folder lama (2026-03-15 18:27:55)
+Fixing bug dimana aplikasi error pas ganti orientasi layar (2026-03-15 18:27:59)
