@@ -6389,3 +6389,4 @@ Nambahin fitur filter berdasarkan histori preferensi user yang telah dianalisa s
 Fixing bug dimana aplikasi gak bisa handle input yang sangat banyak jumlahnya secara efisien (2026-03-16 00:15:59)
 Nambahin limit karakter di input komentar (2026-03-16 00:16:06)
 Benerin bug di bagian upload file besar (2026-03-16 00:16:55)
+Benerin bug di bagian filter pencarian lanjutan (2026-03-16 00:16:56)
