@@ -5656,3 +5656,4 @@ Nambahin fitur filter berdasarkan kategori yang memiliki tingkat kepuasan user p
 Benerin bug di bagian navigasi sidebar (2026-03-15 21:12:56)
 Update tampilan UI aplikasi agar lebih menarik bagi segmen pasar tertentu (2026-03-15 21:12:59)
 Fixing bug dimana menu navigasi gak mau nutup (2026-03-15 21:13:06)
+Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih cerdas dalam menentukan kapan harus dikirimkan (2026-03-15 21:13:55)
