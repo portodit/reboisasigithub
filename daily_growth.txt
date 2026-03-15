@@ -3473,3 +3473,4 @@ Update tampilan UI aplikasi agar semakin menarik dan memiliki gaya desain yang s
 Benerin bug di bagian integrasi sistem manajemen file yang lebih terorganisir (2026-03-15 12:06:57)
 Benerin bug di bagian integrasi sistem manajemen database yang lebih cepat dalam proses query data (2026-03-15 12:07:04)
 Benerin bug di bagian export data CSV (2026-03-15 12:07:53)
+Nambahin loading spinner biar user gak bingung (2026-03-15 12:07:54)
