@@ -5660,3 +5660,4 @@ Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih cerdas da
 Benerin bug di bagian tampilan struk (2026-03-15 21:13:56)
 Update skrip analytics biar lebih akurat (2026-03-15 21:13:59)
 Fixing bug dimana aplikasi gak bisa handle input yang sangat panjang (2026-03-15 21:14:06)
+Nambahin error handling di bagian upload gambar (2026-03-15 21:14:55)
