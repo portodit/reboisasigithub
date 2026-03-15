@@ -5946,3 +5946,4 @@ Update tampilan UI aplikasi agar lebih menarik bagi segmen pasar tertentu (2026-
 Benerin bug di bagian pengaturan profil (2026-03-15 22:25:06)
 Nambahin fitur filter berdasarkan sumber data (2026-03-15 22:25:55)
 Nambahin fitur filter berdasarkan tingkat kepentingan (2026-03-15 22:25:56)
+Update sistem pengamanan data pribadi (2026-03-15 22:25:59)
