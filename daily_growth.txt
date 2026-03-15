@@ -7041,3 +7041,4 @@ Update sistem manajemen cache yang lebih dinamis dan mampu beradaptasi dengan po
 Update sistem manajemen cache yang lebih efisien untuk mempercepat waktu loading aplikasi secara signifikan (2026-03-16 02:58:59)
 Nambahin fitur filter berdasarkan parameter yang sangat akurat dan presisi (2026-03-16 02:59:06)
 Fixing bug dimana aplikasi gak bisa handle request yang memiliki alur logika yang sangat rumit dan bercabang-cabang secara tepat tanpa ada kesalahan sedikitpun dalam urutan setiap proses yang dijalankan oleh sistem (2026-03-16 02:59:55)
+Fixing bug dimana aplikasi gak bisa dibuka lewat link deep-link (2026-03-16 02:59:56)
