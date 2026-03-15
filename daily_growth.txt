@@ -3881,3 +3881,4 @@ Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih mudah dia
 Benerin typo di variabel 'receipe' jadi 'recipe' (2026-03-15 13:48:58)
 Fixing bug dimana dropdown ketutup keyboard mobile (2026-03-15 13:49:04)
 Nambahin fitur ganti foto background profil (2026-03-15 13:49:53)
+Nambahin fitur filter berdasarkan kategori yang paling baru saja dirilis dan sedang menjadi tren hangat di kalangan para pengguna aplikasi tersebut saat ini (2026-03-15 13:49:54)
