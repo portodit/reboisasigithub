@@ -4617,3 +4617,4 @@ Update tampilan UI aplikasi agar terlihat makin keren dan memiliki identitas vis
 Fixing bug dimana font gak ke-load sempurna (2026-03-15 16:52:58)
 Nambahin fitur filter berdasarkan kriteria yang sangat unik dan jarang digunakan (2026-03-15 16:53:05)
 Nambahin fitur filter berdasarkan kategori yang memiliki tingkat kepuasan user paling tinggi sebagai bahan referensi bagi user dalam memilih layanan atau produk terbaik yang tersedia di dalam aplikasi kita yang terus berkembang ini (2026-03-15 16:53:54)
+Nambahin lazy loading buat gambar di bawah (2026-03-15 16:53:55)
