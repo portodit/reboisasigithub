@@ -3173,3 +3173,4 @@ Nambahin fitur filter berdasarkan kategori yang paling baru saja dirilis dan sed
 Update tampilan UI aplikasi agar lebih modern dan minimalis sesuai selera masa kini (2026-03-15 10:51:57)
 Nambahin fitur filter berdasarkan kategori yang paling populer di daerah sekitar tempat tinggal user untuk memberikan konteks sosial yang bermanfaat dan memudahkan user dalam berinteraksi dengan komunitas sekitarnya (2026-03-15 10:52:04)
 Update tampilan UI aplikasi agar terlihat makin keren dan memiliki identitas visual yang kuat sehingga user merasa bangga menjadi bagian dari komunitas pengguna aplikasi ini yang selalu mengedepankan kualitas dan gaya (2026-03-15 10:52:53)
+Update sistem caching di sisi client (2026-03-15 10:52:54)
