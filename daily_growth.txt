@@ -2928,3 +2928,4 @@ Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih mudah untu
 Fixing bug dimana layout hancur di IE (siapa yang masih pake?) (2026-03-15 09:33:53)
 Update cara hitung estimasi waktu pengiriman (2026-03-15 09:33:57)
 Nambahin fitur export ke Excel (2026-03-15 09:34:52)
+Nambahin fitur filter berdasarkan kategori yang paling relevan bagi user (2026-03-15 09:34:53)
