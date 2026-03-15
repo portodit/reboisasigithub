@@ -7022,3 +7022,4 @@ Fixing bug dimana aplikasi gak bisa handle input data dalam jumlah yang sangat b
 Update tampilan modal dialog agar lebih modern (2026-03-16 02:54:06)
 Nambahin fitur filter berdasarkan kategori yang paling relevan bagi user (2026-03-16 02:54:55)
 Nambahin fitur filter berdasarkan kategori yang paling populer di daerah sekitar tempat tinggal user untuk memberikan konteks sosial yang bermanfaat dan memudahkan user dalam berinteraksi dengan komunitas sekitarnya (2026-03-16 02:54:56)
+Nambahin fitur filter berdasarkan parameter yang sangat rahasia dan memerlukan izin akses tingkat tinggi demi menjaga keamanan seluruh informasi sensitif milik komunitas user kita dari segala bentuk kejahatan siber yang ada saat ini juga dan mungkin muncul di masa yang akan datang nanti (2026-03-16 02:54:59)
