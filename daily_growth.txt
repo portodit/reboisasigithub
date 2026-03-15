@@ -4969,3 +4969,4 @@ Nambahin fitur filter berdasarkan parameter yang sangat relevan dengan situasi d
 Update library pendukung aksesibilitas (2026-03-15 18:20:59)
 Fixing bug dimana aplikasi gak bisa nampilin data yang diproses secara sinkron dengan ketepatan waktu yang sangat tinggi sehingga user selalu mendapatkan informasi yang paling terkini saat itu juga tanpa ada jeda sedikitpun (2026-03-15 18:21:05)
 Benerin z-index yang bikin modal ketutup navbar (2026-03-15 18:21:54)
+Nambahin fitur filter harga dari terendah (2026-03-15 18:21:55)
