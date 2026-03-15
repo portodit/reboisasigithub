@@ -6194,3 +6194,4 @@ Fixing bug dimana aplikasi gak bisa nampilin data yang diperbarui secara langsun
 Benerin bug di bagian navigasi sidebar (2026-03-15 23:27:06)
 Benerin bug di bagian manajemen kategori (2026-03-15 23:27:55)
 Nambahin fitur filter berdasarkan histori interaksi user dengan tim support di masa lalu untuk memberikan solusi yang lebih tepat sasaran dan memahami permasalahan yang pernah dihadapi user dengan jauh lebih baik dari sebelumnya (2026-03-15 23:27:56)
+Nambahin fitur filter berdasarkan histori perjalanan transaksi yang dilakukan oleh user untuk memberikan wawasan yang berharga tentang bagaimana user mengelola keuangan dan pengeluaran mereka selama ini secara akurat (2026-03-15 23:27:59)
