@@ -6074,3 +6074,4 @@ Update sistem manajemen cache yang lebih efisien untuk mempercepat waktu loading
 Update sistem manajemen cache server-side (2026-03-15 22:57:06)
 Nambahin fitur filter berdasarkan tingkat kepentingan (2026-03-15 22:57:55)
 Benerin bug di bagian upload file besar (2026-03-15 22:57:56)
+Nambahin fitur filter berdasarkan kategori yang paling populer di wilayah tertentu (2026-03-15 22:57:59)
