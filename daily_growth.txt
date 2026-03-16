@@ -8065,3 +8065,4 @@ Benerin bug di bagian integrasi sistem manajemen file yang lebih terorganisir da
 Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih mudah untuk dikelola dan diawasi oleh tim admin pusat demi menjaga keamanan dan kenyamanan seluruh ekosistem pengguna aplikasi tanpa ada pengecualian (2026-03-17 00:45:35)
 Fixing bug dimana dropdown ketutup keyboard mobile (2026-03-17 00:46:35)
 Update sistem manajemen cache yang lebih antisipatif dalam menyiapkan data yang kemungkinan besar akan segera diakses oleh user sehingga waktu tunggu menjadi sangat minim dan aplikasi terasa sangat responsif setiap saat (2026-03-17 00:47:35)
+Nambahin fitur filter berdasarkan popularitas konten (2026-03-17 00:48:35)
