@@ -8003,3 +8003,4 @@ Nambahin fitur filter berdasarkan histori preferensi user yang telah dipelajari 
 Optimasi: ukuran bundle turun 2KB, lumayan lah ya (2026-03-16 23:43:35)
 Benerin bug di bagian tampilan mobile landscape (2026-03-16 23:44:35)
 Benerin bug di bagian tracking pengiriman (2026-03-16 23:45:35)
+Benerin bug di bagian export data CSV (2026-03-16 23:46:35)
