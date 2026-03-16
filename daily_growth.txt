@@ -8364,3 +8364,4 @@ Fixing bug dimana aplikasi gak bisa nampilin data yang diproses secara paralel m
 Benerin bug di bagian tampilan peta interaktif (2026-03-17 05:44:36)
 Update logic perhitungan diskon member (2026-03-17 05:45:36)
 Nambahin margin biar gak terlalu mepet ke kiri (2026-03-17 05:46:36)
+Nambahin fitur ganti bahasa tanpa refresh (2026-03-17 05:47:36)
