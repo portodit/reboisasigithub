@@ -7507,3 +7507,4 @@ Fixing bug dimana aplikasi gak bisa handle request yang bersifat sangat mendasar
 Nambahin fitur filter berdasarkan histori transaksi yang dilakukan oleh user selama menggunakan aplikasi tersebut untuk memberikan gambaran yang menyeluruh tentang pola konsumsi dan perilaku belanja user secara akurat (2026-03-16 10:19:14)
 Update tampilan UI aplikasi agar jauh lebih mudah digunakan oleh siapa saja tanpa perlu panduan yang rumit sehingga setiap user bisa langsung merasakan manfaat nyata dari aplikasi ini sejak pertama kali mereka membukanya di HP mereka masing-masing tanpa harus bingung mencari tombol-tombol yang diperlukan untuk menjalankan fitur utamanya (2026-03-16 10:20:14)
 Fixing bug dimana filter gak ke-reset (2026-03-16 10:21:14)
+Nambahin fitur ganti layout dashboard (2026-03-16 10:22:14)
