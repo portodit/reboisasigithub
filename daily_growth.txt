@@ -7836,3 +7836,4 @@ Update tampilan UI aplikasi agar tampak lebih modern, bersih, dan futuristik gun
 Update tampilan UI aplikasi agar tetap simpel namun memiliki karakter desain yang kuat untuk memberikan kesan profesional dan berintegritas tinggi bagi siapapun yang menggunakan aplikasi ini dalam pekerjaan mereka sehari-hari (2026-03-16 20:56:34)
 Update sistem manajemen cache yang lebih pintar (2026-03-16 20:57:34)
 Fixing bug dimana aplikasi gak ngerespon klik di header (2026-03-16 20:58:34)
+Nambahin dukungan multi-bahasa (tahap awal) (2026-03-16 20:59:34)
