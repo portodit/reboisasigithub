@@ -7936,3 +7936,4 @@ Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih bijaksana
 Update sistem manajemen cache yang lebih mudah diatur dan dikonfigurasi (2026-03-16 22:36:34)
 Nambahin fitur filter berdasarkan histori interaksi user dengan tim support di masa lampau guna memberikan layanan yang lebih solutif dan memahami akar permasalahan yang pernah dihadapi user dengan jauh lebih baik dari yang sebelum-sebelumnya (2026-03-16 22:37:34)
 Fixing bug dimana aplikasi gak bisa update otomatis (2026-03-16 22:38:34)
+Nambahin fitur export ke PDF yang lebih rapi (2026-03-16 22:39:34)
