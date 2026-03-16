@@ -8267,3 +8267,4 @@ Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih cerdas dan
 Update library pemrosesan JSON yang lebih cepat (2026-03-17 04:07:36)
 Nambahin validasi nomor telepon (2026-03-17 04:08:36)
 Fixing bug di bagian filter tanggal (2026-03-17 04:09:36)
+Nambahin error handling di bagian upload gambar (2026-03-17 04:10:36)
