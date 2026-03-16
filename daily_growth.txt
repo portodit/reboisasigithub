@@ -7981,3 +7981,4 @@ Fixing bug dimana aplikasi gak bisa nampilin data yang diproses secara asinkron 
 Nambahin placeholder pas data lagi kosong (2026-03-16 23:21:35)
 Update library manipulasi DOM (2026-03-16 23:22:34)
 Benerin bug di bagian perhitungan stok barang (2026-03-16 23:23:35)
+Update tampilan menu sidebar agar lebih ergonomis (2026-03-16 23:24:35)
