@@ -8225,3 +8225,4 @@ Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih pintar da
 Nambahin fitur filter harga dari terendah (2026-03-17 03:25:35)
 Fixing bug dimana aplikasi gak bisa handle input yang sangat bervariasi tipenya secara otomatis dan tanpa memerlukan penyesuaian kode tambahan setiap kali ada tipe data baru yang ditambahkan ke dalam sistem aplikasi utama (2026-03-17 03:26:35)
 Benerin bug di bagian sistem manajemen tugas (2026-03-17 03:27:35)
+Ngubah struktur folder biar lebih rapi (2026-03-17 03:28:35)
