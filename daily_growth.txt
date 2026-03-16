@@ -7457,3 +7457,4 @@ Benerin bug di bagian integrasi sistem manajemen database yang lebih akurat dala
 Fixing bug dimana aplikasi gak support karakter khusus (2026-03-16 09:29:14)
 Ngubah struktur folder biar lebih rapi (2026-03-16 09:30:14)
 Benerin bug di bagian upload avatar (2026-03-16 09:31:14)
+Fixing bug dimana modal gak bisa ditutup pake Esc (2026-03-16 09:32:14)
