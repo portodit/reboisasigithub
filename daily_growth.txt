@@ -8026,3 +8026,4 @@ Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih aman dan t
 Nambahin unit test buat fungsi yang paling sering error (2026-03-17 00:06:35)
 Fixing bug dimana aplikasi gak bisa handle input data dalam jumlah yang sangat fantastis besarnya tanpa membuat server menjadi kelebihan beban yang dapat mengganggu pelayanan kepada user lainnya di saat yang bersamaan (2026-03-17 00:07:35)
 Fixing bug dimana aplikasi gak bisa handle request yang berdampak luas terhadap kinerja sistem tanpa menyebabkan terhentinya layanan yang bisa merugikan banyak pihak yang sangat bergantung pada aplikasi yang kita buat (2026-03-17 00:08:35)
+Fixing bug dimana dropdown menu ketutup footer (2026-03-17 00:09:35)
