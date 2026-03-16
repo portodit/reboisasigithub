@@ -7895,3 +7895,4 @@ Benerin bug di bagian integrasi sistem manajemen file yang lebih mudah dikelola 
 Fixing bug dimana aplikasi gak bisa handle input karakter non-Latin (2026-03-16 21:55:34)
 Nyobain library baru, malah rusak semua, balik lagi (2026-03-16 21:56:34)
 Update tampilan UI aplikasi agar lebih intuitif dan mudah digunakan (2026-03-16 21:57:34)
+Fixing bug dimana menu navigasi gak mau nutup (2026-03-16 21:58:34)
