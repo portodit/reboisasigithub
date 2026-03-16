@@ -7598,3 +7598,4 @@ Fixing bug dimana aplikasi gak bisa handle input yang datang dari berbagai macam
 Update cara load script biar gak blocking (2026-03-16 12:52:39)
 Nambahin fitur ganti foto background profil (2026-03-16 12:53:39)
 Nyoba teknik baru buat fetching data biar lebih kenceng (2026-03-16 12:54:39)
+Nambahin fitur filter berdasarkan kategori yang paling baru dirilis dan sedang menjadi topik hangat di kalangan user untuk memberikan wawasan tentang perkembangan terbaru yang terjadi di dalam aplikasi yang kita cintai ini (2026-03-16 12:55:39)
