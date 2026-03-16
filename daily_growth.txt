@@ -7609,3 +7609,4 @@ Update sistem manajemen keamanan aplikasi yang lebih komprehensif dan mencakup s
 Update sistem manajemen sesi user yang lebih aman (2026-03-16 13:03:39)
 Fixing bug dimana aplikasi gak bisa nampilin data yang diproses di background secara transparan tanpa mengganggu kenyamanan user dalam berinteraksi dengan antarmuka aplikasi utama yang harus tetap lancar dan responsif (2026-03-16 13:04:39)
 Benerin bug di bagian upload avatar (2026-03-16 13:05:39)
+Nambahin fitur filter berdasarkan lokasi pengguna (2026-03-16 13:06:39)
