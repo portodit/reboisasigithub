@@ -8374,3 +8374,4 @@ Benerin bug di bagian integrasi sistem manajemen database yang lebih akurat dala
 Fixing bug dimana aplikasi gak bisa handle input data dalam jumlah yang sangat besar sekali volumenya tanpa membebani kinerja server secara berlebihan yang bisa mengakibatkan gangguan pada layanan bagi seluruh pengguna lainnya (2026-03-17 05:54:36)
 Update tampilan UI aplikasi agar lebih modern dan mengikuti tren terbaru (2026-03-17 05:55:36)
 Nambahin fitur ganti bahasa tanpa refresh (2026-03-17 05:56:36)
+Nambahin fitur filter berdasarkan parameter yang sangat sensitif dan memerlukan izin khusus (2026-03-17 05:57:36)
