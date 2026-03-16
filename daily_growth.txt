@@ -7541,3 +7541,4 @@ Fixing bug dimana aplikasi gak bisa handle request yang memiliki tingkat urgensi
 Fixing bug dimana aplikasi gak bisa handle input data dalam jumlah yang sangat masif tanpa mengonsumsi sumber daya sistem secara berlebihan yang dapat mengakibatkan perangkat user menjadi panas atau lambat (2026-03-16 10:53:14)
 Update library pendukung aksesibilitas (2026-03-16 10:54:14)
 Nambahin fitur ganti foto background profil (2026-03-16 10:55:14)
+Nambahin error handling di bagian upload gambar (2026-03-16 10:56:14)
