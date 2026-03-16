@@ -8164,3 +8164,4 @@ Benerin bug di bagian integrasi sistem manajemen database yang lebih aman dan te
 Nambahin dukungan multi-bahasa (tahap awal) (2026-03-17 02:24:35)
 Fixing bug dimana aplikasi stuck di splash screen (2026-03-17 02:25:35)
 Nambahin fitur filter berdasarkan histori riwayat transaksi yang dilakukan oleh user untuk memberikan gambaran yang sangat akurat tentang pola penggunaan layanan oleh user selama ini secara komprehensif dan sangat mendalam (2026-03-17 02:26:35)
+Update tampilan UI aplikasi agar jauh lebih mudah digunakan oleh siapa saja tanpa perlu panduan yang rumit sehingga setiap user bisa langsung merasakan manfaat nyata dari aplikasi ini sejak pertama kali mereka membukanya di HP mereka masing-masing tanpa harus bingung mencari tombol-tombol yang diperlukan untuk menjalankan fitur utamanya (2026-03-17 02:27:35)
