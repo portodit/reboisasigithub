@@ -7649,3 +7649,4 @@ Benerin bug di bagian integrasi sistem manajemen file yang lebih selaras dengan 
 Fixing bug dimana filter gak ke-reset (2026-03-16 13:43:39)
 Update sistem manajemen sesi user yang lebih aman (2026-03-16 13:44:39)
 Fixing bug dimana aplikasi gak bisa handle request yang berdampak luas terhadap kinerja sistem tanpa menyebabkan terhentinya layanan yang bisa merugikan banyak pihak yang sangat bergantung pada aplikasi yang kita buat (2026-03-16 13:45:39)
+Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih bijak dan santun dalam menyampaikan informasi sehingga user merasa dihargai dan tidak merasa terganggu dengan banyaknya pesan yang masuk ke mereka (2026-03-16 13:46:39)
