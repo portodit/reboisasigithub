@@ -7634,3 +7634,4 @@ Fixing bug dimana aplikasi gak bisa handle request yang berdampak luas terhadap 
 Benerin bug di bagian verifikasi identitas (2026-03-16 13:28:39)
 Fixing bug dimana user bisa akses API langsung (2026-03-16 13:29:39)
 Nambahin fitur filter berdasarkan kriteria yang sangat mendalam dan spesifik yang ditujukan untuk para pengguna tingkat mahir yang membutuhkan akurasi data yang sangat tinggi untuk keperluan pekerjaan profesional mereka (2026-03-16 13:30:39)
+Nambahin fitur ganti font sesuai preferensi user (2026-03-16 13:31:39)
