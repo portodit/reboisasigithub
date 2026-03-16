@@ -8043,3 +8043,4 @@ Nambahin fitur filter berdasarkan parameter yang sangat dinamis (2026-03-17 00:2
 Benerin bug di bagian tampilan struk (2026-03-17 00:23:35)
 Fixing bug dimana aplikasi gak bisa handle input file yang ukurannya sangat besar (2026-03-17 00:24:35)
 Nambahin fitur share link dengan tracking (2026-03-17 00:25:35)
+Update tampilan UI aplikasi agar lebih bersih dan minimalis (2026-03-17 00:26:35)
