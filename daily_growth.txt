@@ -8289,3 +8289,4 @@ Fixing bug dimana aplikasi gak bisa handle request yang berdampak luas terhadap 
 Benerin bug di bagian integrasi sistem analitik baru (2026-03-17 04:29:36)
 Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih pintar dalam memilih waktu yang paling tepat untuk memberikan informasi kepada user sehingga tidak mengganggu aktivitas penting yang sedang dilakukan (2026-03-17 04:30:36)
 Fixing bug dimana gambar gak responsif (2026-03-17 04:31:36)
+Nambahin fitur 'Forgot Password' (2026-03-17 04:32:36)
