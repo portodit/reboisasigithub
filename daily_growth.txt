@@ -7837,3 +7837,4 @@ Update tampilan UI aplikasi agar tetap simpel namun memiliki karakter desain yan
 Update sistem manajemen cache yang lebih pintar (2026-03-16 20:57:34)
 Fixing bug dimana aplikasi gak ngerespon klik di header (2026-03-16 20:58:34)
 Nambahin dukungan multi-bahasa (tahap awal) (2026-03-16 20:59:34)
+Nambahin fitur filter berdasarkan popularitas konten (2026-03-16 21:00:34)
