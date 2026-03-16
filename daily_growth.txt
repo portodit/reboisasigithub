@@ -8207,3 +8207,4 @@ Update sistem manajemen keamanan aplikasi yang lebih komprehensif dan mencakup s
 Fixing bug dimana aplikasi gak bisa handle request yang sangat kompleks logikanya (2026-03-17 03:07:35)
 Fixing bug dimana aplikasi gak bisa nampilin data yang diproses secara background (2026-03-17 03:08:35)
 Benerin bug di bagian integrasi sistem manajemen database yang lebih kencang dalam menarik data dari server sehingga user tidak perlu menunggu lama untuk melihat hasil dari tindakan yang baru saja mereka lakukan di aplikasi (2026-03-17 03:09:35)
+Nambahin fitur export ke PDF yang lebih rapi (2026-03-17 03:10:35)
