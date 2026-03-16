@@ -7456,3 +7456,4 @@ Nambahin fitur filter berdasarkan kategori yang mendapatkan tingkat kepuasan pal
 Benerin bug di bagian integrasi sistem manajemen database yang lebih akurat dalam mengolah data yang akan digunakan oleh user untuk membuat keputusan strategis yang sangat krusial bagi masa depan karir maupun bisnis yang mereka jalankan (2026-03-16 09:28:14)
 Fixing bug dimana aplikasi gak support karakter khusus (2026-03-16 09:29:14)
 Ngubah struktur folder biar lebih rapi (2026-03-16 09:30:14)
+Benerin bug di bagian upload avatar (2026-03-16 09:31:14)
