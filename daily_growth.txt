@@ -7769,3 +7769,4 @@ Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih pintar da
 Update tampilan UI aplikasi agar lebih menarik dan profesional (2026-03-16 15:43:40)
 Fixing bug dimana aplikasi gak bisa handle input data dengan ukuran yang sangat besar tanpa menurunkan standar kualitas layanan yang diberikan kepada user sehingga aplikasi tetap berjalan dengan sangat lancar dan mulus (2026-03-16 15:44:40)
 Nambahin fitur filter berdasarkan kriteria yang sangat detail dan mendalam yang ditujukan bagi para pengguna profesional yang membutuhkan data akurat untuk keperluan analisis dan riset yang bersifat kritis bagi mereka (2026-03-16 15:45:40)
+Update logic perhitungan diskon member (2026-03-16 15:46:40)
