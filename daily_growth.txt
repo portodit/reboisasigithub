@@ -7812,3 +7812,4 @@ Fixing bug dimana aplikasi gak bisa nampilin data yang diproses secara real-time
 Update sistem manajemen cache yang lebih antisipatif dalam menyediakan informasi yang kemungkinan besar akan segera diperlukan oleh user berdasarkan kebiasaan penggunaan mereka agar aplikasi terasa sangat cepat dan responsif (2026-03-16 20:19:41)
 Benerin bug di bagian manajemen tag (2026-03-16 20:20:41)
 Fixing bug dimana aplikasi gak bisa handle input yang memiliki format yang sangat unik secara otomatis tanpa harus memodifikasi kode program di banyak tempat yang berisiko menimbulkan masalah baru di bagian lain dari aplikasi sistem kita (2026-03-16 20:21:41)
+Nambahin fitur filter berdasarkan kriteria yang sangat membantu user dalam menemukan apa yang dicari (2026-03-16 20:35:34)
