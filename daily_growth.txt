@@ -7578,3 +7578,4 @@ Fixing bug dimana aplikasi gak bisa handle request yang bersifat krusial bagi op
 Fixing overflow-x yang bikin scrollbar muncul padahal gak butuh (2026-03-16 11:30:14)
 Update icon sosial media ke yang versi terbaru (2026-03-16 11:31:14)
 Update sistem perhitungan ongkir otomatis (2026-03-16 11:32:14)
+Fixing overflow-x yang bikin scrollbar muncul padahal gak butuh (2026-03-16 11:33:14)
