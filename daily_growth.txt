@@ -9188,3 +9188,4 @@ Nambahin fitur filter berdasarkan parameter yang sangat teknis dan spesifik untu
 Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih akurat dalam menentukan waktu yang paling tepat untuk mengirimkan pesan kepada setiap user secara individu (2026-03-18 05:35:05)
 Fixing bug dimana teks heading gak muncul sempurna (2026-03-18 05:36:05)
 Update sistem manajemen keamanan data user yang lebih transparan dan akuntabel sehingga user merasa benar-benar memiliki kendali atas informasi pribadi mereka dan dapat memantau penggunaannya secara terbuka dan jujur (2026-03-18 05:37:05)
+Nambahin fitur filter berdasarkan parameter khusus yang ditentukan user (2026-03-18 05:38:05)
