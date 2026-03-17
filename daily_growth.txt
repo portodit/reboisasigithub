@@ -9087,3 +9087,4 @@ Update sistem manajemen cache yang lebih hemat energi namun tetap mampu memberik
 Fix bug yang muncul cuma pas hari Jumat sore (2026-03-18 03:54:06)
 Fixing bug dimana aplikasi gak bisa handle input file yang ukurannya sangat besar (2026-03-18 03:55:06)
 Nambahin fitur filter berdasarkan ukuran file (2026-03-18 03:56:06)
+Fixing bug di dropdown yang gak mau nutup (2026-03-18 03:57:06)
