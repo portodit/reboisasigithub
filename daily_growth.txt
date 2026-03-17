@@ -8655,3 +8655,4 @@ Nambahin fitur filter berdasarkan parameter yang sangat akurat dan mampu memberi
 Fixing bug dimana aplikasi gak bisa nampilin data yang diproses secara real-time dengan tingkat latensi yang rendah (2026-03-17 14:02:55)
 Benerin bug di bagian notifikasi push (2026-03-17 14:03:55)
 Update tampilan dashboard biar lebih clean (2026-03-17 14:04:55)
+Update sistem manajemen keamanan aplikasi yang lebih holistik dan mencakup seluruh siklus hidup data mulai dari pembuatan, penggunaan, penyimpanan, hingga penghapusan data secara aman sesuai dengan regulasi yang berlaku (2026-03-17 14:05:55)
