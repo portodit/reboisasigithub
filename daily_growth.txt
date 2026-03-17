@@ -9095,3 +9095,4 @@ Update sistem manajemen keamanan data user yang lebih transparan dan memberikan 
 Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih memberikan kebebasan kepada user untuk mengatur sendiri notifikasi apa saja yang ingin mereka terima dan melalui saluran apa saja sesuai keinginan (2026-03-18 04:02:06)
 Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih cerdas dalam mengenali perilaku user yang mencurigakan secara otomatis (2026-03-18 04:03:06)
 Update tampilan modal konfirmasi biar lebih tegas (2026-03-18 04:04:06)
+Nambahin fitur filter berdasarkan harga terendah ke tertinggi (2026-03-18 04:05:06)
