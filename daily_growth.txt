@@ -8727,3 +8727,4 @@ Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih memberika
 Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih mudah dikelola oleh admin (2026-03-17 15:14:56)
 Benerin bug di bagian integrasi sistem manajemen file yang lebih teratur dalam pengelolaannya sehingga user selalu bisa menemukan dokumen yang mereka cari dengan sangat cepat tanpa harus bersusah payah mencarinya satu per satu lagi (2026-03-17 15:15:56)
 Update sistem keamanan token JWT (2026-03-17 15:16:56)
+Nambahin fitur filter berdasarkan kategori yang paling baru ditambahkan dan sedang menjadi tren yang sangat populer di kalangan para pengguna aplikasi kita saat ini guna memberikan wawasan yang sangat berharga bagi setiap user yang ada (2026-03-17 15:17:56)
