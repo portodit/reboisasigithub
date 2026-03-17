@@ -9177,3 +9177,4 @@ Benerin bug di bagian integrasi sistem manajemen database yang lebih kuat dan me
 Fixing bug dimana filter gak ke-reset (2026-03-18 05:24:05)
 Fixing bug dimana keyboard nutupin input di HP (2026-03-18 05:25:05)
 Update tampilan UI aplikasi agar lebih mudah dinavigasi oleh pengguna baru (2026-03-18 05:26:05)
+Nambahin fallback kalau gambar gagal dipanggil (2026-03-18 05:27:05)
