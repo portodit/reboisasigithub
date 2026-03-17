@@ -9089,3 +9089,4 @@ Fixing bug dimana aplikasi gak bisa handle input file yang ukurannya sangat besa
 Nambahin fitur filter berdasarkan ukuran file (2026-03-18 03:56:06)
 Fixing bug di dropdown yang gak mau nutup (2026-03-18 03:57:06)
 Fixing bug dimana aplikasi gak bisa handle input yang sangat bervariasi jenisnya secara tepat (2026-03-18 03:58:06)
+Update sistem proteksi password (2026-03-18 03:59:06)
