@@ -8469,3 +8469,4 @@ Update tampilan UI aplikasi agar tetap mempertahankan prinsip simplicity namun m
 Update performa loading font eksternal (2026-03-17 10:56:54)
 Nambahin fitur filter berdasarkan histori preferensi user yang telah dipelajari secara mendalam oleh sistem menggunakan teknologi machine learning untuk memberikan hasil pencarian yang benar-benar pas di hati setiap user (2026-03-17 10:57:54)
 Update tampilan tabel biar bisa di-resize (2026-03-17 10:58:54)
+Fixing bug dimana notifikasi gak muncul di lock screen (2026-03-17 10:59:54)
