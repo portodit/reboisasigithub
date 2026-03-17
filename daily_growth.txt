@@ -9078,3 +9078,4 @@ Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih informati
 Fixing bug dimana aplikasi gak munculin pesan sukses (2026-03-18 03:45:06)
 Fixing bug dimana teks kepotong di layar kecil (2026-03-18 03:46:06)
 Menelusuri kenapa footer melayang di tengah layar (2026-03-18 03:47:06)
+Nambahin fitur filter berdasarkan parameter yang sangat teknis dan spesifik untuk memberikan kendali yang lebih dalam bagi para user ahli yang ingin mengoptimalkan penggunaan aplikasi sesuai dengan spesifikasi kerja mereka (2026-03-18 03:48:05)
