@@ -8506,3 +8506,4 @@ Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih kuat dan t
 Nambahin fitur filter berdasarkan histori kunjungan user yang sangat komprehensif (2026-03-17 11:33:55)
 Benerin bug di bagian formatting mata uang (2026-03-17 11:34:55)
 Refactoring logic login biar gak kayak spageti (2026-03-17 11:35:55)
+Fixing bug dimana user ganda bisa daftar (2026-03-17 11:36:55)
