@@ -8576,3 +8576,4 @@ Update tampilan UI aplikasi agar jauh lebih mudah digunakan oleh siapa saja tanp
 Nambahin fitur custom tema warna oleh user (2026-03-17 12:43:55)
 Fixing bug dimana aplikasi gak bisa nampilin data yang diambil dari berbagai sumber secara akurat (2026-03-17 12:44:55)
 Update tampilan UI aplikasi agar jauh lebih mudah digunakan oleh siapa saja tanpa perlu panduan yang rumit sehingga setiap user bisa langsung merasakan manfaat nyata dari aplikasi ini sejak pertama kali mereka membukanya di HP mereka (2026-03-17 12:45:55)
+Benerin bug di bagian sistem manajemen inventaris (2026-03-17 12:46:55)
