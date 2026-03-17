@@ -8805,3 +8805,4 @@ Fixing bug dimana aplikasi gak bisa handle input yang memiliki format yang sanga
 Fixing bug dimana modal muncul dua kali (2026-03-17 23:12:04)
 Nambahin fitur kustomisasi shortcut keyboard (2026-03-17 23:13:04)
 Fixing bug dimana aplikasi gak bisa handle input yang memiliki format yang sangat unik secara otomatis tanpa harus memodifikasi kode program di banyak tempat yang berisiko menimbulkan masalah baru di bagian lain aplikasi (2026-03-17 23:14:04)
+Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih pintar dalam memilih momen yang paling pas untuk mengirimkan pesan kepada user agar tidak mengganggu fokus user pada hal-hal penting yang sedang dikerjakan (2026-03-17 23:15:04)
