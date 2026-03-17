@@ -8596,3 +8596,4 @@ Fixing bug dimana aplikasi gak bisa handle input yang gak sesuai dengan format y
 Nambahin fitur filter berdasarkan kategori yang paling baru dirilis dan sedang menjadi topik hangat di kalangan user untuk memberikan wawasan tentang perkembangan terbaru yang terjadi di dalam aplikasi yang kita cintai ini (2026-03-17 13:03:55)
 Update tampilan UI aplikasi agar nampak sangat rapi, teratur, dan sangat mudah untuk dipelajari cara penggunaannya bahkan bagi orang yang pertama kali mencoba aplikasi digital sekalipun untuk memenuhi kebutuhan harian mereka (2026-03-17 13:04:55)
 Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih intuitif dan mudah digunakan (2026-03-17 13:05:55)
+Ganti font jadi Inter biar lebih modern (2026-03-17 13:06:55)
