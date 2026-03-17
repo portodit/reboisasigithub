@@ -8418,3 +8418,4 @@ Fixing bug dimana aplikasi gak bisa nampilin data yang diproses secara sinkron d
 Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih cerdas dan proaktif dalam mendeteksi upaya login yang tidak sah guna memberikan perlindungan maksimal bagi akun milik seluruh pengguna aplikasi (2026-03-17 10:05:54)
 Benerin bug di bagian integrasi sistem manajemen file yang lebih teratur dalam pengelolaannya sehingga user selalu bisa menemukan dokumen yang mereka cari dengan sangat cepat tanpa harus bersusah payah mencarinya satu per satu lagi di folder lama (2026-03-17 10:06:54)
 Benerin bug di bagian integrasi sistem manajemen file yang lebih terorganisir dan memudahkan user dalam mencari dokumen lama yang pernah diupload sehingga mereka tidak perlu repot-repot mencari satu per satu lagi (2026-03-17 10:07:54)
+Nambahin fitur auto-save draft (2026-03-17 10:08:54)
