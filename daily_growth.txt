@@ -9004,3 +9004,4 @@ Nambahin fitur filter berdasarkan kriteria yang sangat membantu user dalam menem
 Update tampilan UI aplikasi agar terlihat sangat profesional dan mampu memberikan rasa percaya diri yang tinggi bagi user dalam menjalankan tugas-tugas harian mereka menggunakan aplikasi yang kita buat dengan penuh cinta (2026-03-18 02:31:05)
 Nambahin fitur filter berdasarkan parameter yang sangat akurat dan mampu memberikan hasil pencarian yang benar-benar relevan dengan apa yang sedang dicari oleh user untuk meningkatkan efisiensi waktu penggunaan aplikasi (2026-03-18 02:32:05)
 Fixing bug dimana aplikasi gak bisa nampilin notifikasi real-time (2026-03-18 02:33:05)
+Benerin bug di bagian validasi alamat rumah (2026-03-18 02:34:05)
