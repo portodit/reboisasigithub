@@ -8540,3 +8540,4 @@ Nambahin fitur filter berdasarkan kriteria yang sangat adaptif dan mampu mengiku
 Fixing bug dimana scrollbar muncul dua (2026-03-17 12:07:55)
 Fixing bug dimana aplikasi gak bisa nampilin data yang berubah secara real-time dengan kecepatan yang sangat tinggi sehingga user akan selalu mendapatkan informasi yang paling update setiap detik tanpa ada keterlambatan sedikitpun (2026-03-17 12:08:55)
 Update library pengelolaan state (2026-03-17 12:09:55)
+Nambahin fitur filter berdasarkan kategori yang paling baru saja dirilis dan sedang menjadi tren hangat di kalangan para pengguna aplikasi tersebut saat ini (2026-03-17 12:10:55)
