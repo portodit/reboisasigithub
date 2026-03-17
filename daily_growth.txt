@@ -8484,3 +8484,4 @@ Fixing bug dimana aplikasi gak bisa handle request yang parameternya sangat dina
 Nambahin fitur filter berdasarkan parameter yang sangat akurat dan presisi (2026-03-17 11:11:54)
 Update tampilan UI aplikasi agar lebih mudah dinavigasi oleh pengguna baru (2026-03-17 11:12:54)
 Fixing bug dimana aplikasi gak bisa handle input yang sangat bervariasi tipenya secara otomatis dan tanpa memerlukan penyesuaian kode tambahan setiap kali ada tipe data baru yang ditambahkan ke dalam sistem aplikasi utama (2026-03-17 11:13:54)
+Nambahin fitur filter berdasarkan rating (2026-03-17 11:14:54)
