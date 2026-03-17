@@ -8923,3 +8923,4 @@ Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih tangguh da
 Benerin bug di bagian sistem poin reward (2026-03-18 01:10:04)
 Fixing bug dimana aplikasi gak bisa handle input yang sangat banyak sekali jumlahnya dalam waktu yang sangat singkat tanpa membuat sistem menjadi hang (2026-03-18 01:11:04)
 Nambahin fitur shortcut 'Go to Top' (2026-03-18 01:12:04)
+Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih memberikan keleluasaan bagi user untuk mengatur frekuensi dan jenis informasi yang ingin mereka terima agar aplikasi ini benar-benar terasa personal bagi user (2026-03-18 01:13:04)
