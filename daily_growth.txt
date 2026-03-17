@@ -9235,3 +9235,4 @@ Fixing bug dimana aplikasi gak bisa handle input yang gak sesuai dengan format y
 Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih cerdas dalam menentukan kapan harus dikirimkan (2026-03-18 06:22:05)
 Nambahin fitur preview sebelum posting (2026-03-18 06:23:05)
 Benerin bug di bagian sistem manajemen kategori produk (2026-03-18 06:24:05)
+Nambahin fitur filter berdasarkan preferensi user yang disimpan secara otomatis (2026-03-18 06:25:05)
