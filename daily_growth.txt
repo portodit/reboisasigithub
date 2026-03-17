@@ -8436,3 +8436,4 @@ Update tampilan UI aplikasi agar semakin menarik dan memiliki gaya desain yang s
 Fixing bug dimana aplikasi gak bisa nampilin data yang berubah secara real-time dengan kecepatan yang sangat tinggi sehingga user akan selalu mendapatkan informasi yang paling update setiap detik tanpa ada keterlambatan waktu yang berarti (2026-03-17 10:23:54)
 Benerin bug di bagian upload file rekaman suara (2026-03-17 10:24:54)
 Ada yang hapus CSS, sudah dikembalikan ke jalan yang benar (2026-03-17 10:25:54)
+Nambahin fitur filter berdasarkan tanggal pembuatan (2026-03-17 10:26:54)
