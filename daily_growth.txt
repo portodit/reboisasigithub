@@ -9055,3 +9055,4 @@ Update tampilan UI aplikasi agar lebih konsisten dan harmonis di setiap sudutnya
 Update tampilan UI aplikasi agar lebih mencerminkan identitas brand (2026-03-18 03:22:05)
 Nambahin fitur sinkronisasi dengan aplikasi desktop (2026-03-18 03:23:05)
 Nambahin integrasi payment gateway (2026-03-18 03:24:05)
+Benerin bug di bagian input angka negatif (2026-03-18 03:25:05)
