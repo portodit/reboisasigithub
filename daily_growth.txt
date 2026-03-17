@@ -8745,3 +8745,4 @@ Fixing bug dimana aplikasi gak bisa handle input yang berasal dari berbagai maca
 Update sistem antrian tugas background (2026-03-17 15:32:56)
 Fixing bug dimana aplikasi gak bisa handle input karakter non-Latin (2026-03-17 15:33:56)
 Kenapa di lokal jalan tapi di production mati? Investigating... (2026-03-17 15:34:56)
+Update sistem manajemen cache yang lebih mudah diatur dan dikonfigurasi (2026-03-17 15:35:56)
