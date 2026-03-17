@@ -8671,3 +8671,4 @@ Update tampilan UI aplikasi agar jauh lebih mudah digunakan oleh siapa saja tanp
 Fixing bug dimana aplikasi gak bisa handle request yang parameternya sangat dinamis dan selalu berubah mengikuti keinginan user yang terus berkembang setiap hari agar aplikasi ini tetap menjadi solusi favorit bagi mereka semua (2026-03-17 14:18:55)
 Update sistem manajemen keamanan aplikasi yang lebih menyeluruh (2026-03-17 14:19:55)
 Nambahin fitur filter berdasarkan kategori yang paling banyak disukai oleh komunitas (2026-03-17 14:20:55)
+Fixing bug dimana user bisa akses API langsung (2026-03-17 14:21:55)
