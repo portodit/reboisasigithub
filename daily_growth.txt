@@ -8561,3 +8561,4 @@ Fixing bug dimana aplikasi gak bisa handle input data dalam jumlah yang sangat f
 Nambahin fitur filter berdasarkan kategori yang paling banyak dicari oleh user lain (2026-03-17 12:28:55)
 Nambahin fitur filter berdasarkan kriteria yang sangat mendalam dan bersifat teknis yang memang dikhususkan bagi para pengguna tingkat lanjut yang membutuhkan tingkat akurasi data yang paling tinggi untuk menunjang pekerjaan profesional (2026-03-17 12:29:55)
 Fixing bug dimana aplikasi gak bisa handle request yang memiliki tingkat urgensi yang paling tinggi secara instan tanpa ada penundaan sedikitpun dalam proses eksekusi datanya oleh sistem inti aplikasi yang kita banggakan ini (2026-03-17 12:30:55)
+Nambahin error handling di bagian upload gambar (2026-03-17 12:31:55)
