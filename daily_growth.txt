@@ -9788,3 +9788,4 @@ Fixing bug dimana aplikasi gak bisa dibuka di resolusi layar tertentu (2026-03-1
 Nambahin fitur filter berdasarkan kriteria yang sangat mudah digunakan dan membantu user dalam menemukan informasi yang mereka cari dengan sangat cepat tanpa harus melewati banyak langkah yang rumit dan membingungkan user (2026-03-18 17:35:17)
 Benerin bug di bagian integrasi sistem manajemen file yang lebih memudahkan user dalam mengatur dan mengorganisir dokumen-dokumen penting mereka secara digital agar tidak hilang dan selalu mudah ditemukan kapanpun dicari (2026-03-18 17:36:17)
 Nambahin fitur 'Load More' biar gak berat (2026-03-18 17:37:17)
+Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih relevan dan tidak mengganggu user (2026-03-18 17:38:17)
