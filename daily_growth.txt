@@ -9684,3 +9684,4 @@ Nambahin fitur filter berdasarkan kategori yang paling populer di daerah sekitar
 Update tampilan UI aplikasi agar lebih mencerminkan filosofi dan nilai-nilai inti dari brand atau perusahaan yang mengembangkan aplikasi tersebut secara visual (2026-03-18 15:51:16)
 Update sistem perhitungan ongkir otomatis (2026-03-18 15:52:16)
 Fixing bug dimana modal muncul dua kali (2026-03-18 15:53:16)
+Nambahin fitur sinkronisasi otomatis antar perangkat (2026-03-18 15:54:16)
