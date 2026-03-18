@@ -9556,3 +9556,4 @@ Nambahin fitur filter berdasarkan kategori yang paling baru ditambahkan dan seda
 Fixing bug dimana aplikasi gak bisa handle input data dalam jumlah yang sangat masif sekaligus tanpa menyebabkan penggunaan daya baterai menjadi sangat boros yang bisa mengganggu kenyamanan user saat menggunakan perangkat mobile mereka untuk keperluan lain yang juga sangat penting bagi kehidupan sehari-hari mereka sehingga aplikasi ini menjadi sahabat yang baik bagi setiap perangkat smartphone yang ada di tangan user (2026-03-18 13:43:15)
 Fixing bug dimana aplikasi gak jalan di mode hemat daya (2026-03-18 13:44:15)
 Fixing bug dimana checkbox gak bisa dicentang (2026-03-18 13:45:15)
+Benerin responsive design di layar HP jadul (2026-03-18 13:46:15)
