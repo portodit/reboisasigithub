@@ -9770,3 +9770,4 @@ Benerin bug di bagian integrasi sistem manajemen file yang lebih terhubung denga
 Fixing bug dimana session tiba-tiba logout sendiri (2026-03-18 17:17:16)
 Update tampilan aplikasi agar lebih responsif di berbagai perangkat (2026-03-18 17:18:16)
 Benerin bug di bagian integrasi sistem manajemen file yang lebih teratur dan mudah dicari menggunakan fitur pencarian yang canggih (2026-03-18 17:19:17)
+Benerin bug di bagian manajemen user (2026-03-18 17:20:16)
