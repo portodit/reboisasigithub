@@ -9272,3 +9272,4 @@ Update tampilan UI aplikasi agar tampak sangat memukau dan memberikan kesan yang
 Benerin bug di bagian pengaturan bahasa (2026-03-18 06:59:05)
 Fixing bug dimana filter gak ke-reset (2026-03-18 07:00:05)
 Benerin bug di bagian verifikasi recaptcha (2026-03-18 07:01:05)
+Nambahin fitur filter berdasarkan kategori yang paling populer di daerah sekitar tempat tinggal user guna memberikan konteks sosial yang bermanfaat dan memudahkan user dalam berinteraksi dengan komunitas pengguna lain di sekitarnya sehingga tercipta sebuah ekosistem digital yang saling mendukung dan memberikan dampak positif bagi kehidupan sosial masyarakat luas di berbagai penjuru dunia mana pun (2026-03-18 07:02:05)
