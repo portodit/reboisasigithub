@@ -9461,3 +9461,4 @@ Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih memberika
 Benerin bug di bagian integrasi sistem manajemen database yang lebih kuat dan memiliki sistem backup data yang sangat handal jika terjadi masalah pada server pusat agar data berharga milik user tetap aman dan tidak akan pernah hilang selamanya (2026-03-18 12:08:15)
 Update tampilan UI aplikasi agar lebih sederhana namun tetap fungsional (2026-03-18 12:09:15)
 Fixing bug dimana aplikasi gak bisa handle input file yang ukurannya sangat besar (2026-03-18 12:10:15)
+Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih memberikan kebebasan penuh bagi user untuk mengatur sendiri notifikasi mana saja yang benar-benar penting bagi mereka dan bagaimana cara menerimanya secara personal (2026-03-18 12:11:15)
