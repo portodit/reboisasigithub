@@ -9957,3 +9957,4 @@ Update tampilan UI aplikasi agar tetap simpel namun memiliki karakter desain yan
 Nambahin fitur filter berdasarkan ketersediaan stok (2026-03-19 00:33:29)
 Fixing bug dimana aplikasi gak bisa nampilin data yang diproses secara paralel menggunakan banyak prosesor sekaligus dengan sinkronisasi yang sempurna sehingga tidak akan pernah terjadi data yang korup atau rusak (2026-03-19 00:34:29)
 Update tampilan error 404 biar lebih lucu (2026-03-19 00:35:29)
+Nambahin fitur filter berdasarkan ukuran file (2026-03-19 00:36:29)
