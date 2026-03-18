@@ -9539,3 +9539,4 @@ Benerin bug di bagian integrasi sistem manajemen file yang lebih memudahkan user
 Benerin bug di bagian integrasi sistem manajemen konten baru (2026-03-18 13:26:15)
 Benerin bug di bagian integrasi sistem manajemen file yang lebih teratur dan mudah dicari kembali (2026-03-18 13:27:15)
 Fixing bug dimana tombol delete gak ada konfirmasi (2026-03-18 13:28:15)
+Nambahin fitur filter berdasarkan kriteria yang sangat membantu user dalam menemukan apa yang dicari (2026-03-18 13:29:15)
