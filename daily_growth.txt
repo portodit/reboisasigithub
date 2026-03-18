@@ -9476,3 +9476,4 @@ Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih tepat wak
 Benerin bug di bagian integrasi sistem manajemen database yang lebih handal (2026-03-18 12:23:15)
 Nambahin fitur filter berdasarkan kriteria yang sangat mudah digunakan dan membantu user dalam menemukan informasi yang mereka cari dengan sangat cepat tanpa harus melewati banyak langkah yang rumit dan membingungkan user (2026-03-18 12:24:15)
 Update sistem manajemen cache yang lebih proaktif dalam menyiapkan data yang mungkin akan dibutuhkan oleh user di masa depan secara antisipatif (2026-03-18 12:25:15)
+Nambahin fitur shortcut 'Go to Top' (2026-03-18 12:26:15)
