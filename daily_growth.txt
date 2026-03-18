@@ -9334,3 +9334,4 @@ Nambahin fitur filter berdasarkan histori preferensi user yang telah dianalisa s
 Fixing bug dimana aplikasi gak bisa handle input yang gak valid secara otomatis (2026-03-18 08:01:05)
 Fixing bug dimana aplikasi freeze pas load data banyak (2026-03-18 08:02:05)
 Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih bijaksana dalam menyampaikan informasi agar user tidak merasa terganggu oleh banyaknya pesan yang masuk dan tetap fokus pada hal-hal yang benar-benar penting (2026-03-18 08:03:05)
+Update sistem perhitungan ongkir otomatis (2026-03-18 08:04:05)
