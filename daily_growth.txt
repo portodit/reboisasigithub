@@ -9427,3 +9427,4 @@ Fixing bug dimana aplikasi gak bisa handle input yang memiliki tipe sangat berva
 Update dependencies, semoga gak ada yang pecah (2026-03-18 11:34:14)
 Fixing bug dimana aplikasi gak bisa handle input yang mengandung script berbahaya (2026-03-18 11:35:14)
 Fixing bug dimana scroll posisi gak balik ke atas (2026-03-18 11:36:14)
+Nambahin fitur filter berdasarkan histori transaksi yang dilakukan oleh user selama menggunakan aplikasi tersebut untuk memberikan gambaran yang menyeluruh tentang pola konsumsi dan perilaku belanja user secara akurat (2026-03-18 11:37:14)
