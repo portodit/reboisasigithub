@@ -9429,3 +9429,4 @@ Fixing bug dimana aplikasi gak bisa handle input yang mengandung script berbahay
 Fixing bug dimana scroll posisi gak balik ke atas (2026-03-18 11:36:14)
 Nambahin fitur filter berdasarkan histori transaksi yang dilakukan oleh user selama menggunakan aplikasi tersebut untuk memberikan gambaran yang menyeluruh tentang pola konsumsi dan perilaku belanja user secara akurat (2026-03-18 11:37:14)
 Update cara hitung estimasi waktu pengiriman (2026-03-18 11:38:14)
+Nambahin fitur filter berdasarkan kategori yang mendapatkan rating kepuasan pelanggan paling tinggi untuk membantu user baru dalam menentukan pilihan mereka berdasarkan pengalaman positif yang dirasakan oleh user lain (2026-03-18 11:39:14)
