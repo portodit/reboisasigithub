@@ -9341,3 +9341,4 @@ Fixing bug dimana aplikasi gak bisa handle request yang alur logikanya sangat ru
 Nambahin fitur pencarian berbasis suara (2026-03-18 08:08:05)
 Benerin bug di bagian validasi file extension (2026-03-18 08:09:05)
 Update library penanganan request HTTP (2026-03-18 08:10:05)
+Update tampilan tabel biar bisa di-resize (2026-03-18 08:11:05)
