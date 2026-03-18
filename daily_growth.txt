@@ -9879,3 +9879,4 @@ Nambahin fitur filter berdasarkan histori interaksi user dengan tim teknis kami 
 Ngurangin penggunaan !important di CSS, tobat... (2026-03-18 19:06:17)
 Nambahin dukungan multi-bahasa (tahap awal) (2026-03-18 19:07:17)
 Fixing bug dimana aplikasi gak bisa nampilin notifikasi real-time (2026-03-18 19:08:17)
+Fixing bug dimana aplikasi gak bisa dibuka di mode incognito (2026-03-18 19:09:17)
