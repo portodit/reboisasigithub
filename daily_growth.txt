@@ -9717,3 +9717,4 @@ Benerin bug di bagian integrasi sistem manajemen file yang lebih cepat dan efisi
 Fixing bug dimana aplikasi gak bisa handle input yang memiliki format yang sangat unik secara otomatis tanpa harus memodifikasi kode program di banyak tempat yang berisiko menimbulkan masalah baru di bagian lain dari aplikasi sistem kita (2026-03-18 16:24:16)
 Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih memberikan kebebasan kepada user untuk mengatur sendiri notifikasi apa saja yang ingin mereka terima dan melalui saluran apa saja sesuai keinginan (2026-03-18 16:25:16)
 Benerin bug di bagian tampilan tabel di tablet (2026-03-18 16:26:16)
+Nambahin fitur backup ke Google Drive (2026-03-18 16:27:16)
