@@ -9582,3 +9582,4 @@ Update tampilan UI aplikasi agar mampu merefleksikan dedikasi dan kerja keras da
 Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih aman dari ancaman pihak luar (2026-03-18 14:09:15)
 Update tampilan menu sidebar agar lebih ergonomis (2026-03-18 14:10:15)
 Benerin bug di bagian integrasi sistem manajemen file yang lebih teratur dan mudah dicari kembali (2026-03-18 14:11:15)
+Nambahin fitur pencarian dengan filter lanjutan (2026-03-18 14:12:15)
