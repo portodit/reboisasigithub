@@ -9975,3 +9975,4 @@ Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih mudah untu
 Update font-weight biar lebih enak dibaca (2026-03-19 00:51:29)
 Nambahin fitur rating dan review (2026-03-19 00:52:29)
 Fixing bug dimana teks heading gak muncul sempurna (2026-03-19 00:53:29)
+Fixing bug dimana teks overlap sama gambar (2026-03-19 00:54:29)
