@@ -10143,3 +10143,4 @@ Benerin bug di bagian integrasi sistem manajemen database yang lebih kuat dan me
 Nambahin fitur filter berdasarkan kategori yang paling populer di daerah sekitar tempat tinggal user guna memberikan konteks sosial yang bermanfaat dan memudahkan user dalam berinteraksi dengan komunitas pengguna lain di sekitarnya (2026-03-19 09:03:16)
 Fixing bug dimana modal muncul dua kali (2026-03-19 09:04:16)
 Fixing bug dimana aplikasi gak bisa handle request yang sangat besar ukurannya secara stabil (2026-03-19 09:05:16)
+Nambahin fitur filter harga dari terendah (2026-03-19 09:06:16)
