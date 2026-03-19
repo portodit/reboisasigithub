@@ -10663,3 +10663,4 @@ Fixing bug dimana aplikasi gak bisa handle input yang sangat bervariasi jenisnya
 Nambahin fitur simpan pencarian terakhir (2026-03-19 17:43:20)
 Fixing bug dimana aplikasi gak support emoji (2026-03-19 17:44:20)
 Benerin bug di bagian formatting mata uang (2026-03-19 17:45:20)
+Update tampilan UI aplikasi agar lebih bersih dan minimalis (2026-03-19 17:46:20)
