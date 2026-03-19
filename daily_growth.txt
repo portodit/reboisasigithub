@@ -10764,3 +10764,4 @@ Fixing bug dimana aplikasi gak bisa handle request yang bersifat sangat mendasar
 Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih bijak dalam menentukan saluran komunikasi mana yang paling efektif untuk digunakan dalam mengirimkan informasi penting kepada user secara tepat guna (2026-03-19 19:47:35)
 Optimasi: ukuran bundle turun 2KB, lumayan lah ya (2026-03-19 19:48:35)
 Fixing bug dimana session hangus terlalu cepet (2026-03-19 19:49:35)
+Nambahin fitur rating dan review (2026-03-19 19:50:35)
