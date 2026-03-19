@@ -10437,3 +10437,4 @@ Nambahin fitur filter berdasarkan kategori yang paling relevan bagi user (2026-0
 Update sistem manajemen cache yang lebih hemat dalam penggunaan sumber daya memori namun tetap mampu memberikan peningkatan performa yang sangat signifikan dalam hal kecepatan akses data bagi seluruh pengguna aplikasi (2026-03-19 13:57:19)
 Cleaning up node_modules yang gak kepake (lagi) (2026-03-19 13:58:19)
 Ngecilin ukuran gambar biar cepet diload (2026-03-19 13:59:19)
+Fixing bug dimana session tetap aktif meski browser ditutup (2026-03-19 14:00:19)
