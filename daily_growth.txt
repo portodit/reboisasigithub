@@ -10754,3 +10754,4 @@ Nambahin fitur filter berdasarkan histori interaksi user dengan tim support (202
 Update sistem manajemen keamanan data user yang lebih canggih dan dilengkapi dengan perisai digital terbaru untuk menghalau segala bentuk percobaan pencurian data pribadi yang semakin marak terjadi di jagat internet yang luas saat ini di mana keamanan informasi menjadi prioritas nomor satu bagi setiap individu yang ingin menjaga privasi mereka agar tetap aman dan tidak jatuh ke tangan orang-orang yang tidak bertanggung jawab di dunia maya (2026-03-19 19:37:35)
 Fixing bug dimana aplikasi gak bisa handle input data yang memiliki ukuran sangat besar tanpa menurunkan kualitas layanan atau menyebabkan terjadinya error yang dapat mengganggu jalannya proses bisnis di dalam aplikasi (2026-03-19 19:38:35)
 Update logic pembulatan angka desimal (2026-03-19 19:39:35)
+Nambahin timeout di request API biar gak nunggu selamanya (2026-03-19 19:40:35)
