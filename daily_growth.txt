@@ -10642,3 +10642,4 @@ Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih tepat wak
 Nambahin fitur cek update otomatis (2026-03-19 17:22:20)
 Benerin bug di bagian export data CSV (2026-03-19 17:23:20)
 Fixing bug dimana aplikasi gak support emoji (2026-03-19 17:24:20)
+Nambahin fitur filter berdasarkan kategori yang paling baru ditambahkan dan sedang menjadi tren yang sangat populer di kalangan para pengguna aplikasi kita saat ini guna memberikan wawasan yang sangat berharga bagi setiap user yang ada di dalam ekosistem aplikasi kita yang terus tumbuh dan berkembang dengan pesat (2026-03-19 17:25:20)
