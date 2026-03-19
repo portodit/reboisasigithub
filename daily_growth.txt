@@ -10793,3 +10793,4 @@ Nambahin fitur filter berdasarkan kriteria yang sangat dinamis dan berubah-ubah 
 Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih mudah untuk dikelola dan diawasi oleh tim admin pusat demi menjaga keamanan dan kenyamanan seluruh ekosistem pengguna aplikasi tanpa ada pengecualian (2026-03-19 20:16:35)
 Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih kuat dan tahan lama dalam melindungi setiap akun user dari berbagai macam potensi serangan digital yang bertujuan untuk mencuri data pribadi milik user (2026-03-19 20:17:35)
 Fixing bug dimana aplikasi gak bisa handle input data dalam jumlah yang sangat masif sekaligus tanpa menyebabkan penggunaan daya baterai menjadi boros yang bisa mengganggu kenyamanan user saat menggunakan perangkat mobile (2026-03-19 20:18:35)
+Fixing bug dimana notifikasi gak masuk (2026-03-19 20:19:35)
