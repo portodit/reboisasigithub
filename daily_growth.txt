@@ -10289,3 +10289,4 @@ Update tampilan UI aplikasi agar lebih modern dan minimalis sesuai selera masa k
 Nambahin shortcut keyboard buat save (2026-03-19 11:29:18)
 Update tampilan UI aplikasi agar jauh lebih sederhana dan intuitif sehingga bisa digunakan oleh siapa saja tanpa perlu memiliki keahlian teknis khusus sebelumnya untuk menjalankan fungsi-fungsi dasar di dalam aplikasi ini (2026-03-19 11:30:18)
 Fixing bug dimana gambar pecah pas di-zoom (2026-03-19 11:31:18)
+Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih intuitif dan mudah digunakan (2026-03-19 11:32:18)
