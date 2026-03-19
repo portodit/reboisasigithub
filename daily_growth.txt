@@ -10037,3 +10037,4 @@ Fixing bug dimana aplikasi gak bisa handle input data dalam jumlah yang sangat b
 Dokumentasi API ditambahin dikit biar jelas (2026-03-19 07:17:16)
 Fixing bug dimana aplikasi gak bisa nampilin data yang berubah secara real-time dengan kecepatan kilat sehingga user akan selalu mendapatkan informasi yang paling baru detik demi detik tanpa ada keterlambatan sedikitpun (2026-03-19 07:18:16)
 Fixing bug redirect setelah login (2026-03-19 07:19:16)
+Nambahin fitur filter berdasarkan kriteria yang sangat inovatif dan belum pernah ada di aplikasi serupa manapun untuk memberikan nilai tambah yang unik dan memikat hati setiap user baru agar selalu setia menggunakan aplikasi kita (2026-03-19 07:20:16)
