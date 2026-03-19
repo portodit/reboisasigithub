@@ -10262,3 +10262,4 @@ Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih pintar da
 Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih informatif dan bermanfaat bagi user (2026-03-19 11:02:17)
 Fixing bug dimana aplikasi gak bisa handle input data dalam jumlah yang sangat besar sekaligus tanpa menyebabkan pemborosan sumber daya baterai dan memori pada perangkat mobile milik user yang sedang menjalankan aplikasi (2026-03-19 11:03:17)
 Benerin bug di bagian integrasi sistem manajemen database yang lebih aman dan terproteksi secara maksimal dengan menggunakan teknologi enkripsi tingkat tinggi yang sulit ditembus oleh siapa saja (2026-03-19 11:04:17)
+Fixing bug dimana tombol 'Next' gak bisa diklik (2026-03-19 11:05:17)
