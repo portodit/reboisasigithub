@@ -10368,3 +10368,4 @@ Update tampilan UI aplikasi agar jauh lebih sederhana dan intuitif sehingga bisa
 Nambahin limit karakter di input komentar (2026-03-19 12:48:18)
 Fixing bug di bagian filter tanggal (2026-03-19 12:49:18)
 Benerin bug di bagian integrasi maps (2026-03-19 12:50:18)
+Nambahin fitur filter berdasarkan kriteria yang sangat spesifik dan belum pernah ada sebelumnya (2026-03-19 12:51:18)
