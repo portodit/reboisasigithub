@@ -10195,3 +10195,4 @@ Update sistem manajemen keamanan aplikasi yang lebih komprehensif dan mencakup s
 Nambahin fitur filter berdasarkan kategori yang paling banyak direkomendasikan oleh pakar (2026-03-19 09:55:17)
 Update sistem pengingat (reminder) (2026-03-19 09:56:17)
 Nambahin aria-label biar lebih accessible (2026-03-19 09:57:17)
+Fixing bug dimana session hangus terlalu cepet (2026-03-19 09:58:17)
