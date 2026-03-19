@@ -10911,3 +10911,4 @@ Update sistem manajemen keamanan data user yang lebih mutakhir dan sulit untuk d
 Nambahin fitur search suggestion (2026-03-19 22:14:36)
 Fixing bug dimana aplikasi gak bisa handle request paralel (2026-03-19 22:15:36)
 Update tampilan UI aplikasi agar lebih mencerminkan identitas brand (2026-03-19 22:16:36)
+Nambahin fitur pencarian dengan filter lanjutan (2026-03-19 22:17:36)
