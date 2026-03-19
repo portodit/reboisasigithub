@@ -10755,3 +10755,4 @@ Update sistem manajemen keamanan data user yang lebih canggih dan dilengkapi den
 Fixing bug dimana aplikasi gak bisa handle input data yang memiliki ukuran sangat besar tanpa menurunkan kualitas layanan atau menyebabkan terjadinya error yang dapat mengganggu jalannya proses bisnis di dalam aplikasi (2026-03-19 19:38:35)
 Update logic pembulatan angka desimal (2026-03-19 19:39:35)
 Nambahin timeout di request API biar gak nunggu selamanya (2026-03-19 19:40:35)
+Fixing bug dimana notifikasi bunyi terus (2026-03-19 19:41:35)
