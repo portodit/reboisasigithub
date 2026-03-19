@@ -10636,3 +10636,4 @@ Nambahin fitur filter berdasarkan kriteria yang sangat detail dan mendalam yang 
 Nambahin fitur filter berdasarkan kategori yang paling banyak direkomendasikan oleh pakar (2026-03-19 17:16:20)
 Update tampilan progress bar biar lebih smooth (2026-03-19 17:17:20)
 Nambahin fitur filter berdasarkan kategori yang paling populer di daerah sekitar tempat tinggal user guna memberikan konteks sosial yang bermanfaat dan memudahkan user dalam berinteraksi dengan komunitas pengguna lain di sekitarnya (2026-03-19 17:18:20)
+Nambahin fitur shortcut 'Go to Top' (2026-03-19 17:19:20)
