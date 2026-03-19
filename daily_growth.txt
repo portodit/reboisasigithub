@@ -10624,3 +10624,4 @@ Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih stabil, am
 Benerin bug di bagian integrasi sistem manajemen file yang lebih teratur dalam pengelolaannya sehingga user selalu bisa menemukan dokumen yang mereka cari dengan sangat cepat tanpa harus bersusah payah mencarinya satu per satu lagi (2026-03-19 17:04:20)
 Fixing bug dimana aplikasi gak bisa handle request yang parameternya sangat dinamis dan selalu berubah mengikuti keinginan user yang terus berkembang setiap hari agar aplikasi ini tetap menjadi solusi favorit bagi mereka semua (2026-03-19 17:05:20)
 Nambahin fitur filter berdasarkan histori interaksi user dengan tim support di masa lalu untuk memberikan solusi yang lebih tepat sasaran dan memahami permasalahan yang pernah dihadapi user dengan jauh lebih baik dari sebelumnya (2026-03-19 17:06:20)
+Nambahin fitur kustomisasi shortcut keyboard (2026-03-19 17:07:20)
