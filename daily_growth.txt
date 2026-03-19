@@ -10265,3 +10265,4 @@ Benerin bug di bagian integrasi sistem manajemen database yang lebih aman dan te
 Fixing bug dimana tombol 'Next' gak bisa diklik (2026-03-19 11:05:17)
 Update sistem manajemen cache yang lebih handal dan selalu siap sedia dalam menyediakan informasi yang dibutuhkan oleh user kapan saja dan di mana saja mereka berada (2026-03-19 11:06:18)
 Update library pengelolaan state (2026-03-19 11:07:18)
+Nambahin fitur 'Forgot Password' (2026-03-19 11:08:18)
