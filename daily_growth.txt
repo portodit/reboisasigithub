@@ -10181,3 +10181,4 @@ Fixing bug dimana aplikasi gak bisa nampilin data yang diproses secara sinkron d
 Fixing bug font yang pecah di sistem operasi tertentu (2026-03-19 09:41:17)
 Nambahin fitur dark mode otomatis berdasarkan jam (2026-03-19 09:42:17)
 Ngilangin shadow yang terlalu lebay di card (2026-03-19 09:43:17)
+Update logic perhitungan diskon member (2026-03-19 09:44:17)
