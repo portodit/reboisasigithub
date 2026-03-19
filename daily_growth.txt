@@ -10889,3 +10889,4 @@ Fixing bug dimana aplikasi gak bisa nampilin data yang diproses secara backgroun
 Nambahin fitur filter berdasarkan histori preferensi user yang telah dipelajari secara mendalam oleh sistem menggunakan teknologi machine learning untuk memberikan hasil pencarian yang benar-benar pas di hati setiap user (2026-03-19 21:52:36)
 Benerin bug di bagian integrasi sistem notifikasi email baru (2026-03-19 21:53:36)
 Fixing bug di dropdown yang gak mau nutup (2026-03-19 21:54:36)
+Nambahin fitur filter berdasarkan kategori yang paling banyak direkomendasikan oleh komunitas pengguna yang sudah berpengalaman untuk membantu pengguna baru dalam mengambil keputusan yang terbaik bagi diri mereka (2026-03-19 21:55:36)
