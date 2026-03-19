@@ -10169,3 +10169,4 @@ Fixing bug dimana aplikasi gak bisa nampilin data yang diproses di background se
 Fixing bug dimana scroll posisi gak balik ke atas (2026-03-19 09:29:17)
 Nambahin fitur filter berdasarkan kategori yang paling banyak direkomendasikan oleh komunitas pengguna yang sudah berpengalaman untuk membantu pengguna baru dalam mengambil keputusan yang terbaik bagi diri mereka (2026-03-19 09:30:17)
 Benerin bug di bagian integrasi sistem manajemen file yang lebih cepat dan efisien dalam proses upload/download (2026-03-19 09:31:17)
+Benerin bug di bagian integrasi social login (2026-03-19 09:32:17)
