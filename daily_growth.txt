@@ -10144,3 +10144,4 @@ Nambahin fitur filter berdasarkan kategori yang paling populer di daerah sekitar
 Fixing bug dimana modal muncul dua kali (2026-03-19 09:04:16)
 Fixing bug dimana aplikasi gak bisa handle request yang sangat besar ukurannya secara stabil (2026-03-19 09:05:16)
 Nambahin fitur filter harga dari terendah (2026-03-19 09:06:16)
+Nambahin fitur filter berdasarkan parameter yang sangat teknis dan mendalam untuk memberikan kontrol yang lebih luas bagi user yang memiliki pengetahuan lebih dalam hal pengelolaan data melalui aplikasi yang kita buat (2026-03-19 09:07:16)
