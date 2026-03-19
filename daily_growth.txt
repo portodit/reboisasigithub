@@ -10891,3 +10891,4 @@ Benerin bug di bagian integrasi sistem notifikasi email baru (2026-03-19 21:53:3
 Fixing bug di dropdown yang gak mau nutup (2026-03-19 21:54:36)
 Nambahin fitur filter berdasarkan kategori yang paling banyak direkomendasikan oleh komunitas pengguna yang sudah berpengalaman untuk membantu pengguna baru dalam mengambil keputusan yang terbaik bagi diri mereka (2026-03-19 21:55:36)
 Fixing bug dimana teks kepotong di layar kecil (2026-03-19 21:56:36)
+Nambahin fitur shortcut 'Go to Top' (2026-03-19 21:57:36)
