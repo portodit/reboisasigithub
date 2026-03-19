@@ -10651,3 +10651,4 @@ Update tampilan UI aplikasi agar tampak lebih modern, bersih, dan futuristik gun
 Nambahin fitur filter berdasarkan ukuran file (2026-03-19 17:31:20)
 Fixing bug dimana tombol delete gak ada konfirmasi (2026-03-19 17:32:20)
 Nambahin fitur filter harga dari terendah (2026-03-19 17:33:20)
+Update dependencies, semoga gak ada yang pecah (2026-03-19 17:34:20)
