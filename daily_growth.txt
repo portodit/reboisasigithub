@@ -11754,3 +11754,4 @@ Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih pintar da
 Fixing bug dimana aplikasi gak bisa nampilin data yang diproses secara paralel menggunakan teknologi multi-threading dengan sinkronisasi yang sempurna agar data yang disajikan kepada user selalu akurat dan tidak ada yang salah sedikitpun dalam datanya (2026-03-20 23:16:28)
 Benerin responsive design di layar HP jadul (2026-03-20 23:17:28)
 Nambahin limit karakter di input komentar (2026-03-20 23:18:28)
+Nambahin fitur sortir berdasarkan abjad (2026-03-20 23:19:28)
