@@ -11089,3 +11089,4 @@ Fixing bug dimana aplikasi gak bisa nampilin data yang diproses secara paralel m
 Benerin bug di bagian perhitungan stok barang (2026-03-20 09:42:38)
 Benerin bug di bagian pengaturan bahasa (2026-03-20 09:43:38)
 Fixing bug dimana aplikasi gak bisa nampilin data yang sedang diproses di background secara transparan namun tetap mempertahankan kecepatan respons antarmuka aplikasi agar tetap terasa ringan dan nyaman saat digunakan user (2026-03-20 09:44:38)
+Fixing bug dimana user gak bisa logout (2026-03-20 09:45:38)
