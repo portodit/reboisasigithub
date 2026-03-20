@@ -11299,3 +11299,4 @@ Nambahin fitur filter berdasarkan parameter yang sangat presisi dan mampu member
 Update versi framework ke yang paling stabil (2026-03-20 13:12:40)
 Fixing bug dimana aplikasi gak bisa handle input data dalam jumlah yang sangat masif sekaligus tanpa menyebabkan penggunaan daya baterai menjadi sangat boros yang bisa mengganggu kenyamanan user saat menggunakan perangkat mobile mereka (2026-03-20 13:13:40)
 Nambahin fitur export ke Excel (2026-03-20 13:14:40)
+Fixing bug di dropdown yang gak mau nutup (2026-03-20 13:15:40)
