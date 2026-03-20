@@ -11535,3 +11535,4 @@ Nambahin fitur filter berdasarkan kriteria yang sangat kreatif dan di luar kebia
 Logic diskon ternyata salah hitung pas tanggal merah (2026-03-20 17:08:41)
 Benerin bug pencarian yang case sensitive (2026-03-20 17:09:41)
 Nambahin fitur auto-complete di search bar (2026-03-20 17:10:41)
+Nambahin fitur preview video sebelum upload (2026-03-20 17:11:41)
