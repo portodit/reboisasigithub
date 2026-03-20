@@ -11454,3 +11454,4 @@ Nambahin fitur filter berdasarkan histori interaksi user dengan layanan pelangga
 Fixing bug dimana aplikasi gak bisa handle input data dalam jumlah yang sangat masif sekaligus tanpa menyebabkan penggunaan daya baterai menjadi boros yang bisa mengganggu kenyamanan user saat menggunakan perangkat mobile (2026-03-20 15:47:41)
 Fixing bug dimana dropdown menu ketutup footer (2026-03-20 15:48:41)
 Benerin bug di bagian integrasi kalender Google (2026-03-20 15:49:41)
+Fixing bug dimana aplikasi gak bisa simpan draft konten secara otomatis (2026-03-20 15:50:41)
