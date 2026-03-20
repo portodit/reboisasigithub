@@ -11428,3 +11428,4 @@ Fixing bug dimana aplikasi gak bisa nampilin data yang diproses secara paralel m
 Fixing bug dimana gambar pecah pas di-zoom (2026-03-20 15:21:40)
 Benerin bug di bagian tampilan mobile landscape (2026-03-20 15:22:40)
 Fixing bug dimana aplikasi gak bisa handle input yang mengandung script berbahaya (2026-03-20 15:23:40)
+Nambahin dukungan multi-bahasa (tahap awal) (2026-03-20 15:24:40)
