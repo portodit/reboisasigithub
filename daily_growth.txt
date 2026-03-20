@@ -11550,3 +11550,4 @@ Nambahin fitur filter berdasarkan kategori yang paling baru dan sedang menjadi b
 Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih bijaksana dalam menyampaikan informasi agar user tidak merasa terganggu oleh banyaknya pesan yang masuk dan tetap fokus pada hal-hal yang benar-benar penting bagi mereka (2026-03-20 17:23:41)
 Nambahin fitur filter berdasarkan histori riwayat transaksi yang dilakukan oleh user untuk memberikan gambaran yang sangat akurat tentang pola penggunaan layanan oleh user selama ini secara komprehensif dan sangat mendalam di setiap detailnya (2026-03-20 17:24:41)
 Fixing bug dimana aplikasi stuck di splash screen (2026-03-20 17:25:41)
+Benerin bug di bagian integrasi maps (2026-03-20 17:26:41)
