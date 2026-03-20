@@ -11676,3 +11676,4 @@ Benerin bug di bagian sistem manajemen integrasi sistem pembayaran internasional
 Update tampilan halaman profil agar lebih menarik (2026-03-20 19:29:42)
 Update instruksi instalasi di dokumentasi (2026-03-20 19:30:42)
 Benerin bug di bagian integrasi sistem manajemen file yang lebih teratur dan memudahkan user dalam mengelompokkan file-file penting mereka ke dalam folder-folder yang rapi dan mudah untuk dikelola setiap saat dibutuhkan (2026-03-20 19:31:42)
+Nambahin fitur filter berdasarkan kriteria yang sangat memudahkan user dalam mengeksplorasi berbagai macam fitur dan layanan yang disediakan di dalam aplikasi tersebut (2026-03-20 19:32:42)
