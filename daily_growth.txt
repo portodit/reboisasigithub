@@ -11074,3 +11074,4 @@ Update tampilan UI aplikasi agar lebih menarik bagi segmen pasar tertentu (2026-
 Fixing bug dimana aplikasi gak bisa handle request yang memiliki dampak yang sangat besar terhadap stabilitas sistem secara keseluruhan tanpa merusak data yang ada (2026-03-20 09:27:38)
 Nambahin fitur filter berdasarkan kategori populer (2026-03-20 09:28:38)
 Nambahin fitur filter berdasarkan histori aktivitas user (2026-03-20 09:29:38)
+Nambahin fitur filter berdasarkan kategori yang paling sering diakses (2026-03-20 09:30:38)
