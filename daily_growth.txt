@@ -10992,3 +10992,4 @@ Update sistem manajemen keamanan aplikasi yang lebih menyeluruh dan mencakup pro
 Update sistem manajemen cache yang lebih antisipatif dalam menyediakan informasi yang kemungkinan besar akan segera diperlukan oleh user berdasarkan kebiasaan penggunaan mereka agar aplikasi terasa sangat cepat dan responsif setiap saatnya (2026-03-20 08:05:37)
 Nambahin fitur export ke Excel (2026-03-20 08:06:37)
 Update performa loading font eksternal (2026-03-20 08:07:37)
+Fixing bug gambar profil yang gak muncul setelah ganti (2026-03-20 08:08:37)
