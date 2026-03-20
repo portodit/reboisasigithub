@@ -11335,3 +11335,4 @@ Update sistem manajemen cache yang lebih responsif untuk memberikan pengalaman u
 Benerin bug di bagian integrasi sistem manajemen database yang lebih kuat dan memiliki mekanisme pemulihan data yang sangat andal seandainya terjadi musibah pada server utama agar data user tidak akan pernah hilang selamanya (2026-03-20 13:48:40)
 Ngecilin ukuran gambar biar cepet diload (2026-03-20 13:49:40)
 Update tampilan UI aplikasi agar lebih mudah dipahami dan digunakan bahkan oleh pengguna yang belum pernah memiliki pengalaman menggunakan aplikasi sejenis sebelumnya sekalipun (2026-03-20 13:50:40)
+Nambahin fitur filter berdasarkan tingkat kepentingan (2026-03-20 13:51:40)
