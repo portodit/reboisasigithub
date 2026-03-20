@@ -11557,3 +11557,4 @@ Fixing bug dimana aplikasi gak bisa handle input data dalam jumlah yang sangat f
 Benerin bug di bagian integrasi sistem manajemen database yang lebih aman dan terenkripsi secara default (2026-03-20 17:30:41)
 Benerin bug di bagian integrasi sistem manajemen file yang jauh lebih cepat dalam menangani proses pengiriman data yang memiliki ukuran sangat besar sekalipun tanpa ada kendala teknis berarti yang dapat menghambat aktivitas rutin user (2026-03-20 17:31:41)
 Nambahin validasi email biar gak diisi asal-asalan (2026-03-20 17:32:41)
+Nambahin fitur filter berdasarkan kategori yang paling baru dirilis dan sedang menjadi topik hangat di kalangan user untuk memberikan wawasan tentang perkembangan terbaru yang terjadi di dalam aplikasi yang kita cintai ini (2026-03-20 17:33:41)
