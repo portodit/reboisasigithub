@@ -10969,3 +10969,4 @@ Update tampilan UI aplikasi agar lebih modern dan minimalis sesuai selera masa k
 Fixing bug dimana aplikasi gak bisa jalan di background (2026-03-19 23:12:36)
 Fixing bug dimana aplikasi gak bisa handle input yang sangat banyak jumlahnya secara efisien (2026-03-19 23:13:36)
 Update sistem manajemen cache yang lebih adaptif dan mampu menyesuaikan diri dengan pola trafik data yang berubah-ubah secara drastis untuk menjamin performa aplikasi yang tetap stabil meskipun saat terjadi lonjakan user (2026-03-20 07:44:37)
+Fixing bug dimana notifikasi gak masuk (2026-03-20 07:45:37)
