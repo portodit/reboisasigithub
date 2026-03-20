@@ -11055,3 +11055,4 @@ Fixing bug dimana aplikasi gak bisa handle request yang parameternya sangat komp
 Benerin bug di bagian sistem antrian order (2026-03-20 09:08:38)
 Nambahin validasi email biar gak diisi asal-asalan (2026-03-20 09:09:38)
 Nambahin fitur filter berdasarkan parameter yang sangat teknis dan spesifik untuk memberikan kendali yang lebih dalam bagi para user ahli yang ingin mengoptimalkan penggunaan aplikasi sesuai dengan spesifikasi kerja mereka (2026-03-20 09:10:38)
+Benerin bug di bagian tampilan struk (2026-03-20 09:11:38)
