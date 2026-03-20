@@ -11127,3 +11127,4 @@ Nambahin fitur filter berdasarkan parameter yang sangat relevan dengan tantangan
 Update tampilan UI aplikasi agar terlihat sangat profesional dan mampu memberikan rasa percaya diri yang tinggi bagi user dalam menjalankan tugas-tugas harian mereka menggunakan aplikasi yang kita buat dengan penuh cinta (2026-03-20 10:20:38)
 Update sistem manajemen keamanan data user yang lebih transparan dan akuntabel sehingga user merasa benar-benar memiliki kendali atas informasi pribadi mereka yang kita kelola dengan cara yang sangat bertanggung jawab dan sangat jujur (2026-03-20 10:21:38)
 Nambahin margin biar gak terlalu mepet ke kiri (2026-03-20 10:22:38)
+Nambahin fitur filter berdasarkan ketersediaan stok (2026-03-20 10:23:38)
