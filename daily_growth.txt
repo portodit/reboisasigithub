@@ -11361,3 +11361,4 @@ Fixing bug dimana aplikasi gak bisa handle input yang sangat bervariasi tipenya 
 Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih cerdas dalam menentukan kapan harus dikirimkan (2026-03-20 14:14:40)
 Benerin bug di bagian sistem manajemen inventaris (2026-03-20 14:15:40)
 Benerin bug di bagian verifikasi OTP (2026-03-20 14:16:40)
+Nambahin fallback kalau gambar gagal dipanggil (2026-03-20 14:17:40)
