@@ -11278,3 +11278,4 @@ Update sistem manajemen keamanan aplikasi yang lebih berlapis dan sulit ditembus
 Update sistem manajemen keamanan aplikasi yang lebih menyeluruh dan mencakup seluruh aspek perlindungan data mulai dari enkripsi saat pengiriman hingga penyimpanan data di server secara aman sesuai standar internasional (2026-03-20 12:51:40)
 Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih memberikan kebebasan penuh bagi user untuk mengatur sendiri notifikasi mana saja yang benar-benar penting bagi mereka dan bagaimana cara menerimanya secara personal (2026-03-20 12:52:40)
 Nambahin fitur filter berdasarkan kategori yang paling baru dirilis dan sedang menjadi topik hangat di kalangan user untuk memberikan wawasan tentang perkembangan terbaru yang terjadi di dalam aplikasi yang kita cintai ini (2026-03-20 12:53:40)
+Nambahin fitur filter berdasarkan rating (2026-03-20 12:54:40)
