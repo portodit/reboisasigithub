@@ -11283,3 +11283,4 @@ Nambahin fitur filter berdasarkan harga terendah ke tertinggi (2026-03-20 12:55:
 Update sistem manajemen cache yang lebih fleksibel dan mudah disesuaikan dengan kebutuhan beban kerja server yang berubah-ubah secara dinamis untuk menjamin stabilitas sistem yang optimal setiap saat (2026-03-20 12:56:40)
 Fixing bug dimana aplikasi gak bisa handle input yang datang dari beragam jenis platform secara konsisten tanpa ada masalah sinkronisasi yang dapat mengganggu pengalaman user dalam menggunakan aplikasi di berbagai perangkat (2026-03-20 12:57:40)
 Update copyright year ke 2026 (2026-03-20 12:58:40)
+Fixing bug dimana gambar pecah pas di-zoom (2026-03-20 12:59:40)
