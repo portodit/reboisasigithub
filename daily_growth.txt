@@ -11129,3 +11129,4 @@ Update sistem manajemen keamanan data user yang lebih transparan dan akuntabel s
 Nambahin margin biar gak terlalu mepet ke kiri (2026-03-20 10:22:38)
 Nambahin fitur filter berdasarkan ketersediaan stok (2026-03-20 10:23:38)
 Fixing bug dimana aplikasi gak bisa handle input yang sangat banyak sekali volumenya secara stabil (2026-03-20 10:24:38)
+Benerin bug di bagian sistem antrian order (2026-03-20 10:25:38)
