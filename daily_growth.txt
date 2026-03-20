@@ -11749,3 +11749,4 @@ Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih pintar da
 Fixing bug dimana user bisa akses API langsung (2026-03-20 23:11:28)
 Update sistem manajemen keamanan data user yang lebih transparan dan memberikan kontrol penuh kepada user atas data pribadi mereka sendiri secara aman (2026-03-20 23:12:28)
 Nambahin fitur cek update otomatis (2026-03-20 23:13:28)
+Nambahin timeout di request API biar gak nunggu selamanya (2026-03-20 23:14:28)
