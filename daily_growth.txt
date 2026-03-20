@@ -11776,3 +11776,4 @@ Update tampilan UI aplikasi agar lebih mudah dipahami dan digunakan bahkan oleh 
 Update tampilan UI aplikasi agar lebih konsisten dan harmonis di setiap sudutnya (2026-03-21 06:56:23)
 Cleaning up unused variables biar bersih (2026-03-21 06:57:23)
 Fixing bug dimana aplikasi gak bisa handle koneksi yang gak stabil (2026-03-21 06:58:23)
+Nambahin fitur dark mode yang lebih deep (Amoled) (2026-03-21 06:59:23)
