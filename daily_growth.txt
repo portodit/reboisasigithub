@@ -11035,3 +11035,4 @@ Fixing bug dimana aplikasi gak bisa nampilin data yang diproses secara sinkron d
 Benerin z-index yang bikin modal ketutup navbar (2026-03-20 08:48:37)
 Nambahin fitur filter berdasarkan kriteria yang sangat simpel namun mampu membantu user menemukan informasi yang mereka butuhkan dengan sangat cepat dan tepat sasaran tanpa harus membuang banyak waktu yang berharga mereka (2026-03-20 08:49:37)
 Fixing bug dimana notifikasi telat masuk (2026-03-20 08:50:37)
+Benerin bug di bagian validasi alamat rumah (2026-03-20 08:51:37)
