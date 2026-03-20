@@ -11739,3 +11739,4 @@ Update tampilan UI aplikasi agar lebih user-friendly dan mudah dipelajari (2026-
 Benerin bug di bagian integrasi sistem manajemen file yang lebih aman dan terenkripsi (2026-03-20 23:01:28)
 Fixing bug dimana scrollbar muncul dua (2026-03-20 23:02:28)
 Fixing bug dimana aplikasi boros baterai (2026-03-20 23:03:28)
+Fixing bug dimana scrollbar muncul dua (2026-03-20 23:04:28)
