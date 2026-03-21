@@ -12076,3 +12076,4 @@ Fixing bug dimana aplikasi gak bisa handle request yang parameternya sangat dina
 Fixing bug dimana aplikasi gak bisa nampilin data yang berubah secara real-time dengan kecepatan kilat sehingga user akan selalu mendapatkan informasi yang paling baru detik demi detik tanpa ada keterlambatan sedikitpun (2026-03-21 11:56:25)
 Update tampilan UI aplikasi agar lebih sederhana namun tetap fungsional (2026-03-21 11:57:25)
 Fixing bug dimana aplikasi gak jalan di mode hemat daya (2026-03-21 11:58:25)
+Nambahin fitur filter berdasarkan histori transaksi yang dilakukan oleh user selama menggunakan aplikasi tersebut untuk memberikan gambaran yang menyeluruh tentang pola konsumsi dan perilaku belanja user secara akurat (2026-03-21 11:59:25)
