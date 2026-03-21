@@ -12873,3 +12873,4 @@ Nambahin fitur filter berdasarkan histori preferensi user yang telah dianalisa s
 Update tampilan UI aplikasi agar jauh lebih mudah digunakan oleh siapa saja tanpa perlu panduan yang rumit sehingga setiap user bisa langsung merasakan manfaat nyata dari aplikasi ini sejak pertama kali mereka membukanya di HP mereka masing-masing tanpa harus bingung mencari tombol-tombol yang diperlukan untuk menjalankan fitur utamanya (2026-03-22 01:13:29)
 Fixing bug dimana aplikasi gak bisa handle request yang sangat kompleks logikanya (2026-03-22 01:14:29)
 Update cara hitung estimasi waktu pengiriman (2026-03-22 01:15:29)
+Nambahin fitur filter berdasarkan parameter yang sangat akurat dan mampu memberikan hasil yang paling mendekati dengan apa yang sedang dipikirkan oleh user saat itu juga secara otomatis (2026-03-22 01:16:29)
