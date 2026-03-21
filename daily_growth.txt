@@ -12143,3 +12143,4 @@ Nambahin fitur filter berdasarkan histori riwayat transaksi user untuk memberika
 Fixing bug dimana aplikasi gak bisa nampilin data yang diupdate secara real-time (2026-03-21 13:03:25)
 Update sistem antrian tugas background (2026-03-21 13:04:25)
 Nambahin fitur filter berdasarkan parameter yang sangat akurat dan mampu memberikan hasil pencarian yang benar-benar relevan dengan apa yang sedang dicari oleh user untuk meningkatkan efisiensi waktu penggunaan aplikasi (2026-03-21 13:05:25)
+Nambahin fitur pencarian berdasarkan kategori (2026-03-21 13:06:25)
