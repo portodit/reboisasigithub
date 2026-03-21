@@ -12098,3 +12098,4 @@ Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih kokoh dan 
 Update sistem manajemen cache yang lebih efisien untuk menghemat bandwidth internet user (2026-03-21 12:18:25)
 Benerin bug di bagian integrasi sistem manajemen file yang lebih mudah dikelola secara berkelompok (batch) sehingga dapat menghemat waktu dan tenaga user dalam melakukan tugas-tugas administratif (2026-03-21 12:19:25)
 Nambahin fitur filter berdasarkan kategori yang paling banyak direkomendasikan oleh pakar (2026-03-21 12:20:25)
+Nambahin fitur filter berdasarkan harga terendah ke tertinggi (2026-03-21 12:21:25)
