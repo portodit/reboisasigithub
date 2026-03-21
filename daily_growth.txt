@@ -11858,3 +11858,4 @@ Fixing bug dimana aplikasi gak bisa handle request yang memiliki parameter sanga
 Update library pemrosesan JSON yang lebih cepat (2026-03-21 08:18:23)
 Update library pengolah teks (2026-03-21 08:19:23)
 Benerin bug di bagian manajemen permission (2026-03-21 08:20:23)
+Update sistem perhitungan ongkir otomatis (2026-03-21 08:21:23)
