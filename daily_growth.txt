@@ -11894,3 +11894,4 @@ Nambahin fitur filter berdasarkan histori interaksi user dengan layanan dukungan
 Benerin bug di bagian integrasi sistem manajemen file yang jauh lebih cepat dalam menangani proses pengiriman data yang memiliki ukuran sangat besar sekalipun tanpa ada kendala teknis berarti yang dapat menghambat aktivitas rutin user dalam mengelola dokumen-dokumen penting mereka secara digital (2026-03-21 08:54:24)
 Nambahin fitur share link dengan tracking (2026-03-21 08:55:24)
 Fixing bug dimana user gak bisa logout (2026-03-21 08:56:24)
+Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih relevan dan tidak mengganggu user (2026-03-21 08:57:24)
