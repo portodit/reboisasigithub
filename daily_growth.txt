@@ -12732,3 +12732,4 @@ Fixing bug dimana aplikasi gak bisa nampilin data yang berubah secara real-time 
 Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih mudah untuk dikelola dan diawasi oleh tim admin pusat demi menjaga keamanan dan kenyamanan seluruh ekosistem pengguna aplikasi tanpa ada pengecualian (2026-03-21 22:52:28)
 Nambahin fitur filter berdasarkan kategori yang mendapatkan rating kepuasan pelanggan paling tinggi untuk membantu user baru dalam menentukan pilihan mereka berdasarkan pengalaman positif yang dirasakan oleh user lain (2026-03-21 22:53:28)
 Update sistem manajemen cache yang lebih dinamis dan mampu beradaptasi dengan pola penggunaan data yang berubah drastis demi menjamin kestabilan sistem aplikasi yang optimal meskipun sedang melayani trafik yang sangat tinggi (2026-03-21 22:54:28)
+Nambahin fitur filter berdasarkan kategori yang paling banyak disukai oleh komunitas (2026-03-21 22:55:28)
