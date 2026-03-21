@@ -12004,3 +12004,4 @@ Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih akurat da
 Update tampilan chart dengan library baru (2026-03-21 10:44:24)
 Fixing bug dimana modal gak bisa ditutup pake Esc (2026-03-21 10:45:24)
 Fixing bug dimana tombol 'Next' gak bisa diklik (2026-03-21 10:46:24)
+Fixing bug font yang pecah di sistem operasi tertentu (2026-03-21 10:47:24)
