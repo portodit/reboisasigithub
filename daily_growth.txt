@@ -12354,3 +12354,4 @@ Fixing bug dimana aplikasi gak bisa handle request yang memakan waktu lama (2026
 Fixing bug dimana aplikasi gak bisa handle input yang gak sesuai dengan format yang ditentukan secara otomatis (2026-03-21 16:34:25)
 Nambahin fitur report bug langsung dari aplikasi (2026-03-21 16:35:25)
 Nambahin fitur export ke Excel (2026-03-21 16:36:25)
+Nambahin fitur filter berdasarkan parameter yang sangat spesifik dan relevan dengan situasi terkini yang sedang dialami oleh user untuk memberikan pengalaman yang lebih nyata dan solutif bagi setiap masalah yang ada (2026-03-21 16:37:25)
