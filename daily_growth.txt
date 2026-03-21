@@ -12832,3 +12832,4 @@ Update sistem manajemen antrian tugas background yang lebih efisien (2026-03-22 
 Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih mudah diatur frekuensi dan jenisnya oleh user sendiri sesuai dengan keinginan dan kebutuhan masing-masing tanpa ada batasan yang kaku (2026-03-22 00:32:29)
 Benerin bug di bagian verifikasi OTP (2026-03-22 00:33:29)
 Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih aman, kuat, dan terpercaya sehingga user merasa tenang dan nyaman saat melakukan aktivitas yang melibatkan data sensitif di dalam aplikasi tersebut (2026-03-22 00:34:29)
+Nambahin fitur filter berdasarkan lokasi pengguna (2026-03-22 00:35:29)
