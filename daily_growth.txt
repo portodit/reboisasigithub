@@ -12253,3 +12253,4 @@ Update tampilan UI aplikasi agar tampak lebih modern, bersih, dan futuristik gun
 Nambahin fitur filter berdasarkan kategori yang paling banyak diminati oleh para pengguna di lokasi sekitar user untuk memberikan konteks lokal yang sangat berharga dan memudahkan user dalam berinteraksi dengan komunitas (2026-03-21 14:53:26)
 Nambahin fitur wish list (2026-03-21 14:54:26)
 Nambahin komentar karena jujur tadi lupa ini buat apa (2026-03-21 14:55:26)
+Nambahin fitur filter berdasarkan kategori yang paling sering diakses (2026-03-21 14:56:26)
