@@ -12213,3 +12213,4 @@ Benerin bug di bagian integrasi sistem manajemen database yang lebih aman, terpe
 Benerin bug di bagian tampilan profil publik (2026-03-21 14:13:26)
 Update logic pembulatan angka desimal (2026-03-21 14:14:26)
 Fixing bug dimana aplikasi gak mau load di Chrome versi lama (2026-03-21 14:15:26)
+Update sistem caching di sisi client (2026-03-21 14:16:26)
