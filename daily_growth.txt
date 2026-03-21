@@ -11980,3 +11980,4 @@ Fixing bug dimana aplikasi gak bisa handle input data yang memiliki ukuran sanga
 Update sistem manajemen keamanan aplikasi yang lebih komprehensif dan mencakup seluruh aspek keamanan informasi (2026-03-21 10:20:24)
 Update skrip analytics biar lebih akurat (2026-03-21 10:21:24)
 Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih cerdas dalam menentukan kapan harus dikirimkan (2026-03-21 10:22:24)
+Fixing bug dimana aplikasi gak mau load di Chrome versi lama (2026-03-21 10:23:24)
