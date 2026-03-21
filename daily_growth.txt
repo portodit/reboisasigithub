@@ -12227,3 +12227,4 @@ Nambahin fitur filter berdasarkan kategori yang memiliki tingkat kepuasan user p
 Update library pengolah data statistik (2026-03-21 14:27:26)
 Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih inspiratif dan memotivasi user untuk terus menggunakan aplikasi tersebut secara rutin (2026-03-21 14:28:26)
 Fixing bug dimana aplikasi gak bisa handle input yang sangat banyak sekali jumlahnya dalam waktu yang sangat singkat tanpa membuat sistem menjadi hang (2026-03-21 14:29:26)
+Nambahin fitur ganti username (sekali setahun) (2026-03-21 14:30:26)
