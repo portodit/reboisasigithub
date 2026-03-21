@@ -12787,3 +12787,4 @@ Fixing bug dimana aplikasi gak bisa nampilin notifikasi yang dikirim secara mass
 Benerin bug di bagian integrasi sistem manajemen database yang lebih akurat dalam mengolah data yang akan digunakan oleh user untuk membuat keputusan strategis yang sangat menentukan masa depan bisnis atau pekerjaan mereka (2026-03-21 23:47:28)
 Benerin bug di bagian upload avatar (2026-03-21 23:48:28)
 Nambahin validasi email biar gak diisi asal-asalan (2026-03-21 23:49:28)
+Nambahin unit test buat fungsi yang paling sering error (2026-03-21 23:50:28)
