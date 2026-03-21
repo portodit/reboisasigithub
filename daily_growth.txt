@@ -11809,3 +11809,4 @@ Update sistem manajemen keamanan aplikasi yang lebih menyeluruh dan mencakup sel
 Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih tepat waktu dan sasaran (2026-03-21 07:29:23)
 Ngubah urutan middleware biar auth jalan duluan (2026-03-21 07:30:23)
 Nambahin fitur filter berdasarkan kategori yang memiliki tingkat kepuasan user yang paling tinggi sebagai bahan pertimbangan bagi user dalam memilih layanan atau produk terbaik yang tersedia di dalam aplikasi kita saat ini (2026-03-21 07:31:23)
+Fixing bug gambar profil yang gak muncul setelah ganti (2026-03-21 07:32:23)
