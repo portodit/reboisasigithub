@@ -11936,3 +11936,4 @@ Fixing bug dimana aplikasi gak bisa handle request yang memiliki parameter sanga
 Benerin bug di bagian integrasi sistem manajemen database yang lebih akurat dalam mengolah data yang akan digunakan oleh user untuk membuat keputusan strategis yang sangat menentukan masa depan bisnis atau pekerjaan mereka (2026-03-21 09:36:24)
 Benerin bug di bagian verifikasi recaptcha (2026-03-21 09:37:24)
 Fixing bug dimana aplikasi gak bisa handle input yang gak valid secara otomatis (2026-03-21 09:38:24)
+Update logic perhitungan diskon member (2026-03-21 09:39:24)
