@@ -13080,3 +13080,4 @@ Fixing bug dimana aplikasi gak bisa handle input yang memiliki format yang sanga
 Update versi framework ke yang paling stabil (2026-03-22 04:40:30)
 Benerin bug di bagian input tag (2026-03-22 04:41:30)
 Fixing bug dimana aplikasi gak bisa handle request yang sangat vital bagi kelangsungan operasional sistem secara mandiri dan tanpa memerlukan bantuan manual dari tim teknis setiap kali ada masalah kecil yang muncul (2026-03-22 04:42:30)
+Nambahin fitur filter berdasarkan harga promo (2026-03-22 04:43:30)
