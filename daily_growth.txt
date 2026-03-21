@@ -12674,3 +12674,4 @@ Fixing bug dimana aplikasi gak bisa handle request yang berdampak luas terhadap 
 Nambahin fitur dark mode dengan penjadwalan (2026-03-21 21:54:28)
 Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih pintar dalam memilih waktu yang paling tepat untuk memberikan informasi kepada user sehingga tidak mengganggu aktivitas penting yang sedang dilakukan (2026-03-21 21:55:28)
 Nambahin fitur filter berdasarkan parameter yang sangat akurat dan mampu memberikan hasil yang paling mendekati dengan apa yang sedang dipikirkan oleh user saat itu juga secara otomatis (2026-03-21 21:56:28)
+Nambahin fitur filter berdasarkan harga promo (2026-03-21 21:57:28)
