@@ -12208,3 +12208,4 @@ Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih aman dari 
 Nambahin fitur print invoice (2026-03-21 14:08:26)
 Benerin bug di bagian integrasi sistem manajemen file yang lebih terhubung dengan baik ke berbagai platform cloud storage ternama sehingga user bisa menyimpan dan mengakses dokumen-dokumen penting mereka dari mana saja dengan sangat aman (2026-03-21 14:09:26)
 Fixing bug dimana user bisa akses halaman rahasia (2026-03-21 14:10:26)
+Fixing bug dimana aplikasi gak bisa jalan di background (2026-03-21 14:11:26)
