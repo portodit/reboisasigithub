@@ -13156,3 +13156,4 @@ Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih mudah dipa
 Update tampilan UI aplikasi agar tampak sangat rapi, terstruktur, dan sangat mudah untuk dipahami cara kerjanya bahkan tanpa perlu panduan yang panjang bagi user baru yang ingin langsung mulai menggunakan aplikasi ini untuk keperluan hariannya (2026-03-22 05:56:30)
 Update library charting buat grafik yang lebih smooth (2026-03-22 05:57:30)
 Fixing bug dimana notifikasi telat masuk (2026-03-22 05:58:30)
+Update cara hitung estimasi waktu pengiriman (2026-03-22 05:59:30)
