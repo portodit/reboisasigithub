@@ -12456,3 +12456,4 @@ Nambahin fitur filter berdasarkan kriteria yang sangat inovatif dan belum pernah
 Fixing bug dimana aplikasi stuck pas login ulang (2026-03-21 18:16:26)
 Nambahin fitur kustomisasi notifikasi suara (2026-03-21 18:17:26)
 Ngubah struktur folder biar lebih rapi (2026-03-21 18:18:26)
+Ngubah urutan middleware biar auth jalan duluan (2026-03-21 18:19:26)
