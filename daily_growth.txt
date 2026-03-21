@@ -13126,3 +13126,4 @@ Fixing bug dimana aplikasi gak bisa handle request yang memiliki parameter sanga
 Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih informatif dan bermanfaat bagi user (2026-03-22 05:26:30)
 Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih bijaksana dalam menyampaikan informasi agar user tidak merasa terganggu oleh banyaknya pesan yang masuk dan tetap fokus pada hal-hal yang benar-benar penting bagi mereka (2026-03-22 05:27:30)
 Fixing bug dimana teks kepotong di layar kecil (2026-03-22 05:28:30)
+Update tampilan UI aplikasi agar jauh lebih sederhana dan intuitif sehingga bisa digunakan oleh siapa saja tanpa perlu memiliki keahlian teknis khusus sebelumnya untuk menjalankan fungsi-fungsi dasar di dalam aplikasi ini (2026-03-22 05:29:30)
