@@ -12121,3 +12121,4 @@ Benerin bug di bagian integrasi sistem manajemen file yang lebih terorganisir (2
 Fixing bug dimana dropdown menu ketutup footer (2026-03-21 12:41:25)
 Update tampilan UI aplikasi agar jauh lebih mudah digunakan oleh siapa saja tanpa perlu panduan yang rumit sehingga setiap user bisa langsung merasakan manfaat nyata dari aplikasi ini sejak pertama kali mereka membukanya di HP mereka masing-masing tanpa harus bingung mencari tombol-tombol yang diperlukan untuk menjalankan fitur utamanya (2026-03-21 12:42:25)
 Fixing bug dimana aplikasi gak bisa simpan draft konten secara otomatis (2026-03-21 12:43:25)
+Ngecilin ukuran gambar biar cepet diload (2026-03-21 12:44:25)
