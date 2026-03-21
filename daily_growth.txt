@@ -11970,3 +11970,4 @@ Update tampilan UI aplikasi agar lebih konsisten di seluruh bagian aplikasi (202
 Benerin bug di bagian input angka negatif (2026-03-21 10:10:24)
 Nambahin fitur pencarian berdasarkan kategori (2026-03-21 10:11:24)
 Update sistem manajemen antrian tugas background yang lebih efisien (2026-03-21 10:12:24)
+Benerin bug di bagian navigasi sidebar (2026-03-21 10:13:24)
