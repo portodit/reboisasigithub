@@ -12150,3 +12150,4 @@ Fixing bug dimana aplikasi gak bisa nampilin data yang diproses secara sinkron d
 Fixing bug dimana aplikasi gak bisa nampilin data yang diproses di background secara transparan tanpa mengganggu kelancaran penggunaan antarmuka aplikasi yang harus tetap gesit dan responsif dalam menanggapi setiap input user (2026-03-21 13:10:25)
 Benerin bug di bagian input angka negatif (2026-03-21 13:11:25)
 Update tampilan UI aplikasi agar terlihat lebih profesional dan dapat membangun rasa percaya yang kuat di hati para pengguna aplikasi tersebut sebagai solusi yang handal dan dapat diandalkan setiap saat (2026-03-21 13:12:25)
+Update logic perhitungan diskon member (2026-03-21 13:13:25)
