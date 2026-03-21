@@ -13162,3 +13162,4 @@ Nambahin fitur filter berdasarkan histori interaksi user dengan tim support (202
 Fixing bug dimana aplikasi gak bisa nampilin notifikasi real-time (2026-03-22 06:02:30)
 Fixing bug dimana aplikasi gak bisa handle request yang berdampak luas terhadap infrastruktur sistem tanpa menyebabkan terjadinya gangguan layanan (downtime) yang dapat merugikan banyak pihak yang sangat mengandalkan aplikasi hebat kita ini (2026-03-22 06:03:30)
 Nambahin validasi email biar gak diisi asal-asalan (2026-03-22 06:04:30)
+Nambahin fitur filter berdasarkan rating pengguna tertinggi (2026-03-22 06:05:30)
