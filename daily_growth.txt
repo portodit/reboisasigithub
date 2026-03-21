@@ -12703,3 +12703,4 @@ Update sistem manajemen cache yang lebih optimal untuk meningkatkan performa (20
 Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih bijak dan santun dalam menyampaikan informasi sehingga user merasa dihargai dan tidak merasa terganggu dengan banyaknya pesan yang masuk ke mereka (2026-03-21 22:23:28)
 Fixing bug dimana aplikasi gak bisa handle request yang sangat vital bagi kelangsungan operasional sistem secara mandiri dan tanpa memerlukan bantuan manual dari tim teknis setiap kali ada masalah kecil yang muncul (2026-03-21 22:24:28)
 Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih memberikan kebebasan penuh bagi user untuk mengatur sendiri notifikasi mana saja yang benar-benar penting bagi mereka dan bagaimana cara menerimanya secara personal (2026-03-21 22:25:28)
+Benerin bug di bagian tampilan galeri foto (2026-03-21 22:26:28)
