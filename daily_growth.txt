@@ -12685,3 +12685,4 @@ Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih aman, kuat
 Fixing bug dimana aplikasi gak bisa update otomatis (2026-03-21 22:05:28)
 Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih mudah untuk dipantau keamanannya oleh tim admin pusat guna memberikan jaminan keamanan total bagi seluruh pengguna aplikasi tanpa ada satupun user yang terlewatkan (2026-03-21 22:06:28)
 Nambahin fitur ganti username (sekali setahun) (2026-03-21 22:07:28)
+Nambahin fitur filter berdasarkan parameter yang sangat sensitif dan memerlukan izin khusus (2026-03-21 22:08:28)
