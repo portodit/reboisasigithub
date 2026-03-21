@@ -12325,3 +12325,4 @@ Nambahin fitur filter berdasarkan parameter yang sangat spesifik dan relevan den
 Nambahin fitur auto-complete di search bar (2026-03-21 16:05:27)
 Benerin bug di bagian integrasi sistem manajemen database yang lebih aman dan terenkripsi secara default (2026-03-21 16:06:27)
 Update tampilan UI aplikasi agar terlihat makin keren dan memiliki identitas visual yang kuat sehingga user merasa bangga menjadi bagian dari komunitas pengguna aplikasi ini yang selalu mengedepankan kualitas dan gaya (2026-03-21 16:07:27)
+Fixing bug dimana dropdown menu ketutup footer (2026-03-21 16:08:27)
