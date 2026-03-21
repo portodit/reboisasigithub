@@ -12534,3 +12534,4 @@ Benerin bug di bagian integrasi sistem manajemen file yang lebih aman dan terenk
 Update tampilan footer agar lebih rapi di semua device (2026-03-21 19:34:27)
 Fixing bug dimana aplikasi gak bisa handle input yang sangat bervariasi tipenya secara otomatis dan tanpa memerlukan penyesuaian kode tambahan setiap kali ada tipe data baru yang ditambahkan ke dalam sistem aplikasi utama (2026-03-21 19:35:27)
 Nambahin fitur filter berdasarkan kriteria yang sangat dinamis dan berubah-ubah setiap saat (2026-03-21 19:36:27)
+Ngilangin shadow yang terlalu lebay di card (2026-03-21 19:37:27)
