@@ -12295,3 +12295,4 @@ Update sistem manajemen cache yang lebih hemat energi namun tetap mampu memberik
 Update tampilan login dengan animasi latar belakang (2026-03-21 15:35:27)
 Update tampilan UI aplikasi agar terlihat sangat profesional dan mampu memberikan rasa percaya diri yang tinggi bagi user dalam menjalankan tugas-tugas harian mereka menggunakan aplikasi yang kita bangun dengan dedikasi dan cinta kasih (2026-03-21 15:36:27)
 Nambahin fitur export ke PDF yang lebih rapi (2026-03-21 15:37:27)
+Fixing bug dimana aplikasi boros baterai (2026-03-21 15:38:27)
