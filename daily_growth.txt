@@ -12221,3 +12221,4 @@ Benerin bug di bagian integrasi sistem manajemen file yang lebih cepat dalam pro
 Nambahin fitur filter berdasarkan parameter yang sangat presisi dan mampu memberikan hasil yang benar-benar relevan dengan apa yang sedang dikerjakan oleh user saat ini guna membantu meningkatkan produktivitas kerja mereka secara efektif (2026-03-21 14:21:26)
 Nambahin fitur preview sebelum posting (2026-03-21 14:22:26)
 Fixing bug font yang pecah di sistem operasi tertentu (2026-03-21 14:23:26)
+Benerin bug di bagian upload file besar (2026-03-21 14:24:26)
