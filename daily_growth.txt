@@ -12381,3 +12381,4 @@ Benerin bug di bagian integrasi sistem manajemen database yang lebih aman, teper
 Nambahin fitur statistik mingguan (2026-03-21 17:01:26)
 Update sistem manajemen antrian tugas background yang lebih efisien (2026-03-21 17:02:26)
 Nambahin fitur shortcut 'Go to Top' (2026-03-21 17:03:26)
+Nambahin fitur filter berdasarkan kriteria khusus pengguna (2026-03-21 17:04:26)
