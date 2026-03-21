@@ -12813,3 +12813,4 @@ Nambahin fitur filter berdasarkan kategori yang paling populer di daerah sekitar
 Nambahin fitur filter berdasarkan kategori yang paling populer di daerah sekitar tempat tinggal user untuk memberikan konteks sosial yang bermanfaat dan memudahkan user dalam berinteraksi dengan komunitas sekitarnya (2026-03-22 00:13:29)
 Fixing bug dimana aplikasi gak bisa handle request yang sangat mendesak dan memiliki tingkat prioritas yang paling tinggi di antara request lainnya secara otomatis (2026-03-22 00:14:29)
 Nambahin fitur filter berdasarkan waktu terakhir diupdate (2026-03-22 00:15:29)
+Nambahin fitur report bug langsung dari aplikasi (2026-03-22 00:16:29)
