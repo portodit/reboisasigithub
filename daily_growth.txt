@@ -12580,3 +12580,4 @@ Update sistem manajemen keamanan aplikasi yang lebih terintegrasi dengan standar
 Nambahin fitur filter berdasarkan histori interaksi user dengan layanan pelanggan yang terdahulu untuk memberikan konteks yang lebih baik dalam menyelesaikan masalah yang mungkin sedang dihadapi user saat ini (2026-03-21 20:20:27)
 Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih memberikan kebebasan penuh bagi user untuk memilih notifikasi mana saja yang benar-benar penting bagi mereka dan bagaimana cara menerimanya secara personal (2026-03-21 20:21:27)
 Update performa loading font eksternal (2026-03-21 20:22:27)
+Fixing bug dimana modal muncul dua kali (2026-03-21 20:23:27)
