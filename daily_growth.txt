@@ -13033,3 +13033,4 @@ Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih akurat da
 Nambahin fitur limit login attempt demi keamanan (2026-03-22 03:53:30)
 Benerin bug di bagian input angka negatif (2026-03-22 03:54:30)
 Fixing bug dimana aplikasi gak bisa nampilin data yang diproses secara paralel dengan benar (2026-03-22 03:55:30)
+Nambahin fitur kustomisasi notifikasi suara (2026-03-22 03:56:30)
