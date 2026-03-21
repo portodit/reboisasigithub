@@ -12151,3 +12151,4 @@ Fixing bug dimana aplikasi gak bisa nampilin data yang diproses di background se
 Benerin bug di bagian input angka negatif (2026-03-21 13:11:25)
 Update tampilan UI aplikasi agar terlihat lebih profesional dan dapat membangun rasa percaya yang kuat di hati para pengguna aplikasi tersebut sebagai solusi yang handal dan dapat diandalkan setiap saat (2026-03-21 13:12:25)
 Update logic perhitungan diskon member (2026-03-21 13:13:25)
+Update tampilan UI aplikasi agar jauh lebih sederhana dan intuitif sehingga bisa digunakan oleh siapa saja tanpa perlu memiliki keahlian teknis khusus sebelumnya untuk menjalankan fungsi-fungsi dasar di dalam aplikasi ini (2026-03-21 13:14:25)
