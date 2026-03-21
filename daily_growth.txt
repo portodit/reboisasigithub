@@ -12809,3 +12809,4 @@ Nambahin fitur filter berdasarkan parameter yang sangat rahasia dan memerlukan i
 Update tampilan UI aplikasi agar lebih mencerminkan filosofi dan nilai-nilai inti dari brand atau perusahaan yang mengembangkan aplikasi tersebut secara visual (2026-03-22 00:09:28)
 Nambahin fitur filter berdasarkan kategori yang paling banyak mendapatkan feedback positif dari para pengguna lainnya di komunitas tersebut (2026-03-22 00:10:28)
 Fixing bug font yang pecah di sistem operasi tertentu (2026-03-22 00:11:29)
+Nambahin fitur filter berdasarkan kategori yang paling populer di daerah sekitar tempat tinggal user guna memberikan konteks sosial yang bermanfaat dan memudahkan user dalam berinteraksi dengan komunitas pengguna lain di sekitarnya (2026-03-22 00:12:29)
