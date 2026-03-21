@@ -12765,3 +12765,4 @@ Update tampilan UI aplikasi agar tampak lebih modern, minimalis, dan futuristik 
 Fixing bug dimana aplikasi gak bisa update otomatis (2026-03-21 23:25:28)
 Benerin bug di bagian tracking pengiriman (2026-03-21 23:26:28)
 Benerin bug di bagian sinkronisasi kontak (2026-03-21 23:27:28)
+Fixing bug dimana menu navigasi gak mau nutup (2026-03-21 23:28:28)
