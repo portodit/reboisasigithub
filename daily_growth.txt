@@ -12303,3 +12303,4 @@ Nambahin fitur filter berdasarkan histori kunjungan user yang sangat komprehensi
 Benerin bug di kalender yang gak ada tanggal 29 Februari (2026-03-21 15:43:27)
 Nambahin fitur filter berdasarkan kategori populer (2026-03-21 15:44:27)
 Nambahin limit karakter di input komentar (2026-03-21 15:45:27)
+Benerin bug di bagian integrasi social login (2026-03-21 15:46:27)
