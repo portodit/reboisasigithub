@@ -12508,3 +12508,4 @@ Nambahin fitur filter berdasarkan kategori yang paling banyak mendapatkan feedba
 Fixing bug dimana aplikasi gak ngerespon klik di header (2026-03-21 19:08:26)
 Fixing bug dimana aplikasi gak bisa nampilin data yang diproses di background secara transparan tanpa mengganggu kelancaran penggunaan antarmuka aplikasi yang harus tetap gesit dan responsif dalam menanggapi setiap input user (2026-03-21 19:09:26)
 Update tampilan UI aplikasi agar terlihat sangat konsisten, rapi, dan memiliki alur navigasi yang sangat logis sehingga user dapat menemukan apa yang mereka butuhkan dengan sangat cepat dan tanpa ada kebingungan sedikitpun (2026-03-21 19:10:26)
+Ngubah urutan middleware biar auth jalan duluan (2026-03-21 19:11:26)
