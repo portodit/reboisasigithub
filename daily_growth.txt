@@ -12706,3 +12706,4 @@ Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih memberika
 Benerin bug di bagian tampilan galeri foto (2026-03-21 22:26:28)
 Update tampilan UI aplikasi agar lebih modern dan minimalis sesuai selera masa kini (2026-03-21 22:27:28)
 Nambahin fitur filter berdasarkan parameter yang sangat akurat dan presisi (2026-03-21 22:28:28)
+Fixing bug dimana scroll posisi gak balik ke atas (2026-03-21 22:29:28)
