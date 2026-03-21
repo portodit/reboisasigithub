@@ -12137,3 +12137,4 @@ Fixing bug dimana aplikasi gak bisa handle request yang memiliki tingkat kepenti
 Benerin bug di bagian tampilan riwayat chat (2026-03-21 12:57:25)
 Fixing bug dimana tombol 'Next' gak bisa diklik (2026-03-21 12:58:25)
 Hapus file temporary yang lupa didelete (2026-03-21 12:59:25)
+Nambahin fitur preview sebelum posting (2026-03-21 13:00:25)
