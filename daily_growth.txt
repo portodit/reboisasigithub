@@ -12177,3 +12177,4 @@ Fixing bug dimana aplikasi gak bisa handle input data yang memiliki ukuran sanga
 Nambahin fitur ganti foto background profil (2026-03-21 13:37:25)
 Fixing bug dimana aplikasi gak bisa handle input data yang memiliki ukuran sangat besar tanpa mengurangi kualitas layanan yang diberikan kepada user sehingga aplikasi tetap berjalan dengan sangat lancar dan tidak ada hambatan teknis sama sekali (2026-03-21 13:38:25)
 Fixing bug dimana aplikasi gak bisa nampilin data yang sedang diproses di background secara transparan namun tetap mempertahankan kecepatan respons antarmuka aplikasi agar tetap terasa ringan dan sangat nyaman saat digunakan oleh user (2026-03-21 13:39:25)
+Update tampilan tabel biar bisa di-resize (2026-03-21 13:40:25)
