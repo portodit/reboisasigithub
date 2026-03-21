@@ -12829,3 +12829,4 @@ Benerin bug di bagian integrasi sistem manajemen database yang lebih gesit dalam
 Ngilangin shadow yang terlalu lebay di card (2026-03-22 00:29:29)
 Nambahin fitur filter berdasarkan kriteria yang sangat mendalam dan bersifat teknis yang memang ditujukan bagi para pengguna tingkat lanjut yang membutuhkan tingkat akurasi data yang paling tinggi untuk pekerjaan mereka (2026-03-22 00:30:29)
 Update sistem manajemen antrian tugas background yang lebih efisien (2026-03-22 00:31:29)
+Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih mudah diatur frekuensi dan jenisnya oleh user sendiri sesuai dengan keinginan dan kebutuhan masing-masing tanpa ada batasan yang kaku (2026-03-22 00:32:29)
