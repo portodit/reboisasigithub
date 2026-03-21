@@ -12205,3 +12205,4 @@ Update sistem manajemen cache yang lebih hemat energi namun tetap mampu memberik
 Fixing bug dimana notifikasi gak muncul di lock screen (2026-03-21 14:05:26)
 Ngurangin penggunaan !important di CSS, tobat... (2026-03-21 14:06:26)
 Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih aman dari ancaman pihak luar (2026-03-21 14:07:26)
+Nambahin fitur print invoice (2026-03-21 14:08:26)
