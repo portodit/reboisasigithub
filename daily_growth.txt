@@ -12476,3 +12476,4 @@ Update sistem manajemen keamanan aplikasi yang lebih menyeluruh dan mencakup sel
 Update favicon yang lebih HD (2026-03-21 18:36:26)
 Nambahin fitur filter berdasarkan parameter yang sangat bervariasi dan fleksibel (2026-03-21 18:37:26)
 Fixing bug dimana aplikasi gak bisa handle request dari berbagai platform secara bersamaan (2026-03-21 18:38:26)
+Nambahin fitur dark mode yang lebih deep (Amoled) (2026-03-21 18:39:26)
