@@ -12463,3 +12463,4 @@ Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih memberika
 Fixing bug dimana notifikasi gak masuk (2026-03-21 18:23:26)
 Update sistem manajemen antrian tugas background yang lebih efisien (2026-03-21 18:24:26)
 Update tampilan UI aplikasi agar jauh lebih mudah digunakan oleh siapa saja tanpa perlu panduan yang rumit sehingga setiap user bisa langsung merasakan manfaat dari aplikasi ini sejak pertama kali mereka membukanya di HP (2026-03-21 18:25:26)
+Nambahin fitur filter berdasarkan kriteria yang sangat spesifik (2026-03-21 18:26:26)
