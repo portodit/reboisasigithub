@@ -11797,3 +11797,4 @@ Nambahin fitur filter berdasarkan kategori yang paling populer di daerah sekitar
 Update sistem manajemen keamanan aplikasi yang lebih holistik dan mencakup seluruh siklus hidup data mulai dari pembuatan, penggunaan, penyimpanan, hingga penghapusan data secara aman sesuai dengan regulasi yang berlaku (2026-03-21 07:17:23)
 Benerin bug di bagian upload file rekaman suara (2026-03-21 07:18:23)
 Nambahin fitur sortir berdasarkan abjad (2026-03-21 07:19:23)
+Fixing bug dimana aplikasi gak bisa simpan setting user (2026-03-21 07:20:23)
