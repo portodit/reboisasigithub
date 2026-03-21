@@ -12846,3 +12846,4 @@ Update tampilan UI aplikasi agar benar-benar merepresentasikan visi misi dan nil
 Update tampilan dashboard dengan widget baru (2026-03-22 00:46:29)
 Nambahin fitur filter berdasarkan histori interaksi user dengan tim support di masa lampau guna memberikan layanan yang lebih solutif dan memahami akar permasalahan yang pernah dihadapi user dengan jauh lebih baik dari yang sebelum-sebelumnya (2026-03-22 00:47:29)
 Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih personal (2026-03-22 00:48:29)
+Benerin bug di bagian verifikasi OTP (2026-03-22 00:49:29)
