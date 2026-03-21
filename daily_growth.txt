@@ -12334,3 +12334,4 @@ Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih mudah dipa
 Nambahin fitur filter berdasarkan kriteria yang sangat membantu user dalam menemukan apa yang dicari (2026-03-21 16:14:27)
 Benerin bug di bagian verifikasi OTP (2026-03-21 16:15:27)
 Update tampilan UI aplikasi agar lebih menarik dan profesional (2026-03-21 16:16:27)
+Benerin bug di bagian tampilan mobile landscape (2026-03-21 16:17:27)
