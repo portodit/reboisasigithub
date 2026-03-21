@@ -12077,3 +12077,4 @@ Fixing bug dimana aplikasi gak bisa nampilin data yang berubah secara real-time 
 Update tampilan UI aplikasi agar lebih sederhana namun tetap fungsional (2026-03-21 11:57:25)
 Fixing bug dimana aplikasi gak jalan di mode hemat daya (2026-03-21 11:58:25)
 Nambahin fitur filter berdasarkan histori transaksi yang dilakukan oleh user selama menggunakan aplikasi tersebut untuk memberikan gambaran yang menyeluruh tentang pola konsumsi dan perilaku belanja user secara akurat (2026-03-21 11:59:25)
+Benerin bug di bagian tracking pengiriman (2026-03-21 12:00:25)
