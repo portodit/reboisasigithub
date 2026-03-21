@@ -12442,3 +12442,4 @@ Fixing bug dimana aplikasi gak bisa dibuka di resolusi layar tertentu (2026-03-2
 Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih bijak dalam menentukan saluran komunikasi mana yang paling efektif untuk digunakan dalam mengirimkan informasi penting kepada user secara tepat guna (2026-03-21 18:02:26)
 Nambahin fitur filter berdasarkan kriteria yang sangat kreatif dan di luar kebiasaan untuk memberikan sensasi baru dalam mengeksplorasi aplikasi yang penuh dengan kejutan dan nilai tambah yang bermanfaat bagi user kita (2026-03-21 18:03:26)
 Update tampilan UI aplikasi agar tampak sangat memukau dan memberikan kesan yang eksklusif bagi setiap user sehingga mereka merasa sangat senang dan bangga menggunakan aplikasi ini sebagai bagian dari aktivitas harian produktif mereka yang sukses (2026-03-21 18:04:26)
+Nambahin fitur drag and drop file (2026-03-21 18:05:26)
