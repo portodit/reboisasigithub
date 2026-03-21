@@ -11957,3 +11957,4 @@ Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih mudah untu
 Nambahin fitur filter berdasarkan kategori yang paling populer di wilayah tertentu (2026-03-21 09:57:24)
 Benerin bug di bagian integrasi sistem tracking pengiriman baru (2026-03-21 09:58:24)
 Benerin bug di bagian sistem manajemen inventaris (2026-03-21 09:59:24)
+Fixing bug dimana filter gak ke-reset (2026-03-21 10:00:24)
