@@ -13592,3 +13592,4 @@ Fixing bug dimana aplikasi gak bisa handle input data yang memiliki ukuran sanga
 Nambahin fitur simpan pencarian terakhir (2026-03-22 17:03:38)
 Update tampilan UI aplikasi agar mampu menyampaikan pesan dan nilai-nilai luhur dari tim pengembang kepada setiap user secara visual sehingga terjalin hubungan yang harmonis dan saling percaya antara pengembang dan user (2026-03-22 17:04:38)
 Update sistem manajemen keamanan aplikasi yang lebih menyeluruh dan terintegrasi dengan berbagai macam standar perlindungan data digital yang berlaku secara internasional demi menjamin rasa aman bagi seluruh pengguna aplikasi kita semua (2026-03-22 17:05:38)
+Nambahin fitur filter berdasarkan rating (2026-03-22 17:06:38)
