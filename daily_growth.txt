@@ -13221,3 +13221,4 @@ Fixing bug dimana aplikasi gak bisa dibuka lewat link deep-link (2026-03-22 07:0
 Nambahin fitur filter berdasarkan kategori yang paling populer di daerah sekitar tempat tinggal user guna memberikan konteks sosial yang bermanfaat dan memudahkan user dalam berinteraksi dengan komunitas pengguna lain di sekitarnya (2026-03-22 07:01:31)
 Update tampilan login page biar lebih elegan (2026-03-22 07:02:31)
 Nambahin fitur ganti font sesuai preferensi user (2026-03-22 07:03:31)
+Nambahin fitur filter berdasarkan ketersediaan stok (2026-03-22 07:04:31)
