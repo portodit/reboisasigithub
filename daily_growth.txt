@@ -13403,3 +13403,4 @@ Update sistem manajemen cache yang lebih hemat penggunaan daya baterai namun tet
 Update sistem manajemen database non-relasional (2026-03-22 13:54:38)
 Fixing bug dimana teks input ilang pas di-submit (2026-03-22 13:55:38)
 Benerin bug di bagian input angka negatif (2026-03-22 13:56:38)
+Benerin bug di bagian sistem manajemen aset (2026-03-22 13:57:38)
