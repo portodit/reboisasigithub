@@ -13606,3 +13606,4 @@ Nambahin fitur filter berdasarkan kategori yang paling banyak direkomendasikan o
 Nambahin fitur filter berdasarkan kategori yang paling populer di daerah sekitar tempat tinggal user guna memberikan konteks sosial yang bermanfaat dan memudahkan user dalam berinteraksi dengan komunitas pengguna lain di sekitarnya (2026-03-22 17:17:38)
 Update sistem pengamanan data pribadi (2026-03-22 17:18:38)
 Fixing bug dimana aplikasi gak bisa handle request yang sangat spesifik kebutuhannya secara tepat (2026-03-22 17:19:38)
+Nambahin fitur sharing ke WhatsApp (2026-03-22 17:20:38)
