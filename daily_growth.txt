@@ -13858,3 +13858,4 @@ Nambahin fitur filter berdasarkan kategori yang paling relevan bagi user (2026-0
 Ngubah urutan middleware biar auth jalan duluan (2026-03-22 21:29:38)
 Benerin bug di bagian filter pencarian lanjutan (2026-03-22 21:30:38)
 Update performa pencarian dengan indexing baru (2026-03-22 21:31:38)
+Nambahin fitur auto-save draft (2026-03-22 21:32:38)
