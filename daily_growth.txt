@@ -13408,3 +13408,4 @@ Update tampilan UI aplikasi agar semakin menarik dan memiliki gaya desain yang s
 Benerin bug di bagian integrasi sistem manajemen database yang lebih akurat dan terpercaya (2026-03-22 13:59:38)
 Update tampilan login dengan animasi latar belakang (2026-03-22 14:00:38)
 Nambahin fitur filter berdasarkan harga terendah ke tertinggi (2026-03-22 14:01:38)
+Fixing bug dimana notifikasi gak muncul di lock screen (2026-03-22 14:02:38)
