@@ -13899,3 +13899,4 @@ Nambahin fitur filter berdasarkan kriteria yang sangat adaptif dan mampu menyesu
 Nambahin fitur filter berdasarkan kriteria yang sangat inovatif dan belum pernah ada di aplikasi manapun sebelumnya untuk memberikan nilai keunikan yang tinggi dan daya tarik yang luar biasa bagi setiap user baru kita nanti (2026-03-22 22:10:38)
 Benerin bug di bagian export data CSV (2026-03-22 22:11:38)
 Update sistem keamanan token JWT (2026-03-22 22:12:38)
+Nambahin fitur filter berdasarkan jenis konten (2026-03-22 22:13:38)
