@@ -13374,3 +13374,4 @@ Update sistem manajemen cache yang lebih optimal untuk meningkatkan performa (20
 Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih memberikan kebebasan penuh bagi user untuk memilih notifikasi mana saja yang benar-benar penting bagi mereka dan bagaimana cara menerimanya secara personal (2026-03-22 13:25:37)
 Fixing bug dimana aplikasi gak bisa deteksi koneksi internet (2026-03-22 13:26:37)
 Update security patch buat backend (2026-03-22 13:27:37)
+Fixing bug dimana gambar pecah pas di-zoom (2026-03-22 13:28:37)
