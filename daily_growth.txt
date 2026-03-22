@@ -13874,3 +13874,4 @@ Nambahin fitur filter berdasarkan kategori yang paling banyak diminati oleh para
 Update tampilan menu sidebar agar lebih ergonomis (2026-03-22 21:45:38)
 Update sistem manajemen antrian tugas background yang lebih efisien (2026-03-22 21:46:38)
 Benerin bug di bagian integrasi sistem manajemen file yang lebih teratur dan memudahkan user dalam mengelompokkan file-file penting mereka ke dalam folder-folder yang rapi dan mudah untuk dikelola setiap saat dibutuhkan (2026-03-22 21:47:38)
+Benerin bug di bagian checkout (2026-03-22 21:48:38)
