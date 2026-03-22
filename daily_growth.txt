@@ -13440,3 +13440,4 @@ Fixing bug dimana aplikasi gak bisa deteksi koneksi internet (2026-03-22 14:30:3
 Nambahin fitur filter berdasarkan kategori favorit (2026-03-22 14:31:38)
 Fixing bug dimana aplikasi gak support emoji (2026-03-22 14:32:38)
 Benerin bug di bagian sinkronisasi kalender lokal (2026-03-22 14:33:38)
+Nambahin fitur filter berdasarkan kriteria yang sangat spesifik dan belum pernah ada sebelumnya (2026-03-22 14:34:38)
