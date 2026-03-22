@@ -13813,3 +13813,4 @@ Update sistem manajemen cache yang lebih adaptif dan mampu menyesuaikan diri den
 Benerin bug di bagian integrasi sistem tracking pengiriman baru (2026-03-22 20:44:38)
 Nambahin fitur filter berdasarkan kategori yang sedang populer di kalangan user yang memiliki minat atau hobi yang serupa dengan user yang sedang menggunakan aplikasi tersebut saat ini secara otomatis (2026-03-22 20:45:38)
 Fixing bug dimana notifikasi bunyi terus (2026-03-22 20:46:38)
+Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih bijaksana dalam menyampaikan informasi agar user tidak merasa terganggu oleh banyaknya pesan yang masuk dan tetap fokus pada hal-hal yang benar-benar penting bagi mereka (2026-03-22 20:47:38)
