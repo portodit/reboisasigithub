@@ -13446,3 +13446,4 @@ Benerin bug di bagian integrasi sistem manajemen file yang lebih terorganisir da
 Benerin bug di bagian tampilan form input yang overlap (2026-03-22 14:37:38)
 Nambahin fitur ganti bahasa tanpa refresh (2026-03-22 14:38:38)
 Benerin bug di bagian tampilan tabel di tablet (2026-03-22 14:39:38)
+Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih bijak dan santun dalam menyampaikan informasi sehingga user merasa dihargai dan tidak merasa terganggu dengan banyaknya pesan yang masuk ke mereka (2026-03-22 14:40:38)
