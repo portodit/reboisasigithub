@@ -13445,3 +13445,4 @@ Update tampilan UI aplikasi agar lebih mudah dipahami dan digunakan bahkan oleh 
 Benerin bug di bagian integrasi sistem manajemen file yang lebih terorganisir dan memudahkan user dalam mencari dokumen lama yang pernah diupload sehingga mereka tidak perlu repot-repot mencari satu per satu lagi (2026-03-22 14:36:38)
 Benerin bug di bagian tampilan form input yang overlap (2026-03-22 14:37:38)
 Nambahin fitur ganti bahasa tanpa refresh (2026-03-22 14:38:38)
+Benerin bug di bagian tampilan tabel di tablet (2026-03-22 14:39:38)
