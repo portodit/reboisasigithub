@@ -13917,3 +13917,4 @@ Fixing bug dimana aplikasi gak bisa handle input yang sangat banyak sekali jumla
 Update security patch buat backend (2026-03-22 22:28:38)
 Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih memberikan kebebasan penuh bagi user untuk memilih notifikasi mana saja yang benar-benar penting bagi mereka dan bagaimana cara menerimanya secara personal (2026-03-22 22:29:38)
 Update tampilan UI aplikasi agar lebih intuitif dan mudah digunakan (2026-03-22 22:30:38)
+Fixing bug dimana scroll posisi gak balik ke atas (2026-03-22 22:31:38)
