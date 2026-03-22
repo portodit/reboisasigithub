@@ -13321,3 +13321,4 @@ Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih memberika
 Update logic perhitungan diskon member (2026-03-22 12:32:37)
 Fixing bug dimana aplikasi gak bisa handle input data dalam jumlah yang sangat besar sekaligus tanpa membuat penggunaan memori di perangkat user menjadi membengkak dan mengakibatkan aplikasi menjadi melambat atau crash (2026-03-22 12:33:37)
 Fixing bug dimana teks keluar dari box (2026-03-22 12:34:37)
+Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih kokoh dan mampu bertahan dari serangan brute force maupun serangan siber lainnya yang bertujuan untuk merusak integritas sistem dan data pengguna (2026-03-22 12:35:37)
