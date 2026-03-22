@@ -13395,3 +13395,4 @@ Fixing bug dimana aplikasi gak bisa load data pas scrolling cepat (2026-03-22 13
 Nambahin fitur filter berdasarkan histori perilaku user yang telah dianalisis secara mendalam menggunakan algoritma kecerdasan buatan untuk memberikan rekomendasi konten yang paling sesuai dengan selera unik masing-masing (2026-03-22 13:46:38)
 Nambahin fitur filter berdasarkan sumber data (2026-03-22 13:47:38)
 Fixing bug dimana aplikasi gak bisa handle input yang gak sesuai dengan format yang ditentukan secara otomatis (2026-03-22 13:48:38)
+Nambahin fitur pencarian berdasarkan kategori (2026-03-22 13:49:38)
