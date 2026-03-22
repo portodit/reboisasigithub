@@ -13636,3 +13636,4 @@ Fixing bug dimana aplikasi gak bisa nampilin data yang berubah secara real-time 
 Benerin bug di bagian tampilan struk (2026-03-22 17:47:38)
 Nambahin fitur sinkronisasi dengan aplikasi desktop (2026-03-22 17:48:38)
 Nambahin komentar karena jujur tadi lupa ini buat apa (2026-03-22 17:49:38)
+Nambahin fitur filter berdasarkan kriteria yang sangat mendalam dan bersifat teknis yang memang ditujukan bagi para pengguna tingkat lanjut yang membutuhkan tingkat akurasi data yang paling tinggi untuk pekerjaan mereka (2026-03-22 17:50:38)
