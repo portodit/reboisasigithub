@@ -13376,3 +13376,4 @@ Fixing bug dimana aplikasi gak bisa deteksi koneksi internet (2026-03-22 13:26:3
 Update security patch buat backend (2026-03-22 13:27:37)
 Fixing bug dimana gambar pecah pas di-zoom (2026-03-22 13:28:37)
 Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih mudah dipantau dan dikontrol oleh tim teknis untuk menjamin kenyamanan dan keamanan seluruh pengguna aplikasi tanpa terkecuali setiap harinya (2026-03-22 13:29:37)
+Benerin bug di bagian sistem manajemen aset (2026-03-22 13:30:37)
