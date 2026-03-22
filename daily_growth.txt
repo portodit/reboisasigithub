@@ -13794,3 +13794,4 @@ Fixing bug dimana aplikasi gak bisa handle input yang berasal dari berbagai maca
 Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih pintar dalam memilih waktu yang paling pas untuk mengirim pesan agar user merasa terbantu dan bukan merasa terganggu dengan notifikasi yang dikirimkan oleh sistem (2026-03-22 20:25:38)
 Nambahin fitur filter berdasarkan kriteria yang sangat spesifik (2026-03-22 20:26:38)
 Nambahin fitur filter berdasarkan kategori yang paling populer di wilayah tertentu (2026-03-22 20:27:38)
+Nambahin fitur share link dengan tracking (2026-03-22 20:28:38)
