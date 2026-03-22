@@ -13456,3 +13456,4 @@ Benerin bug di bagian integrasi sistem manajemen database yang lebih gesit dalam
 Fixing bug dimana aplikasi gak bisa handle input yang datang dari beragam jenis platform perangkat yang berbeda secara konsisten tanpa ada masalah sinkronisasi data yang dapat mengganggu pengalaman user dalam menggunakan aplikasi kita (2026-03-22 14:47:38)
 Update sistem manajemen cache yang lebih cerdas dan andal dalam menyediakan informasi yang diperlukan oleh user bahkan ketika kondisi jaringan internet sedang tidak bersahabat untuk memastikan user tetap produktif setiap saat (2026-03-22 14:48:38)
 Fixing bug dimana dropdown ketutup keyboard mobile (2026-03-22 14:49:38)
+Nambahin validasi email biar gak diisi asal-asalan (2026-03-22 14:50:38)
