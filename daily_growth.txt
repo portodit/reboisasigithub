@@ -13802,3 +13802,4 @@ Fixing bug dimana aplikasi gak bisa nampilin data yang diproses secara sinkron d
 Fixing bug dimana gambar gak responsif (2026-03-22 20:33:38)
 Benerin bug di bagian integrasi sistem manajemen database yang lebih kuat dan memiliki sistem backup data yang sangat handal jika terjadi masalah pada server pusat agar data berharga milik user tetap aman dan tidak akan hilang (2026-03-22 20:34:38)
 Fixing bug dimana user ganda bisa daftar (2026-03-22 20:35:38)
+Fixing bug dimana modal gak bisa ditutup pake Esc (2026-03-22 20:36:38)
