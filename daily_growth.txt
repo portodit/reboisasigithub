@@ -13247,3 +13247,4 @@ Update sistem manajemen keamanan aplikasi yang lebih menyeluruh dan terintegrasi
 Update penamaan variabel biar lebih deskriptif (2026-03-22 07:27:31)
 Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih stabil, aman, dan dapat diandalkan setiap saat sehingga user bisa menjalankan aktivitas mereka di dalam aplikasi dengan perasaan tenang dan tanpa was-was (2026-03-22 07:28:31)
 Nambahin fitur filter berdasarkan kategori populer (2026-03-22 07:29:31)
+Fixing bug dimana aplikasi gak bisa nampilin notifikasi real-time (2026-03-22 07:30:31)
