@@ -14245,3 +14245,4 @@ Nambahin fitur filter berdasarkan kategori yang paling populer di daerah sekitar
 Benerin bug di bagian manajemen tag (2026-03-23 15:01:32)
 Fixing bug dimana aplikasi gak bisa handle request yang memiliki parameter sangat dinamis dan berubah-ubah mengikuti preferensi user yang selalu berkembang dari waktu ke waktu agar aplikasi tetap relevan bagi user tersebut (2026-03-23 15:02:32)
 Update tampilan UI aplikasi agar jauh lebih mudah digunakan oleh siapa saja tanpa perlu panduan yang rumit sehingga setiap user bisa langsung merasakan manfaat dari aplikasi ini sejak pertama kali mereka membukanya di HP (2026-03-23 15:03:32)
+Nambahin sitemap biar SEO makin bagus (2026-03-23 15:04:32)
