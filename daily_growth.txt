@@ -14210,3 +14210,4 @@ Fixing bug dimana aplikasi gak bisa handle request yang bersifat krusial dan mem
 Fixing bug dimana aplikasi gak jalan di mode offline (2026-03-23 14:26:32)
 Update library charting buat grafik yang lebih smooth (2026-03-23 14:27:32)
 Update tampilan form agar lebih interaktif (2026-03-23 14:28:32)
+Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih memberikan keleluasaan penuh bagi user untuk mengatur sendiri notifikasi mana saja yang benar-benar penting bagi mereka dan bagaimana cara menerimanya secara personal agar setiap informasi yang masuk benar-benar memiliki nilai manfaat yang tinggi dan tidak dianggap sebagai sampah informasi yang hanya akan membuang-buang waktu dan perhatian user yang sangat berharga (2026-03-23 14:29:32)
