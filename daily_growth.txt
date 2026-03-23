@@ -14107,3 +14107,4 @@ Update tampilan UI aplikasi agar jauh lebih sederhana dan intuitif sehingga bisa
 Cleaning up node_modules yang gak kepake (lagi) (2026-03-23 12:43:32)
 Nambahin fitur filter berdasarkan kategori yang paling banyak diminati oleh para pengguna di lokasi sekitar user untuk memberikan konteks lokal yang sangat berharga dan memudahkan user dalam berinteraksi dengan komunitas (2026-03-23 12:44:32)
 Fixing bug dimana aplikasi gak bisa handle input yang sangat beragam sumbernya secara konsisten (2026-03-23 12:45:32)
+Nambahin fitur watermark di gambar upload (2026-03-23 12:46:32)
