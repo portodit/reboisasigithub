@@ -14676,3 +14676,4 @@ Nambahin fitur filter berdasarkan histori interaksi user dengan tim support di m
 Update tampilan UI aplikasi agar tampak sangat rapi, terstruktur, dan sangat mudah untuk dipahami cara kerjanya bahkan tanpa perlu panduan yang panjang bagi user baru yang ingin langsung mulai menggunakan aplikasi ini untuk keperluan hariannya (2026-03-23 22:12:32)
 Cleaning up node_modules yang gak kepake (lagi) (2026-03-23 22:13:32)
 Fixing bug dimana user gak bisa logout (2026-03-23 22:14:32)
+Update tampilan splash screen dengan animasi baru (2026-03-23 22:15:32)
