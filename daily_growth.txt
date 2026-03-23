@@ -14512,3 +14512,4 @@ Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih mudah dike
 Ngerapiin indentasi biar mata gak sakit (2026-03-23 19:28:32)
 Nambahin fitur kustomisasi notifikasi suara (2026-03-23 19:29:32)
 Nambahin fitur cek update otomatis (2026-03-23 19:30:32)
+Fixing bug dimana notifikasi gak muncul di lock screen (2026-03-23 19:31:32)
