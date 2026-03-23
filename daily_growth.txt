@@ -14408,3 +14408,4 @@ Fixing bug dimana aplikasi gak bisa handle request yang berdampak luas terhadap 
 Update sistem caching di sisi client (2026-03-23 17:44:32)
 Update tampilan card biar lebih rapi (2026-03-23 17:45:32)
 Benerin bug di bagian integrasi sistem manajemen file yang jauh lebih cepat dalam menangani proses pengiriman data yang memiliki ukuran sangat besar sekalipun tanpa ada kendala teknis berarti yang dapat menghambat aktivitas rutin user (2026-03-23 17:46:32)
+Nambahin fitur filter berdasarkan kategori favorit (2026-03-23 17:47:32)
