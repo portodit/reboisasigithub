@@ -14271,3 +14271,4 @@ Fixing bug dimana aplikasi gak bisa handle input yang sangat banyak sekali jumla
 Fixing bug dimana aplikasi gak bisa handle input yang datang dari beragam jenis platform secara konsisten tanpa ada masalah sinkronisasi yang dapat mengganggu pengalaman user dalam menggunakan aplikasi di berbagai perangkat (2026-03-23 15:27:32)
 Nambahin fitur kustomisasi notifikasi suara (2026-03-23 15:28:32)
 Update tampilan UI aplikasi agar jauh lebih mudah digunakan oleh siapa saja tanpa perlu panduan yang rumit sehingga setiap user bisa langsung merasakan manfaat nyata dari aplikasi ini sejak pertama kali mereka membukanya di HP mereka masing-masing tanpa harus bingung mencari tombol-tombol yang diperlukan untuk menjalankan fitur utamanya (2026-03-23 15:29:32)
+Nambahin fitur kustomisasi shortcut keyboard (2026-03-23 15:30:32)
