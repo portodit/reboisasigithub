@@ -14798,3 +14798,4 @@ Fixing bug dimana aplikasi gak bisa handle request yang bersifat sangat mendasar
 Nambahin fitur filter berdasarkan histori riwayat transaksi user untuk memberikan wawasan yang sangat akurat tentang bagaimana pola penggunaan layanan oleh user selama periode waktu tertentu secara komprehensif dan detail (2026-03-24 00:14:32)
 Fixing bug dimana aplikasi gak bisa nampilin notifikasi yang dikirim secara massal (2026-03-24 00:15:32)
 Fixing bug dimana filter gak ke-reset (2026-03-24 00:16:32)
+Benerin bug di bagian validasi file extension (2026-03-24 00:17:32)
