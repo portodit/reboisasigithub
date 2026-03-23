@@ -14238,3 +14238,4 @@ Nambahin fitur filter berdasarkan kategori yang paling populer di daerah sekitar
 Update sistem manajemen cache yang lebih adaptif dan mampu menyesuaikan diri dengan pola trafik data yang berubah-ubah secara drastis untuk menjamin performa aplikasi yang tetap stabil meskipun saat terjadi lonjakan user (2026-03-23 14:54:32)
 Nambahin fitur filter berdasarkan sumber data (2026-03-23 14:55:32)
 Update tampilan UI aplikasi agar lebih menarik dan memiliki daya tarik visual yang kuat untuk memikat para pengguna baru agar tertarik untuk mencoba dan terus menggunakan aplikasi tersebut dalam jangka panjang (2026-03-23 14:56:32)
+Fixing bug dimana aplikasi gak bisa simpan draft konten secara otomatis (2026-03-23 14:57:32)
