@@ -14474,3 +14474,4 @@ Benerin bug di bagian integrasi sistem manajemen file yang lebih tertata rapi da
 Fixing bug dimana aplikasi gak bisa jalan di background (2026-03-23 18:50:32)
 Nambahin fitur print invoice (2026-03-23 18:51:32)
 Nambahin fitur filter berdasarkan kategori yang paling banyak direkomendasikan oleh para ahli di bidangnya untuk membantu user dalam memilih opsi yang paling berkualitas dan sesuai dengan standar industri yang berlaku (2026-03-23 18:52:32)
+Fixing bug dimana keyboard nutupin input di HP (2026-03-23 18:53:32)
