@@ -14473,3 +14473,4 @@ Update tampilan UI aplikasi agar lebih memanjakan mata user (2026-03-23 18:48:32
 Benerin bug di bagian integrasi sistem manajemen file yang lebih tertata rapi dalam pengelolaannya sehingga user selalu bisa menemukan dokumen yang mereka perlukan dengan sangat cepat tanpa harus bersusah payah mencarinya satu per satu di tumpukan data yang sangat banyak yang telah terkumpul selama bertahun-tahun penggunaan aplikasi yang sangat membantu aktivitas mereka setiap harinya (2026-03-23 18:49:32)
 Fixing bug dimana aplikasi gak bisa jalan di background (2026-03-23 18:50:32)
 Nambahin fitur print invoice (2026-03-23 18:51:32)
+Nambahin fitur filter berdasarkan kategori yang paling banyak direkomendasikan oleh para ahli di bidangnya untuk membantu user dalam memilih opsi yang paling berkualitas dan sesuai dengan standar industri yang berlaku (2026-03-23 18:52:32)
