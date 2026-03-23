@@ -14179,3 +14179,4 @@ Fixing bug dimana aplikasi gak bisa nampilin data yang terupdate secara langsung
 Fixing bug dimana tombol 'Next' gak bisa diklik (2026-03-23 13:55:32)
 Fixing bug dimana aplikasi gak bisa jalan di background (2026-03-23 13:56:32)
 Fixing bug dimana aplikasi gak bisa handle input data dalam jumlah yang sangat masif sekaligus tanpa menyebabkan penggunaan daya baterai menjadi boros yang bisa mengganggu kenyamanan user saat menggunakan perangkat mobile (2026-03-23 13:57:32)
+Nambahin fitur ganti layout dashboard (2026-03-23 13:58:32)
