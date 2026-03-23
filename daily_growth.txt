@@ -14490,3 +14490,4 @@ Update sistem manajemen keamanan data user yang lebih transparan dan akuntabel s
 Fixing bug dimana notifikasi gak masuk (2026-03-23 19:06:32)
 Ada yang hapus CSS, sudah dikembalikan ke jalan yang benar (2026-03-23 19:07:32)
 Nambahin fitur filter berdasarkan kriteria yang sangat mudah digunakan dan membantu user dalam menemukan informasi yang mereka cari dengan sangat cepat tanpa harus melewati banyak langkah yang rumit dan membingungkan user (2026-03-23 19:08:32)
+Nambahin fitur rating dan review (2026-03-23 19:09:32)
