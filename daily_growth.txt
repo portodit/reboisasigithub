@@ -13940,3 +13940,4 @@ Nambahin fitur filter berdasarkan parameter yang sangat presisi dan mampu member
 Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih bijaksana dalam mengirimkan informasi agar user tidak merasa kewalahan dengan banyaknya pesan yang masuk dan tetap fokus pada hal yang paling penting (2026-03-23 07:17:14)
 Nambahin aria-label biar lebih accessible (2026-03-23 07:18:14)
 Update tampilan button hover effect (2026-03-23 07:19:14)
+Benerin bug di bagian manajemen permission (2026-03-23 07:20:14)
