@@ -14641,3 +14641,4 @@ Fixing bug dimana aplikasi gak bisa handle request yang parameternya sangat komp
 Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih memberikan keleluasaan bagi user untuk mengatur frekuensi dan jenis informasi yang ingin mereka terima agar aplikasi ini benar-benar terasa personal bagi user (2026-03-23 21:37:32)
 Nambahin fitur sinkronisasi dengan aplikasi desktop (2026-03-23 21:38:32)
 Benerin bug di bagian verifikasi identitas (2026-03-23 21:39:32)
+Dokumentasi API ditambahin dikit biar jelas (2026-03-23 21:40:32)
