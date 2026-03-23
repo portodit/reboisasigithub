@@ -14051,3 +14051,4 @@ Fixing bug dimana aplikasi gak bisa handle request yang memiliki tingkat urgensi
 Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih mudah dikustomisasi oleh user (2026-03-23 11:47:32)
 Nambahin fitur filter berdasarkan kategori yang paling banyak diminati oleh para pengguna di lokasi sekitar user untuk memberikan konteks lokal yang sangat berharga dan memudahkan user dalam berinteraksi dengan komunitas (2026-03-23 11:48:32)
 Fixing bug font yang pecah di sistem operasi tertentu (2026-03-23 11:49:32)
+Benerin bug di bagian validasi file extension (2026-03-23 11:50:32)
