@@ -14217,3 +14217,4 @@ Update tampilan UI aplikasi agar semakin menarik dan memiliki gaya desain yang s
 Nambahin fitur filter berdasarkan jarak terdekat (2026-03-23 14:33:32)
 Fixing bug dimana aplikasi gak bisa handle request yang bersifat krusial dan memiliki dampak langsung terhadap kepuasan user secara otomatis dan dengan tingkat keberhasilan yang tinggi (2026-03-23 14:34:32)
 Nambahin fitur filter berdasarkan bahasa konten (2026-03-23 14:35:32)
+Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih bijaksana dalam menyampaikan informasi agar user tidak merasa terganggu oleh banyaknya pesan yang masuk dan tetap fokus pada hal-hal yang benar-benar penting bagi mereka (2026-03-23 14:36:32)
