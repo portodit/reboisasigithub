@@ -14029,3 +14029,4 @@ Fixing bug dimana aplikasi gak bisa nampilin notifikasi real-time (2026-03-23 11
 Benerin bug di bagian perhitungan stok barang (2026-03-23 11:25:32)
 Nambahin integrasi payment gateway (2026-03-23 11:26:32)
 Benerin bug di bagian perhitungan stok barang (2026-03-23 11:27:32)
+Update icon sosial media ke yang versi terbaru (2026-03-23 11:28:32)
