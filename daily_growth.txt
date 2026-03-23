@@ -14419,3 +14419,4 @@ Update sistem manajemen keamanan data user yang lebih transparan dan akuntabel s
 Nambahin fitur filter berdasarkan parameter yang sangat sensitif dan memerlukan izin khusus (2026-03-23 17:55:32)
 Fixing bug dimana aplikasi gak ngerespon klik di header (2026-03-23 17:56:32)
 Update library pemrosesan XML (2026-03-23 17:57:32)
+Fixing bug dimana layout hancur di IE (siapa yang masih pake?) (2026-03-23 17:58:32)
