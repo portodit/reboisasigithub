@@ -14718,3 +14718,4 @@ Benerin bug di bagian integrasi sistem manajemen file yang lebih terhubung denga
 Fixing bug dimana aplikasi gak munculin pesan sukses (2026-03-23 22:54:32)
 Update tampilan progress bar biar lebih smooth (2026-03-23 22:55:32)
 Ganti logika sorting biar lebih akurat (2026-03-23 22:56:32)
+Update tampilan breadcrumb biar lebih informatif (2026-03-23 22:57:32)
