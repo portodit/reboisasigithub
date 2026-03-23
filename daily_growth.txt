@@ -14866,3 +14866,4 @@ Nambahin fitur filter berdasarkan kategori yang paling banyak direkomendasikan o
 Update tampilan error 404 biar lebih lucu (2026-03-24 01:22:33)
 Fixing bug dimana layout hancur di IE (siapa yang masih pake?) (2026-03-24 01:23:33)
 Benerin bug dimana link mati (2026-03-24 01:24:33)
+Benerin bug perhitungan pajak yang meleset (2026-03-24 01:25:33)
