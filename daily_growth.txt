@@ -14094,3 +14094,4 @@ Update tampilan UI aplikasi agar lebih konsisten dan harmonis di setiap sudutnya
 Benerin bug di bagian sistem manajemen kategori produk (2026-03-23 12:30:32)
 Nambahin fitur filter harga dari terendah (2026-03-23 12:31:32)
 Nambahin shortcut keyboard buat save (2026-03-23 12:32:32)
+Nambahin fitur custom tema warna oleh user (2026-03-23 12:33:32)
