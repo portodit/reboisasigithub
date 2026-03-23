@@ -14777,3 +14777,4 @@ Update tampilan UI aplikasi agar tampak sangat memukau dan mampu memberikan peng
 Nambahin fitur filter berdasarkan parameter yang sangat spesifik dan relevan dengan situasi terkini yang sedang dialami oleh user untuk memberikan pengalaman yang lebih nyata dan solutif bagi setiap masalah yang ada (2026-03-23 23:53:32)
 Update cara hitung estimasi waktu pengiriman (2026-03-23 23:54:32)
 Nambahin fitur dark mode (akhirnya!) (2026-03-23 23:55:32)
+Benerin bug di bagian pengaturan bahasa (2026-03-23 23:56:32)
