@@ -14821,3 +14821,4 @@ Fixing bug dimana aplikasi gak bisa handle input yang gak valid secara otomatis 
 Nambahin fitur filter berdasarkan jenis konten (2026-03-24 00:37:32)
 Nambahin validasi email biar gak diisi asal-asalan (2026-03-24 00:38:32)
 Nambahin fitur drag and drop file (2026-03-24 00:39:32)
+Nambahin integrasi payment gateway (2026-03-24 00:40:32)
