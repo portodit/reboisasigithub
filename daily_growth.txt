@@ -14089,3 +14089,4 @@ Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih pintar da
 Fixing bug dimana gambar gak responsif (2026-03-23 12:25:32)
 Update performa loading font eksternal (2026-03-23 12:26:32)
 Update sistem manajemen antrian tugas background yang lebih efisien (2026-03-23 12:27:32)
+Optimasi: ukuran bundle turun 2KB, lumayan lah ya (2026-03-23 12:28:32)
