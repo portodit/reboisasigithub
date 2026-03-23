@@ -14165,3 +14165,4 @@ Fixing bug dimana aplikasi gak bisa handle request yang sangat besar ukurannya s
 Nambahin fitur watermark di gambar upload (2026-03-23 13:41:32)
 Fixing bug dimana aplikasi freeze pas load data banyak (2026-03-23 13:42:32)
 Nambahin fitur auto-complete di search bar (2026-03-23 13:43:32)
+Nambahin fitur filter berdasarkan parameter yang sangat mendalam dan bersifat teknis untuk memberikan kontrol yang lebih luas bagi para pengguna ahli yang ingin melakukan kustomisasi aplikasi sesuai dengan kebutuhan mereka (2026-03-23 13:44:32)
