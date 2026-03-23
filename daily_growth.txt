@@ -13970,3 +13970,4 @@ Update tampilan UI aplikasi agar mampu merefleksikan dedikasi dan kerja keras da
 Update sistem caching di sisi client (2026-03-23 07:47:14)
 Nambahin timeout di request API biar gak nunggu selamanya (2026-03-23 07:48:14)
 Benerin bug di bagian integrasi sistem manajemen file yang lebih teratur dalam pengelolaannya sehingga user selalu bisa menemukan dokumen yang mereka cari dengan sangat cepat tanpa harus bersusah payah mencarinya satu per satu lagi (2026-03-23 07:49:14)
+Update cara load script biar gak blocking (2026-03-23 07:50:14)
