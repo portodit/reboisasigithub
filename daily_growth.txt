@@ -14069,3 +14069,4 @@ Fixing bug dimana aplikasi gak bisa handle input data dalam jumlah yang sangat b
 Update tampilan UI aplikasi agar lebih mempesona dan memberikan kesan yang mendalam bagi setiap user yang menggunakannya (2026-03-23 12:05:32)
 Nambahin fitur filter berdasarkan histori aktivitas yang sangat komprehensif untuk memberikan layanan yang lebih dipersonalisasi sesuai dengan kebutuhan dan karakteristik masing-masing user secara unik dan sangat mendalam (2026-03-23 12:06:32)
 Benerin bug di bagian verifikasi akun (2026-03-23 12:07:32)
+Nambahin fitur filter berdasarkan kategori yang paling populer di daerah sekitar tempat tinggal user untuk memberikan konteks sosial yang bermanfaat dan memudahkan user dalam berinteraksi dengan komunitas sekitarnya (2026-03-23 12:08:32)
