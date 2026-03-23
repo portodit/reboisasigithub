@@ -14242,3 +14242,4 @@ Fixing bug dimana aplikasi gak bisa simpan draft konten secara otomatis (2026-03
 Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih akurat dalam menentukan waktu yang paling tepat untuk mengirimkan pesan kepada setiap user secara individu (2026-03-23 14:58:32)
 Nambahin fitur filter berdasarkan ketersediaan stok (2026-03-23 14:59:32)
 Nambahin fitur filter berdasarkan kategori yang paling populer di daerah sekitar tempat tinggal user untuk memberikan konteks sosial yang bermanfaat dan memudahkan user dalam berinteraksi dengan komunitas sekitarnya (2026-03-23 15:00:32)
+Benerin bug di bagian manajemen tag (2026-03-23 15:01:32)
