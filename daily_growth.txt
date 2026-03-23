@@ -14606,3 +14606,4 @@ Fixing bug dimana aplikasi gak bisa handle request yang berdampak luas terhadap 
 Nambahin fitur filter berdasarkan histori interaksi user dengan tim teknis kami di masa lampau guna memberikan layanan yang lebih solutif dan memahami akar permasalahan yang mungkin dialami oleh user dengan lebih baik lagi (2026-03-23 21:02:32)
 Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih cerdas dan proaktif dalam mendeteksi upaya login yang tidak sah guna memberikan perlindungan maksimal bagi akun milik seluruh pengguna aplikasi (2026-03-23 21:03:32)
 Benerin bug di bagian tampilan form input yang overlap (2026-03-23 21:04:32)
+Ngilangin shadow yang terlalu lebay di card (2026-03-23 21:05:32)
