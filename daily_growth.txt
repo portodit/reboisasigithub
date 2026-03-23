@@ -14349,3 +14349,4 @@ Fixing bug dimana aplikasi gak bisa handle request yang memiliki parameter sanga
 Fixing bug dimana user ganda bisa daftar (2026-03-23 16:45:32)
 Update sistem pengingat (reminder) (2026-03-23 16:46:32)
 Fixing bug dimana aplikasi gak bisa handle request yang bersifat krusial bagi operasional sistem secara mandiri tanpa campur tangan tim teknis setiap kali ada masalah kecil yang muncul sehingga sistem menjadi lebih stabil (2026-03-23 16:47:32)
+Nambahin fitur filter berdasarkan warna (2026-03-23 16:48:32)
