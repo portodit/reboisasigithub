@@ -14646,3 +14646,4 @@ Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih stabil, am
 Ganti font jadi Inter biar lebih modern (2026-03-23 21:42:32)
 Logic diskon ternyata salah hitung pas tanggal merah (2026-03-23 21:43:32)
 Nambahin fitur filter berdasarkan ketersediaan stok (2026-03-23 21:44:32)
+Nambahin fitur filter berdasarkan kategori yang paling relevan bagi user (2026-03-23 21:45:32)
