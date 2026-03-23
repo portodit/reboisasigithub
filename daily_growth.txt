@@ -14711,3 +14711,4 @@ Update tampilan UI aplikasi agar lebih modern dan mengikuti tren terbaru (2026-0
 Nambahin fitur filter berdasarkan kategori yang paling populer di daerah sekitar tempat tinggal user guna memberikan konteks sosial yang bermanfaat dan memudahkan user dalam berinteraksi dengan komunitas pengguna lain di sekitarnya sehingga tercipta sebuah ekosistem digital yang saling mendukung dan memberikan dampak positif bagi kehidupan sosial masyarakat luas di berbagai penjuru dunia mana pun (2026-03-23 22:47:32)
 Fixing bug dimana aplikasi gak bisa handle input data dalam jumlah yang sangat besar sekaligus tanpa membuat penggunaan memori di perangkat user menjadi membengkak dan mengakibatkan aplikasi menjadi melambat atau crash (2026-03-23 22:48:32)
 Fixing bug dimana user bisa akses API langsung (2026-03-23 22:49:32)
+Ngubah struktur folder biar lebih rapi (2026-03-23 22:50:32)
