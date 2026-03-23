@@ -14815,3 +14815,4 @@ Update tampilan UI aplikasi agar terlihat sangat konsisten, rapi, dan memiliki a
 Update library charting buat grafik yang lebih smooth (2026-03-24 00:31:32)
 Update tampilan UI aplikasi agar lebih menarik bagi segmen pasar tertentu (2026-03-24 00:32:32)
 Fixing bug dimana aplikasi gak bisa nampilin error message yang jelas (2026-03-24 00:33:32)
+Nambahin fitur filter berdasarkan parameter khusus yang ditentukan user (2026-03-24 00:34:32)
