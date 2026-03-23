@@ -14875,3 +14875,4 @@ Nambahin fitur filter berdasarkan kriteria yang sangat memudahkan user dalam men
 Fixing bug dimana aplikasi gak bisa handle input yang sangat banyak sekali volumenya secara stabil (2026-03-24 01:31:33)
 Fixing bug dimana session tetap aktif meski browser ditutup (2026-03-24 01:32:33)
 Nambahin timeout di request API biar gak nunggu selamanya (2026-03-24 01:33:33)
+Ganti warna tombol jadi biru yang agak lebih gelap dikit (2026-03-24 01:34:33)
