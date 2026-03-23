@@ -14600,3 +14600,4 @@ Update sistem manajemen cache yang lebih hemat energi namun tetap mampu memberik
 Fixing bug dimana aplikasi gak bisa simpan setting user (2026-03-23 20:56:32)
 Benerin bug perhitungan pajak yang meleset (2026-03-23 20:57:32)
 Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih bijaksana dalam mengirimkan informasi agar user tidak merasa kewalahan dengan banyaknya pesan yang masuk dan tetap fokus pada hal yang paling penting (2026-03-23 20:58:32)
+Nambahin fitur filter berdasarkan kategori yang paling populer di daerah sekitar tempat tinggal user untuk memberikan konteks sosial yang bermanfaat dan memudahkan user dalam berinteraksi dengan komunitas sekitarnya (2026-03-23 20:59:32)
