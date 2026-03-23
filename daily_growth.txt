@@ -14373,3 +14373,4 @@ Benerin bug di bagian integrasi sistem manajemen file yang lebih terhubung denga
 Update tampilan UI aplikasi agar jauh lebih mudah digunakan oleh siapa saja tanpa perlu panduan yang rumit sehingga setiap user bisa langsung merasakan manfaat dari aplikasi ini sejak pertama kali mereka membukanya di HP (2026-03-23 17:09:32)
 Update tampilan login dengan animasi latar belakang (2026-03-23 17:10:32)
 Fixing bug dimana menu navigasi gak mau nutup (2026-03-23 17:11:32)
+Benerin bug di bagian tampilan struk (2026-03-23 17:12:32)
