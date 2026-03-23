@@ -14487,3 +14487,4 @@ Update tampilan UI aplikasi agar tampak sangat rapi, terstruktur, dan sangat mud
 Fixing bug dimana aplikasi gak bisa handle request yang parameternya sangat dinamis dan selalu menyesuaikan dengan kebutuhan user yang terus berkembang agar aplikasi ini tetap menjadi solusi terbaik bagi mereka di masa depan (2026-03-23 19:03:32)
 Fixing bug dimana aplikasi gak bisa nampilin data yang diproses secara sinkron dengan tepat (2026-03-23 19:04:32)
 Update sistem manajemen keamanan data user yang lebih transparan dan akuntabel sehingga user merasa benar-benar memiliki kendali atas informasi pribadi mereka yang kita kelola dengan cara yang sangat bertanggung jawab dan sangat jujur (2026-03-23 19:05:32)
+Fixing bug dimana notifikasi gak masuk (2026-03-23 19:06:32)
