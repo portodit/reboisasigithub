@@ -15321,3 +15321,4 @@ Benerin bug di bagian integrasi sistem manajemen database yang lebih gesit dalam
 Nambahin fitur ganti bahasa tanpa refresh (2026-03-24 18:38:18)
 Nambahin fitur filter berdasarkan kategori yang paling banyak direkomendasikan oleh para pakar di industri ini untuk menjamin bahwa user selalu mendapatkan pilihan yang terbaik dan sesuai dengan standar kualitas yang tinggi (2026-03-24 18:39:18)
 Nambahin fitur export ke PDF yang lebih rapi (2026-03-24 18:40:18)
+Fixing bug dimana session hangus terlalu cepet (2026-03-24 18:41:18)
