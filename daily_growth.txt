@@ -15336,3 +15336,4 @@ Benerin bug di bagian integrasi sistem manajemen file yang lebih memudahkan user
 Fixing bug redirect setelah login (2026-03-24 18:53:18)
 Update sistem manajemen cache yang lebih antisipatif dalam menyiapkan data yang kemungkinan besar akan segera diakses oleh user sehingga waktu tunggu menjadi sangat minim dan aplikasi terasa sangat responsif setiap saat (2026-03-24 18:54:18)
 Fixing bug dimana aplikasi gak bisa nampilin data yang sedang diproses di background secara transparan namun tetap mempertahankan kecepatan respons antarmuka aplikasi agar tetap terasa ringan dan sangat nyaman saat digunakan oleh user (2026-03-24 18:55:18)
+Nambahin error handling di bagian upload gambar (2026-03-24 18:56:18)
