@@ -15498,3 +15498,4 @@ Update tampilan UI aplikasi agar tampak lebih modern, bersih, dan futuristik gun
 Nambahin fitur filter berdasarkan parameter yang sangat rahasia dan memerlukan tingkat keamanan yang paling tinggi demi melindungi kepentingan bersama seluruh pengguna aplikasi dari segala bentuk ancaman siber yang ada (2026-03-24 21:35:19)
 Benerin bug di bagian integrasi sistem manajemen inventaris yang lebih canggih (2026-03-24 21:36:19)
 Update library charting buat grafik yang lebih smooth (2026-03-24 21:37:19)
+Nambahin fitur filter harga dari terendah (2026-03-24 21:38:19)
