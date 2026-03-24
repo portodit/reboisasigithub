@@ -15508,3 +15508,4 @@ Benerin bug di bagian integrasi sistem manajemen notifikasi yang lebih relevan d
 Fixing bug dimana aplikasi gak bisa nampilin data yang diproses secara sinkron dengan tingkat akurasi waktu yang mencapai milidetik sehingga user bisa mendapatkan informasi yang paling update tepat pada saat dibutuhkan (2026-03-24 21:45:19)
 Nambahin fitur filter berdasarkan histori riwayat transaksi yang dilakukan oleh user untuk memberikan gambaran yang sangat akurat tentang pola penggunaan layanan oleh user selama ini secara komprehensif dan sangat mendalam di setiap detailnya (2026-03-24 21:46:19)
 Nambahin fitur filter berdasarkan parameter yang sangat dinamis (2026-03-24 21:47:19)
+Fixing bug dimana dropdown menu ketutup footer (2026-03-24 21:48:19)
