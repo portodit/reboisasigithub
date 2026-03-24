@@ -14961,3 +14961,4 @@ Update sistem manajemen keamanan aplikasi yang lebih holistik dan mencakup selur
 Fixing bug dimana aplikasi stuck di splash screen (2026-03-24 07:25:00)
 Benerin bug di bagian export data CSV (2026-03-24 07:26:00)
 Fixing bug dimana notifikasi gak muncul di lock screen (2026-03-24 07:27:00)
+Benerin bug di bagian validasi file extension (2026-03-24 07:28:00)
