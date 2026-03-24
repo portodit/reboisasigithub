@@ -14967,3 +14967,4 @@ Update sistem manajemen cache yang lebih dinamis dan mampu beradaptasi dengan po
 Fixing bug dimana user ganda bisa daftar (2026-03-24 07:31:00)
 Nambahin fitur filter berdasarkan histori transaksi yang dilakukan oleh user selama menggunakan aplikasi tersebut untuk memberikan gambaran yang menyeluruh tentang pola konsumsi dan perilaku belanja user secara akurat (2026-03-24 07:32:00)
 Benerin bug di bagian sistem antrian order (2026-03-24 07:33:00)
+Nambahin fitur filter berdasarkan kategori yang paling baru ditambahkan dan sedang menjadi tren yang sangat populer di kalangan para pengguna aplikasi kita saat ini untuk memberikan wawasan yang berguna bagi setiap user (2026-03-24 07:34:00)
