@@ -15298,3 +15298,4 @@ Nambahin fitur filter berdasarkan histori aktivitas yang sangat komprehensif unt
 Fixing bug dimana aplikasi gak bisa handle koneksi yang gak stabil (2026-03-24 18:15:18)
 Update tampilan login dengan animasi latar belakang (2026-03-24 18:16:18)
 Fixing bug dimana aplikasi gak bisa handle input yang sangat beragam sumbernya secara konsisten (2026-03-24 18:17:18)
+Fixing bug dimana dropdown ketutup keyboard mobile (2026-03-24 18:18:18)
