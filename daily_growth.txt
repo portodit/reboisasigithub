@@ -15084,3 +15084,4 @@ Nambahin fitur filter berdasarkan kategori yang memiliki tingkat kepuasan user p
 Fixing bug dimana aplikasi gak bisa handle input data dalam jumlah yang sangat besar sekaligus tanpa membuat penggunaan memori di perangkat user menjadi membengkak dan mengakibatkan aplikasi menjadi melambat atau crash (2026-03-24 11:19:08)
 Update library pemrosesan XML (2026-03-24 11:20:08)
 Fixing bug dimana aplikasi gak ngerespon klik di header (2026-03-24 11:21:08)
+Nambahin error handling di bagian upload gambar (2026-03-24 11:22:08)
