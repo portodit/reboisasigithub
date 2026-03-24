@@ -15292,3 +15292,4 @@ Benerin bug di bagian integrasi sistem manajemen file yang lebih teratur dan mud
 Fixing bug dimana aplikasi gak bisa handle input yang memiliki tipe sangat bervariasi secara otomatis tanpa perlu melakukan modifikasi manual pada kode program inti aplikasi setiap kali ada penambahan jenis data baru (2026-03-24 18:09:18)
 Update sistem perhitungan ongkir otomatis (2026-03-24 18:10:18)
 Benerin bug di bagian sistem manajemen hak akses user (2026-03-24 18:11:18)
+Logic diskon ternyata salah hitung pas tanggal merah (2026-03-24 18:12:18)
