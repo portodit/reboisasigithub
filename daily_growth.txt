@@ -15380,3 +15380,4 @@ Nambahin fitur filter berdasarkan histori interaksi user dengan tim teknis kami 
 Fixing bug dimana dropdown menu ketutup footer (2026-03-24 19:37:18)
 Fixing bug dimana notifikasi gak masuk (2026-03-24 19:38:18)
 Nambahin cache biar gak sering-sering request ke server (2026-03-24 19:39:18)
+Fixing bug dimana session hangus terlalu cepet (2026-03-24 19:40:18)
