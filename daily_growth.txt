@@ -15167,3 +15167,4 @@ Benerin bug di bagian integrasi sistem manajemen sesi user yang lebih intuitif d
 Benerin bug di bagian integrasi sistem manajemen file yang lebih cepat dan efisien dalam menangani proses pengiriman data yang memiliki ukuran sangat besar sekalipun (2026-03-24 13:04:00)
 Update icon sosial media ke yang versi terbaru (2026-03-24 13:05:01)
 Typo di README yang bikin risih akhirnya fix (2026-03-24 13:06:00)
+Nambahin fitur filter berdasarkan ketersediaan fitur (2026-03-24 13:07:00)
