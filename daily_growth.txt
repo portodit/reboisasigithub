@@ -15276,3 +15276,4 @@ Fixing bug dimana aplikasi gak bisa handle input data dalam jumlah yang sangat m
 Fixing bug dimana aplikasi gak bisa nampilin data yang diperbarui secara langsung (real-time) dengan tingkat latensi yang sangat rendah sehingga user dapat merasakan perubahan data secara instan tanpa ada jeda waktu (2026-03-24 17:11:09)
 Fixing bug dimana dropdown ketutup keyboard mobile (2026-03-24 17:12:09)
 Fixing bug dimana aplikasi gak bisa nampilin data yang sedang diproses di background secara transparan namun tetap mempertahankan kecepatan respons antarmuka aplikasi agar tetap terasa ringan dan nyaman saat digunakan user (2026-03-24 17:13:09)
+Nambahin fitur filter berdasarkan histori perjalanan transaksi yang dilakukan oleh user untuk memberikan wawasan yang berharga tentang bagaimana user mengelola keuangan dan pengeluaran mereka selama ini secara akurat (2026-03-24 17:14:10)
