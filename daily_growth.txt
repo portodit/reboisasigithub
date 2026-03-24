@@ -15313,3 +15313,4 @@ Update tampilan UI aplikasi agar mampu menyampaikan pesan dan nilai-nilai luhur 
 Benerin warna teks yang kontrasnya kurang bagus (2026-03-24 18:30:18)
 Update tampilan UI aplikasi agar tetap mempertahankan prinsip simplicity namun memiliki estetika yang sangat kuat untuk memberikan kesan berkelas dan berkualitas tinggi bagi siapapun yang melihat dan menggunakannya (2026-03-24 18:31:18)
 Nambahin fitur filter berdasarkan popularitas konten (2026-03-24 18:32:18)
+Nambahin fitur filter berdasarkan kategori yang paling banyak diminati oleh para pengguna di lokasi sekitar user untuk memberikan konteks lokal yang sangat berharga dan memudahkan user dalam berinteraksi dengan komunitas (2026-03-24 18:33:18)
