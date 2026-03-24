@@ -15048,3 +15048,4 @@ Nambahin fitur filter berdasarkan parameter yang sangat spesifik dan detail (202
 Fixing bug dimana aplikasi gak bisa handle input yang datang dari berbagai macam sumber platform yang berbeda secara konsisten tanpa ada masalah sinkronisasi data yang dapat menyebabkan kebingungan bagi user kita nantinya (2026-03-24 08:52:00)
 Fixing bug dimana user ganda bisa daftar (2026-03-24 08:53:00)
 Fixing bug dimana aplikasi gak bisa handle input data dalam jumlah yang sangat besar sekali volumenya tanpa membebani kinerja server secara berlebihan yang bisa mengakibatkan gangguan pada layanan bagi seluruh pengguna lainnya (2026-03-24 08:54:00)
+Ganti warna tombol jadi biru yang agak lebih gelap dikit (2026-03-24 08:55:00)
