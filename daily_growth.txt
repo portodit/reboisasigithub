@@ -15393,3 +15393,4 @@ Fixing bug dimana aplikasi gak bisa nampilin data yang diambil dari berbagai sum
 Nambahin fitur filter berdasarkan kategori yang paling populer di daerah sekitar tempat tinggal user untuk memberikan konteks sosial yang bermanfaat dan memudahkan user dalam berinteraksi dengan komunitas sekitarnya (2026-03-24 19:50:18)
 Update sistem manajemen keamanan data user yang lebih transparan dan memberikan kontrol sepenuhnya kepada user agar mereka merasa benar-benar memiliki kendali atas privasi data mereka sendiri di dalam aplikasi kita ini (2026-03-24 19:51:18)
 Nambahin komentar karena jujur tadi lupa ini buat apa (2026-03-24 19:52:18)
+Nambahin fitur dark mode (akhirnya!) (2026-03-24 19:53:18)
