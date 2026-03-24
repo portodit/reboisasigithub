@@ -14994,3 +14994,4 @@ Update sistem manajemen cache yang lebih mudah diatur dan dikonfigurasi (2026-03
 Fixing bug dimana notifikasi gak muncul di lock screen (2026-03-24 07:58:00)
 Nambahin fitur filter berdasarkan parameter yang sangat teknis dan spesifik untuk memberikan kendali yang lebih dalam bagi para user ahli yang ingin mengoptimalkan penggunaan aplikasi sesuai dengan spesifikasi kerja mereka (2026-03-24 07:59:00)
 Fixing bug dimana aplikasi gak bisa dibuka di mode incognito (2026-03-24 08:00:00)
+Fixing bug dimana aplikasi gak mau load di Chrome versi lama (2026-03-24 08:01:00)
