@@ -15339,3 +15339,4 @@ Fixing bug dimana aplikasi gak bisa nampilin data yang sedang diproses di backgr
 Nambahin error handling di bagian upload gambar (2026-03-24 18:56:18)
 Nambahin log buat tracking aktivitas user (2026-03-24 18:57:18)
 Benerin bug di bagian integrasi sistem manajemen file yang lebih memudahkan user dalam merapikan dokumen-dokumen mereka secara sistematis sehingga semua file penting selalu dalam jangkauan dan mudah untuk dikelola kembali (2026-03-24 18:58:18)
+Nambahin fitur 'Forgot Password' (2026-03-24 18:59:18)
