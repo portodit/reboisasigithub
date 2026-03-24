@@ -15239,3 +15239,4 @@ Fixing bug dimana aplikasi gak bisa handle input yang memiliki tipe sangat berva
 Update sistem manajemen keamanan data user yang lebih canggih dan dilengkapi dengan fitur deteksi dini terhadap segala bentuk aktivitas mencurigakan yang dapat mengancam integritas data dan akun milik para pengguna (2026-03-24 16:34:09)
 Fixing bug dimana teks overlap sama gambar (2026-03-24 16:35:09)
 Fix bug yang muncul cuma pas hari Jumat sore (2026-03-24 16:36:09)
+Nambahin fitur 'Forgot Password' (2026-03-24 16:37:09)
